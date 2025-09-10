@@ -1,0 +1,1501 @@
+model,word,repeat,raw_response,extracted_probability,timestamp,thread_id,retry_count
+google/gemini-2.5-flash-lite-preview-06-17,A good chance,3,0.75,0.75,2025-09-10T09:54:52.347306,Worker-18,0
+google/gemini-2.5-flash-lite-preview-06-17,A good chance,5,0.75,0.75,2025-09-10T09:54:52.351428,Worker-20,0
+google/gemini-2.5-flash-lite-preview-06-17,Almost certain,1,0.95,0.95,2025-09-10T09:54:52.360183,Worker-6,0
+google/gemini-2.5-flash-lite-preview-06-17,Highly probable,4,0.9,0.9,2025-09-10T09:54:52.363321,Worker-14,0
+google/gemini-2.5-flash-lite-preview-06-17,Highly probable,3,0.9,0.9,2025-09-10T09:54:52.414691,Worker-13,0
+google/gemini-2.5-flash-lite-preview-06-17,Definite,5,1.0,1.0,2025-09-10T09:54:52.419177,Worker-5,0
+google/gemini-2.5-flash-lite-preview-06-17,Almost certain,5,0.95,0.95,2025-09-10T09:54:52.425166,Worker-10,0
+google/gemini-2.5-flash-lite-preview-06-17,Definite,1,1.0,1.0,2025-09-10T09:54:52.460416,Worker-1,0
+google/gemini-2.5-flash-lite-preview-06-17,Almost certain,3,0.95,0.95,2025-09-10T09:54:52.502524,Worker-8,0
+google/gemini-2.5-flash-lite-preview-06-17,A good chance,2,0.75,0.75,2025-09-10T09:54:52.507119,Worker-17,0
+google/gemini-2.5-flash-lite-preview-06-17,Definite,3,1.0,1.0,2025-09-10T09:54:52.552988,Worker-3,0
+google/gemini-2.5-flash-lite-preview-06-17,Definite,4,1.0,1.0,2025-09-10T09:54:52.588753,Worker-4,0
+google/gemini-2.5-flash-lite-preview-06-17,Highly probable,1,0.9,0.9,2025-09-10T09:54:52.595630,Worker-11,0
+google/gemini-2.5-flash-lite-preview-06-17,Almost certain,4,0.95,0.95,2025-09-10T09:54:52.605946,Worker-9,0
+google/gemini-2.5-flash-lite-preview-06-17,Highly probable,5,0.9,0.9,2025-09-10T09:54:52.615895,Worker-15,0
+google/gemini-2.5-flash-lite-preview-06-17,A good chance,1,0.75,0.75,2025-09-10T09:54:52.633296,Worker-16,0
+google/gemini-2.5-flash-lite-preview-06-17,Almost certain,2,0.95,0.95,2025-09-10T09:54:52.643428,Worker-7,0
+google/gemini-2.5-flash-lite-preview-06-17,Highly probable,2,0.9,0.9,2025-09-10T09:54:52.657996,Worker-12,0
+google/gemini-2.5-flash-lite-preview-06-17,A good chance,4,0.75,0.75,2025-09-10T09:54:52.719234,Worker-19,0
+google/gemini-2.5-flash-lite-preview-06-17,Definite,2,1.0,1.0,2025-09-10T09:54:52.826439,Worker-2,0
+google/gemini-2.5-flash-lite-preview-06-17,Likely,4,0.7,0.7,2025-09-10T09:54:52.935494,Worker-14,0
+google/gemini-2.5-flash-lite-preview-06-17,Quite likely,1,0.8,0.8,2025-09-10T09:54:53.035302,Worker-5,0
+google/gemini-2.5-flash-lite-preview-06-17,Likely,1,0.75,0.75,2025-09-10T09:54:53.098484,Worker-18,0
+google/gemini-2.5-flash-lite-preview-06-17,Quite likely,3,0.8,0.8,2025-09-10T09:54:53.140611,Worker-1,0
+google/gemini-2.5-flash-lite-preview-06-17,Likely,2,0.75,0.75,2025-09-10T09:54:53.149058,Worker-20,0
+google/gemini-2.5-flash-lite-preview-06-17,Likely,3,0.75,0.75,2025-09-10T09:54:53.176210,Worker-6,0
+google/gemini-2.5-flash-lite-preview-06-17,Quite likely,4,0.8,0.8,2025-09-10T09:54:53.264629,Worker-8,0
+google/gemini-2.5-flash-lite-preview-06-17,Probable,1,0.75,0.75,2025-09-10T09:54:53.285657,Worker-16,0
+google/gemini-2.5-flash-lite-preview-06-17,Better than even,3,0.6,0.6,2025-09-10T09:54:53.292144,Worker-11,0
+google/gemini-2.5-flash-lite-preview-06-17,Likely,5,0.75,0.75,2025-09-10T09:54:53.321363,Worker-13,0
+google/gemini-2.5-flash-lite-preview-06-17,Quite likely,2,0.85,0.85,2025-09-10T09:54:53.357964,Worker-10,0
+google/gemini-2.5-flash-lite-preview-06-17,Better than even,2,0.65,0.65,2025-09-10T09:54:53.369905,Worker-4,0
+google/gemini-2.5-flash-lite-preview-06-17,Probable,3,0.75,0.75,2025-09-10T09:54:53.422217,Worker-12,0
+google/gemini-2.5-flash-lite-preview-06-17,Better than even,1,0.65,0.65,2025-09-10T09:54:53.430881,Worker-3,0
+google/gemini-2.5-flash-lite-preview-06-17,Probable,4,0.75,0.75,2025-09-10T09:54:53.433813,Worker-19,0
+google/gemini-2.5-flash-lite-preview-06-17,Better than even,4,0.6,0.6,2025-09-10T09:54:53.446755,Worker-9,0
+google/gemini-2.5-flash-lite-preview-06-17,Probable,2,0.75,0.75,2025-09-10T09:54:53.572593,Worker-7,0
+google/gemini-2.5-flash-lite-preview-06-17,Quite likely,5,0.8,0.8,2025-09-10T09:54:53.647927,Worker-17,0
+google/gemini-2.5-flash-lite-preview-06-17,Possible,1,0.6,0.6,2025-09-10T09:54:53.717329,Worker-14,0
+google/gemini-2.5-flash-lite-preview-06-17,Probable,5,0.75,0.75,2025-09-10T09:54:53.771363,Worker-2,0
+google/gemini-2.5-flash-lite-preview-06-17,Possible,2,0.5,0.5,2025-09-10T09:54:53.786381,Worker-5,0
+google/gemini-2.5-flash-lite-preview-06-17,Possible,5,0.5,0.5,2025-09-10T09:54:53.838792,Worker-20,0
+google/gemini-2.5-flash-lite-preview-06-17,Improbable,2,0.1,0.1,2025-09-10T09:54:53.962053,Worker-8,0
+google/gemini-2.5-flash-lite-preview-06-17,Improbable,4,0.15,0.15,2025-09-10T09:54:53.967249,Worker-11,0
+google/gemini-2.5-flash-lite-preview-06-17,Improbable,5,0.1,0.1,2025-09-10T09:54:54.020199,Worker-13,0
+google/gemini-2.5-flash-lite-preview-06-17,Improbable,1,0.15,0.15,2025-09-10T09:54:54.029775,Worker-6,0
+google/gemini-2.5-flash-lite-preview-06-17,Highly unlikely,2,0.1,0.1,2025-09-10T09:54:54.036196,Worker-4,0
+google/gemini-2.5-flash-lite-preview-06-17,Highly unlikely,1,0.05,0.05,2025-09-10T09:54:54.071861,Worker-10,0
+google/gemini-2.5-flash-lite-preview-06-17,Unlikely,1,0.2,0.2,2025-09-10T09:54:54.076325,Worker-9,0
+google/gemini-2.5-flash-lite-preview-06-17,Possible,3,0.5,0.5,2025-09-10T09:54:54.099946,Worker-18,0
+google/gemini-2.5-flash-lite-preview-06-17,Improbable,3,0.15,0.15,2025-09-10T09:54:54.142749,Worker-16,0
+google/gemini-2.5-flash-lite-preview-06-17,Possible,4,0.5,0.5,2025-09-10T09:54:54.179668,Worker-1,0
+google/gemini-2.5-flash-lite-preview-06-17,Unlikely,2,0.15,0.15,2025-09-10T09:54:54.282637,Worker-7,0
+google/gemini-2.5-flash-lite-preview-06-17,Highly unlikely,5,0.1,0.1,2025-09-10T09:54:54.292350,Worker-19,0
+google/gemini-2.5-flash-lite-preview-06-17,Unlikely,3,0.2,0.2,2025-09-10T09:54:54.352427,Worker-17,0
+google/gemini-2.5-flash-lite-preview-06-17,Unlikely,5,0.15,0.15,2025-09-10T09:54:54.410381,Worker-2,0
+google/gemini-2.5-flash-lite-preview-06-17,Highly unlikely,3,0.05,0.05,2025-09-10T09:54:54.412221,Worker-12,0
+google/gemini-2.5-flash-lite-preview-06-17,Unlikely,4,0.1,0.1,2025-09-10T09:54:54.413572,Worker-14,0
+google/gemini-2.5-flash-lite-preview-06-17,Highly unlikely,4,0.05,0.05,2025-09-10T09:54:54.485926,Worker-3,0
+google/gemini-2.5-flash-lite-preview-06-17,Seldom,1,0.15,0.15,2025-09-10T09:54:54.587408,Worker-5,0
+google/gemini-2.5-flash-lite-preview-06-17,Seldom,4,0.15,0.15,2025-09-10T09:54:54.604838,Worker-11,0
+google/gemini-2.5-flash-lite-preview-06-17,Seldom,2,0.15,0.15,2025-09-10T09:54:54.643506,Worker-20,0
+google/gemini-2.5-flash-lite-preview-06-17,Seldom,5,0.15,0.15,2025-09-10T09:54:54.730571,Worker-13,0
+google/gemini-2.5-flash-lite-preview-06-17,Rare,2,0.1,0.1,2025-09-10T09:54:54.752612,Worker-1,0
+google/gemini-2.5-flash-lite-preview-06-17,Better than even,5,0.65,0.65,2025-09-10T09:54:54.786987,Worker-15,0
+google/gemini-2.5-flash-lite-preview-06-17,Impossible,3,0.0,0.0,2025-09-10T09:54:54.820030,Worker-10,0
+google/gemini-2.5-flash-lite-preview-06-17,Impossible,5,0.0,0.0,2025-09-10T09:54:54.846530,Worker-18,0
+google/gemini-2.5-flash-lite-preview-06-17,Rare,1,0.05,0.05,2025-09-10T09:54:54.868024,Worker-16,0
+google/gemini-2.5-flash-lite-preview-06-17,Impossible,2,0.0,0.0,2025-09-10T09:54:54.899435,Worker-4,0
+google/gemini-2.5-flash-lite-preview-06-17,Impossible,4,0.0,0.0,2025-09-10T09:54:54.911623,Worker-9,0
+google/gemini-2.5-flash-lite-preview-06-17,Rare,3,0.05,0.05,2025-09-10T09:54:54.966232,Worker-7,0
+google/gemini-2.5-flash-lite-preview-06-17,Rare,5,0.05,0.05,2025-09-10T09:54:54.969381,Worker-17,0
+google/gemini-2.5-flash-lite-preview-06-17,Rare,4,0.05,0.05,2025-09-10T09:54:54.974749,Worker-19,0
+google/gemini-2.5-flash-lite-preview-06-17,Seldom,3,0.1,0.1,2025-09-10T09:54:54.978588,Worker-8,0
+google/gemini-2.5-flash,Definite,2,0.99,0.99,2025-09-10T09:54:55.043386,Worker-12,0
+google/gemini-2.5-flash,Definite,1,1.0,1.0,2025-09-10T09:54:55.048467,Worker-2,0
+google/gemini-2.5-flash,Definite,3,1.0,1.0,2025-09-10T09:54:55.088585,Worker-14,0
+google/gemini-2.5-flash,Almost certain,2,0.95,0.95,2025-09-10T09:54:55.136860,Worker-20,0
+google/gemini-2.5-flash,Almost certain,1,0.95,0.95,2025-09-10T09:54:55.252562,Worker-11,0
+google/gemini-2.5-flash,Definite,4,1.0,1.0,2025-09-10T09:54:55.263510,Worker-3,0
+google/gemini-2.5-flash-lite-preview-06-17,Impossible,1,0.0,0.0,2025-09-10T09:54:55.305427,Worker-6,0
+google/gemini-2.5-flash,Almost certain,5,0.95,0.95,2025-09-10T09:54:55.411026,Worker-15,0
+google/gemini-2.5-flash,Highly probable,1,0.9,0.9,2025-09-10T09:54:55.434036,Worker-10,0
+google/gemini-2.5-flash,Definite,5,1.0,1.0,2025-09-10T09:54:55.516948,Worker-5,0
+google/gemini-2.5-flash,Highly probable,3,0.9,0.9,2025-09-10T09:54:55.525198,Worker-16,0
+google/gemini-2.5-flash,Almost certain,4,0.99,0.99,2025-09-10T09:54:55.543701,Worker-1,0
+google/gemini-2.5-flash,Highly probable,4,0.9,0.9,2025-09-10T09:54:55.568430,Worker-4,0
+google/gemini-2.5-flash,Highly probable,5,0.9,0.9,2025-09-10T09:54:55.575612,Worker-9,0
+google/gemini-2.5-flash,Highly probable,2,0.9,0.9,2025-09-10T09:54:55.595791,Worker-18,0
+google/gemini-2.5-flash,A good chance,2,0.7,0.7,2025-09-10T09:54:55.630702,Worker-17,0
+google/gemini-2.5-flash,A good chance,4,0.7,0.7,2025-09-10T09:54:55.656979,Worker-8,0
+google/gemini-2.5-flash,A good chance,5,0.75,0.75,2025-09-10T09:54:55.677378,Worker-12,0
+google/gemini-2.5-flash,Almost certain,3,0.95,0.95,2025-09-10T09:54:55.686736,Worker-13,0
+google/gemini-2.5-flash,A good chance,1,0.75,0.75,2025-09-10T09:54:55.692361,Worker-7,0
+google/gemini-2.5-flash,Likely,1,0.75,0.75,2025-09-10T09:54:55.795170,Worker-2,0
+google/gemini-2.5-flash,Likely,5,0.7,0.7,2025-09-10T09:54:55.837902,Worker-3,0
+google/gemini-2.5-flash,A good chance,3,0.75,0.75,2025-09-10T09:54:55.874259,Worker-19,0
+google/gemini-2.5-flash,Likely,2,0.7,0.7,2025-09-10T09:54:55.877480,Worker-14,0
+google/gemini-2.5-flash,Likely,3,0.75,0.75,2025-09-10T09:54:55.928241,Worker-20,0
+google/gemini-2.5-flash,Quite likely,2,0.7,0.7,2025-09-10T09:54:55.977469,Worker-15,0
+google/gemini-2.5-flash,Likely,4,0.75,0.75,2025-09-10T09:54:56.057318,Worker-11,0
+google/gemini-2.5-flash,Quite likely,3,0.7,0.7,2025-09-10T09:54:56.149129,Worker-10,0
+google/gemini-2.5-flash,Probable,1,0.75,0.75,2025-09-10T09:54:56.248934,Worker-8,0
+google/gemini-2.5-flash,Probable,3,0.7,0.7,2025-09-10T09:54:56.255998,Worker-13,0
+google/gemini-2.5-flash,Better than even,4,0.6,0.6,2025-09-10T09:54:56.289674,Worker-18,0
+google/gemini-2.5-flash,Quite likely,5,0.75,0.75,2025-09-10T09:54:56.308533,Worker-16,0
+google/gemini-2.5-flash,Probable,4,0.75,0.75,2025-09-10T09:54:56.337522,Worker-7,0
+google/gemini-2.5-flash,Probable,2,0.7,0.7,2025-09-10T09:54:56.350488,Worker-12,0
+google/gemini-2.5-flash,Better than even,1,0.7,0.7,2025-09-10T09:54:56.351884,Worker-1,0
+google/gemini-2.5-flash,Probable,5,0.75,0.75,2025-09-10T09:54:56.365936,Worker-2,0
+google/gemini-2.5-flash,Better than even,5,0.65,0.65,2025-09-10T09:54:56.451913,Worker-17,0
+google/gemini-2.5-flash,Possible,2,0.5,0.5,2025-09-10T09:54:56.563297,Worker-19,0
+google/gemini-2.5-flash,Possible,4,0.5,0.5,2025-09-10T09:54:56.641231,Worker-20,0
+google/gemini-2.5-flash,Quite likely,1,0.75,0.75,2025-09-10T09:54:56.655977,Worker-6,0
+google/gemini-2.5-flash,Quite likely,4,0.75,0.75,2025-09-10T09:54:56.709309,Worker-5,0
+google/gemini-2.5-flash,Better than even,2,0.7,0.7,2025-09-10T09:54:56.757042,Worker-4,0
+google/gemini-2.5-flash,Possible,1,0.5,0.5,2025-09-10T09:54:56.766693,Worker-3,0
+google/gemini-2.5-flash,Improbable,2,0.1,0.1,2025-09-10T09:54:56.782990,Worker-10,0
+google/gemini-2.5-flash,Possible,5,0.5,0.5,2025-09-10T09:54:56.792790,Worker-15,0
+google/gemini-2.5-flash,Better than even,3,0.65,0.65,2025-09-10T09:54:56.814066,Worker-9,0
+google/gemini-2.5-flash,Improbable,4,0.15,0.15,2025-09-10T09:54:56.900392,Worker-13,0
+google/gemini-2.5-flash,Highly unlikely,1,0.1,0.1,2025-09-10T09:54:56.985021,Worker-16,0
+google/gemini-2.5-flash,Highly unlikely,3,0.05,0.05,2025-09-10T09:54:57.052009,Worker-12,0
+google/gemini-2.5-flash,Highly unlikely,4,0.1,0.1,2025-09-10T09:54:57.053564,Worker-1,0
+google/gemini-2.5-flash,Improbable,5,0.1,0.1,2025-09-10T09:54:57.067751,Worker-18,0
+google/gemini-2.5-flash,Unlikely,1,0.2,0.2,2025-09-10T09:54:57.103159,Worker-17,0
+google/gemini-2.5-flash,Improbable,1,0.15,0.15,2025-09-10T09:54:57.110544,Worker-11,0
+google/gemini-2.5-flash,Possible,3,0.5,0.5,2025-09-10T09:54:57.149061,Worker-14,0
+google/gemini-2.5-flash,Unlikely,2,0.2,0.2,2025-09-10T09:54:57.194351,Worker-19,0
+google/gemini-2.5-flash,Unlikely,4,0.2,0.2,2025-09-10T09:54:57.352162,Worker-6,0
+google/gemini-2.5-flash,Seldom,2,0.1,0.1,2025-09-10T09:54:57.373025,Worker-3,0
+google/gemini-2.5-flash,Unlikely,3,0.2,0.2,2025-09-10T09:54:57.389422,Worker-20,0
+google/gemini-2.5-flash,Seldom,1,0.15,0.15,2025-09-10T09:54:57.390480,Worker-4,0
+google/gemini-2.5-flash,Highly unlikely,5,0.1,0.1,2025-09-10T09:54:57.396243,Worker-2,0
+google/gemini-2.5-flash,Improbable,3,0.1,0.1,2025-09-10T09:54:57.482080,Worker-8,0
+google/gemini-2.5-flash,Unlikely,5,0.2,0.2,2025-09-10T09:54:57.507950,Worker-5,0
+google/gemini-2.5-flash,Seldom,3,0.1,0.1,2025-09-10T09:54:57.539983,Worker-10,0
+google/gemini-2.5-flash,Impossible,4,0.0,0.0,2025-09-10T09:54:57.562107,Worker-1,0
+google/gemini-2.5-flash,Seldom,4,0.2,0.2,2025-09-10T09:54:57.605862,Worker-15,0
+google/gemini-2.5-flash,Impossible,1,0.0,0.0,2025-09-10T09:54:57.644260,Worker-13,0
+google/gemini-2.5-flash,Highly unlikely,2,0.1,0.1,2025-09-10T09:54:57.660609,Worker-7,0
+google/gemini-2.5-flash,Rare,4,0.1,0.1,2025-09-10T09:54:57.681759,Worker-19,0
+google/gemini-2.5-flash,Rare,1,0.1,0.1,2025-09-10T09:54:57.730230,Worker-17,0
+google/gemini-2.5-flash,Impossible,3,0.0,0.0,2025-09-10T09:54:57.784159,Worker-12,0
+google/gemini-2.5-flash,Rare,3,0.1,0.1,2025-09-10T09:54:57.790913,Worker-14,0
+google/gemini-2.5-flash,Impossible,5,0.0,0.0,2025-09-10T09:54:57.799654,Worker-18,0
+google/gemini-2.5-flash,Impossible,2,0.0,0.0,2025-09-10T09:54:57.806103,Worker-16,0
+google/gemini-2.5-flash,Seldom,5,0.15,0.15,2025-09-10T09:54:57.859939,Worker-9,0
+google/gemini-2.5-flash,Rare,5,0.1,0.1,2025-09-10T09:54:58.070851,Worker-6,0
+google/gemini-2.5-flash,Rare,2,0.1,0.1,2025-09-10T09:54:58.221765,Worker-11,0
+google/gemini-2.5-pro,Almost certain,5,0.98,0.98,2025-09-10T09:55:00.590530,Worker-13,0
+google/gemini-2.5-pro,Definite,5,1.0,1.0,2025-09-10T09:55:01.785681,Worker-8,0
+google/gemini-2.5-pro,Definite,3,1.0,1.0,2025-09-10T09:55:02.218697,Worker-4,0
+google/gemini-2.5-pro,Almost certain,2,0.98,0.98,2025-09-10T09:55:03.699133,Worker-10,0
+google/gemini-2.5-pro,Definite,1,1.0,1.0,2025-09-10T09:55:03.994446,Worker-3,0
+google/gemini-2.5-pro,Definite,4,1.0,1.0,2025-09-10T09:55:04.160280,Worker-2,0
+google/gemini-2.5-pro,Definite,2,1.0,1.0,2025-09-10T09:55:04.643011,Worker-20,0
+google/gemini-2.5-pro,Highly probable,4,0.9,0.9,2025-09-10T09:55:05.117444,Worker-12,0
+google/gemini-2.5-pro,Highly probable,2,0.9,0.9,2025-09-10T09:55:05.846099,Worker-19,0
+google/gemini-2.5-pro,A good chance,4,0.75,0.75,2025-09-10T09:55:06.344554,Worker-6,0
+google/gemini-2.5-pro,A good chance,1,0.7,0.7,2025-09-10T09:55:07.106582,Worker-18,0
+google/gemini-2.5-pro,Highly probable,3,0.9,0.9,2025-09-10T09:55:07.245095,Worker-17,0
+google/gemini-2.5-pro,A good chance,2,0.8,0.8,2025-09-10T09:55:07.291516,Worker-16,0
+google/gemini-2.5-pro,Highly probable,5,0.9,0.9,2025-09-10T09:55:07.515623,Worker-14,0
+google/gemini-2.5-pro,A good chance,3,0.7,0.7,2025-09-10T09:55:07.934146,Worker-9,0
+google/gemini-2.5-pro,Highly probable,1,0.9,0.9,2025-09-10T09:55:08.334931,Worker-7,0
+google/gemini-2.5-pro,Almost certain,4,0.98,0.98,2025-09-10T09:55:09.528031,Worker-15,0
+google/gemini-2.5-pro,Almost certain,3,0.98,0.98,2025-09-10T09:55:09.549416,Worker-1,0
+google/gemini-2.5-pro,A good chance,5,0.7,0.7,2025-09-10T09:55:10.731804,Worker-11,0
+google/gemini-2.5-pro,Quite likely,1,0.8,0.8,2025-09-10T09:55:11.380061,Worker-2,0
+google/gemini-2.5-pro,Likely,3,0.75,0.75,2025-09-10T09:55:11.433635,Worker-4,0
+google/gemini-2.5-pro,Almost certain,1,0.98,0.98,2025-09-10T09:55:12.038443,Worker-5,0
+google/gemini-2.5-pro,Likely,4,0.7,0.7,2025-09-10T09:55:12.862257,Worker-10,0
+google/gemini-2.5-pro,Quite likely,4,0.8,0.8,2025-09-10T09:55:13.316453,Worker-19,0
+google/gemini-2.5-pro,Quite likely,2,0.85,0.85,2025-09-10T09:55:13.829730,Worker-20,0
+google/gemini-2.5-pro,Better than even,3,0.65,0.65,2025-09-10T09:55:14.003071,Worker-16,0
+google/gemini-2.5-pro,Likely,5,0.75,0.75,2025-09-10T09:55:14.563515,Worker-3,0
+google/gemini-2.5-pro,Quite likely,5,0.85,0.85,2025-09-10T09:55:16.173099,Worker-6,0
+google/gemini-2.5-pro,Quite likely,3,0.8,0.8,2025-09-10T09:55:16.467301,Worker-12,0
+google/gemini-2.5-pro,Likely,1,0.8,0.8,2025-09-10T09:55:16.631143,Worker-13,0
+google/gemini-2.5-pro,Better than even,5,0.65,0.65,2025-09-10T09:55:17.324728,Worker-9,0
+google/gemini-2.5-pro,Probable,5,0.8,0.8,2025-09-10T09:55:18.146491,Worker-2,0
+google/gemini-2.5-pro,Better than even,4,0.65,0.65,2025-09-10T09:55:18.352769,Worker-14,0
+google/gemini-2.5-pro,Better than even,2,0.6,0.6,2025-09-10T09:55:18.404689,Worker-17,0
+google/gemini-2.5-pro,Better than even,1,0.65,0.65,2025-09-10T09:55:18.671833,Worker-18,0
+google/gemini-2.5-pro,Probable,1,0.75,0.75,2025-09-10T09:55:18.713849,Worker-7,0
+google/gemini-2.5-pro,Probable,3,0.8,0.8,2025-09-10T09:55:19.407979,Worker-1,0
+google/gemini-2.5-pro,Likely,2,0.8,0.8,2025-09-10T09:55:23.328003,Worker-8,0
+google/gemini-2.5-pro,Improbable,3,0.15,0.15,2025-09-10T09:55:23.782320,Worker-6,0
+google/gemini-2.5-pro,Possible,2,0.3,0.3,2025-09-10T09:55:24.042611,Worker-5,0
+google/gemini-2.5-pro,Probable,4,0.75,0.75,2025-09-10T09:55:25.924356,Worker-11,0
+google/gemini-2.5-pro,Probable,2,0.75,0.75,2025-09-10T09:55:26.112025,Worker-15,0
+google/gemini-2.5-pro,Highly unlikely,4,0.1,0.1,2025-09-10T09:55:26.143633,Worker-17,0
+google/gemini-2.5-pro,Highly unlikely,5,0.1,0.1,2025-09-10T09:55:26.697337,Worker-18,0
+google/gemini-2.5-pro,Highly unlikely,2,0.1,0.1,2025-09-10T09:55:27.261059,Worker-2,0
+google/gemini-2.5-pro,Possible,3,0.4,0.4,2025-09-10T09:55:27.278743,Worker-10,0
+google/gemini-2.5-pro,Possible,1,0.4,0.4,2025-09-10T09:55:27.313155,Worker-4,0
+google/gemini-2.5-pro,Possible,5,0.4,0.4,2025-09-10T09:55:27.521318,Worker-20,0
+google/gemini-2.5-pro,Improbable,1,0.2,0.2,2025-09-10T09:55:28.002021,Worker-16,0
+google/gemini-2.5-pro,Unlikely,1,0.2,0.2,2025-09-10T09:55:28.544428,Worker-7,0
+google/gemini-2.5-pro,Improbable,2,0.15,0.15,2025-09-10T09:55:29.133518,Worker-3,0
+google/gemini-2.5-pro,Unlikely,2,0.2,0.2,2025-09-10T09:55:29.867516,Worker-1,0
+google/gemini-2.5-pro,Unlikely,3,0.2,0.2,2025-09-10T09:55:31.919064,Worker-8,0
+google/gemini-2.5-pro,Impossible,4,0.0,0.0,2025-09-10T09:55:32.372515,Worker-16,0
+google/gemini-2.5-pro,Unlikely,4,0.2,0.2,2025-09-10T09:55:32.943335,Worker-6,0
+google/gemini-2.5-pro,Highly unlikely,1,0.05,0.05,2025-09-10T09:55:33.205159,Worker-9,0
+google/gemini-2.5-pro,Impossible,2,0.0,0.0,2025-09-10T09:55:33.298425,Worker-4,0
+google/gemini-2.5-pro,Impossible,3,0.0,0.0,2025-09-10T09:55:34.128406,Worker-20,0
+google/gemini-2.5-pro,Impossible,5,0.0,0.0,2025-09-10T09:55:34.203580,Worker-7,0
+google/gemini-2.5-pro,Improbable,5,0.1,0.1,2025-09-10T09:55:34.547761,Worker-13,0
+google/gemini-2.5-pro,Impossible,1,0.0,0.0,2025-09-10T09:55:34.782377,Worker-10,0
+google/gemini-2.5-pro,Seldom,3,0.1,0.1,2025-09-10T09:55:35.795047,Worker-17,0
+google/gemini-2.5-pro,Improbable,4,0.15,0.15,2025-09-10T09:55:36.070081,Worker-12,0
+google/gemini-2.5-pro,Unlikely,5,0.2,0.2,2025-09-10T09:55:36.619640,Worker-5,0
+google/gemini-2.5-pro,Rare,1,0.1,0.1,2025-09-10T09:55:36.688030,Worker-3,0
+google/gemini-2.5-pro,Seldom,2,0.2,0.2,2025-09-10T09:55:37.029027,Worker-15,0
+x-ai/grok-4,Definite,3,1.0,1.0,2025-09-10T09:55:37.438702,Worker-20,0
+google/gemini-2.5-pro,Highly unlikely,3,0.1,0.1,2025-09-10T09:55:37.652202,Worker-14,0
+google/gemini-2.5-pro,Possible,4,0.35,0.35,2025-09-10T09:55:37.700301,Worker-19,0
+x-ai/grok-4,Definite,1,1.0,1.0,2025-09-10T09:55:37.846021,Worker-9,0
+x-ai/grok-4,Definite,5,1.0,1.0,2025-09-10T09:55:38.017660,Worker-13,0
+x-ai/grok-4,Definite,4,1.0,1.0,2025-09-10T09:55:38.281351,Worker-7,0
+x-ai/grok-4,Definite,2,1.0,1.0,2025-09-10T09:55:38.340786,Worker-4,0
+google/gemini-2.5-pro,Seldom,1,0.2,0.2,2025-09-10T09:55:38.900933,Worker-11,0
+google/gemini-2.5-pro,Seldom,4,0.1,0.1,2025-09-10T09:55:39.357044,Worker-18,0
+google/gemini-2.5-pro,Seldom,5,0.2,0.2,2025-09-10T09:55:39.969166,Worker-2,0
+x-ai/grok-4,Almost certain,4,0.95,0.95,2025-09-10T09:55:41.862772,Worker-5,0
+google/gemini-2.5-pro,Rare,5,0.1,0.1,2025-09-10T09:55:42.808023,Worker-6,0
+x-ai/grok-4,Highly probable,5,0.9,0.9,2025-09-10T09:55:43.299357,Worker-9,0
+x-ai/grok-4,Highly probable,1,0.9,0.9,2025-09-10T09:55:43.992712,Worker-15,0
+x-ai/grok-4,Almost certain,3,0.95,0.95,2025-09-10T09:55:44.013921,Worker-12,0
+x-ai/grok-4,Highly probable,3,0.9,0.9,2025-09-10T09:55:44.194050,Worker-14,0
+x-ai/grok-4,Almost certain,1,0.95,0.95,2025-09-10T09:55:44.531780,Worker-10,0
+x-ai/grok-4,Highly probable,2,0.9,0.9,2025-09-10T09:55:44.883589,Worker-20,0
+x-ai/grok-4,Almost certain,2,0.95,0.95,2025-09-10T09:55:45.033698,Worker-17,0
+x-ai/grok-4,A good chance,2,0.7,0.7,2025-09-10T09:55:45.204393,Worker-7,0
+x-ai/grok-4,A good chance,1,0.7,0.7,2025-09-10T09:55:45.440963,Worker-13,0
+x-ai/grok-4,Almost certain,5,0.95,0.95,2025-09-10T09:55:46.122178,Worker-3,0
+x-ai/grok-4,Highly probable,4,0.9,0.9,2025-09-10T09:55:46.233728,Worker-19,0
+x-ai/grok-4,A good chance,5,0.7,0.7,2025-09-10T09:55:46.330345,Worker-18,0
+google/gemini-2.5-pro,Rare,2,0.1,0.1,2025-09-10T09:55:46.517712,Worker-1,0
+x-ai/grok-4,A good chance,4,0.7,0.7,2025-09-10T09:55:47.061964,Worker-11,0
+google/gemini-2.5-pro,Rare,3,0.1,0.1,2025-09-10T09:55:47.411473,Worker-8,0
+x-ai/grok-4,A good chance,3,0.7,0.7,2025-09-10T09:55:47.537995,Worker-4,0
+x-ai/grok-4,Likely,1,0.7,0.7,2025-09-10T09:55:49.053197,Worker-2,0
+google/gemini-2.5-pro,Rare,4,0.05,0.05,2025-09-10T09:55:49.325614,Worker-16,0
+x-ai/grok-4,Quite likely,1,0.8,0.8,2025-09-10T09:55:50.067506,Worker-12,0
+x-ai/grok-4,Quite likely,2,0.75,0.75,2025-09-10T09:55:50.758800,Worker-14,0
+x-ai/grok-4,Likely,3,0.7,0.7,2025-09-10T09:55:50.985455,Worker-6,0
+x-ai/grok-4,Likely,2,0.7,0.7,2025-09-10T09:55:52.109817,Worker-5,0
+x-ai/grok-4,Quite likely,3,0.8,0.8,2025-09-10T09:55:52.137801,Worker-10,0
+x-ai/grok-4,Probable,3,0.75,0.75,2025-09-10T09:55:53.079670,Worker-8,0
+x-ai/grok-4,Better than even,2,0.6,0.6,2025-09-10T09:55:53.742893,Worker-13,0
+x-ai/grok-4,Quite likely,5,0.75,0.75,2025-09-10T09:55:54.106978,Worker-17,0
+x-ai/grok-4,Quite likely,4,0.8,0.8,2025-09-10T09:55:54.846059,Worker-20,0
+x-ai/grok-4,Probable,4,0.7,0.7,2025-09-10T09:55:54.884161,Worker-4,0
+x-ai/grok-4,Probable,2,0.7,0.7,2025-09-10T09:55:55.708341,Worker-11,0
+x-ai/grok-4,Better than even,1,0.6,0.6,2025-09-10T09:55:55.775091,Worker-7,0
+x-ai/grok-4,Better than even,3,0.6,0.6,2025-09-10T09:55:56.512937,Worker-3,0
+x-ai/grok-4,Probable,5,0.75,0.75,2025-09-10T09:55:56.621136,Worker-2,0
+x-ai/grok-4,Likely,5,0.7,0.7,2025-09-10T09:55:56.735768,Worker-15,0
+x-ai/grok-4,Better than even,4,0.6,0.6,2025-09-10T09:55:56.959974,Worker-19,0
+x-ai/grok-4,Probable,1,0.7,0.7,2025-09-10T09:55:57.984550,Worker-1,0
+x-ai/grok-4,Likely,4,0.7,0.7,2025-09-10T09:55:58.366915,Worker-9,0
+x-ai/grok-4,Highly unlikely,1,0.1,0.1,2025-09-10T09:56:01.314260,Worker-4,0
+x-ai/grok-4,Highly unlikely,3,0.1,0.1,2025-09-10T09:56:01.392223,Worker-7,0
+x-ai/grok-4,Improbable,1,0.2,0.2,2025-09-10T09:56:01.910308,Worker-10,0
+x-ai/grok-4,Highly unlikely,5,0.1,0.1,2025-09-10T09:56:02.352169,Worker-2,0
+x-ai/grok-4,Possible,2,0.5,0.5,2025-09-10T09:56:02.782479,Worker-12,0
+x-ai/grok-4,Possible,5,0.4,0.4,2025-09-10T09:56:02.889572,Worker-5,0
+x-ai/grok-4,Improbable,2,0.2,0.2,2025-09-10T09:56:04.230046,Worker-8,0
+x-ai/grok-4,Highly unlikely,4,0.1,0.1,2025-09-10T09:56:04.723497,Worker-3,0
+x-ai/grok-4,Improbable,3,0.2,0.2,2025-09-10T09:56:05.247845,Worker-13,0
+x-ai/grok-4,Unlikely,1,0.25,0.25,2025-09-10T09:56:05.867116,Worker-15,0
+x-ai/grok-4,Possible,3,0.5,0.5,2025-09-10T09:56:06.573955,Worker-14,0
+x-ai/grok-4,Improbable,4,0.2,0.2,2025-09-10T09:56:06.849067,Worker-17,0
+x-ai/grok-4,Possible,1,0.4,0.4,2025-09-10T09:56:07.324512,Worker-16,0
+x-ai/grok-4,Improbable,5,0.2,0.2,2025-09-10T09:56:07.445329,Worker-20,0
+x-ai/grok-4,Unlikely,4,0.25,0.25,2025-09-10T09:56:08.006401,Worker-9,0
+x-ai/grok-4,Unlikely,3,0.25,0.25,2025-09-10T09:56:08.941548,Worker-1,0
+x-ai/grok-4,Highly unlikely,2,0.1,0.1,2025-09-10T09:56:09.200940,Worker-11,0
+x-ai/grok-4,Impossible,2,0.0,0.0,2025-09-10T09:56:09.210321,Worker-3,0
+x-ai/grok-4,Seldom,2,0.1,0.1,2025-09-10T09:56:09.237056,Worker-10,0
+x-ai/grok-4,Impossible,1,0.0,0.0,2025-09-10T09:56:09.244612,Worker-8,0
+x-ai/grok-4,Unlikely,5,0.2,0.2,2025-09-10T09:56:09.544325,Worker-4,0
+x-ai/grok-4,Impossible,4,0.0,0.0,2025-09-10T09:56:09.691825,Worker-15,0
+x-ai/grok-4,Impossible,5,0.0,0.0,2025-09-10T09:56:09.808579,Worker-14,0
+x-ai/grok-3,Definite,2,1.0,1.0,2025-09-10T09:56:09.958528,Worker-3,0
+x-ai/grok-3,Definite,4,1.0,1.0,2025-09-10T09:56:09.962447,Worker-8,0
+x-ai/grok-3,Definite,1,1.0,1.0,2025-09-10T09:56:10.047615,Worker-11,0
+x-ai/grok-3,Almost certain,1,0.95,0.95,2025-09-10T09:56:10.327946,Worker-15,0
+x-ai/grok-3,Definite,5,1.0,1.0,2025-09-10T09:56:10.348777,Worker-4,0
+x-ai/grok-3,Definite,3,1.0,1.0,2025-09-10T09:56:10.570584,Worker-10,0
+x-ai/grok-3,Almost certain,4,0.95,0.95,2025-09-10T09:56:10.686626,Worker-8,0
+x-ai/grok-3,Almost certain,2,0.95,0.95,2025-09-10T09:56:10.723776,Worker-14,0
+x-ai/grok-3,Almost certain,3,0.95,0.95,2025-09-10T09:56:10.734929,Worker-3,0
+x-ai/grok-4,Better than even,5,0.6,0.6,2025-09-10T09:56:10.944263,Worker-18,0
+x-ai/grok-3,Highly probable,2,0.9,0.9,2025-09-10T09:56:10.953449,Worker-4,0
+x-ai/grok-4,Impossible,3,0.0,0.0,2025-09-10T09:56:11.109025,Worker-13,0
+x-ai/grok-4,Seldom,1,0.1,0.1,2025-09-10T09:56:11.196485,Worker-7,0
+x-ai/grok-3,Highly probable,5,0.9,0.9,2025-09-10T09:56:11.463921,Worker-14,0
+x-ai/grok-3,Highly probable,4,0.9,0.9,2025-09-10T09:56:11.472922,Worker-8,0
+x-ai/grok-3,Highly probable,3,0.9,0.9,2025-09-10T09:56:11.486957,Worker-10,0
+x-ai/grok-3,Highly probable,1,0.9,0.9,2025-09-10T09:56:11.489347,Worker-15,0
+x-ai/grok-3,A good chance,3,0.75,0.75,2025-09-10T09:56:11.769621,Worker-4,0
+x-ai/grok-3,A good chance,4,0.7,0.7,2025-09-10T09:56:11.790436,Worker-13,0
+x-ai/grok-3,A good chance,2,0.7,0.7,2025-09-10T09:56:11.878338,Worker-18,0
+x-ai/grok-3,A good chance,1,0.7,0.7,2025-09-10T09:56:11.892683,Worker-3,0
+x-ai/grok-3,Likely,3,0.7,0.7,2025-09-10T09:56:12.290848,Worker-10,0
+x-ai/grok-3,Likely,4,0.7,0.7,2025-09-10T09:56:12.313568,Worker-15,0
+x-ai/grok-3,Likely,1,0.7,0.7,2025-09-10T09:56:12.319589,Worker-14,0
+x-ai/grok-3,A good chance,5,0.7,0.7,2025-09-10T09:56:12.342240,Worker-7,0
+x-ai/grok-3,Likely,2,0.7,0.7,2025-09-10T09:56:12.659109,Worker-8,0
+x-ai/grok-3,Quite likely,2,0.8,0.8,2025-09-10T09:56:12.771009,Worker-18,0
+x-ai/grok-4,Seldom,4,0.1,0.1,2025-09-10T09:56:13.070937,Worker-12,0
+x-ai/grok-3,Quite likely,1,0.8,0.8,2025-09-10T09:56:13.073737,Worker-13,0
+x-ai/grok-3,Quite likely,4,0.75,0.75,2025-09-10T09:56:13.107617,Worker-10,0
+x-ai/grok-3,Quite likely,5,0.8,0.8,2025-09-10T09:56:13.139727,Worker-15,0
+x-ai/grok-4,Unlikely,2,0.2,0.2,2025-09-10T09:56:13.150719,Worker-19,0
+x-ai/grok-3,Likely,5,0.7,0.7,2025-09-10T09:56:13.641641,Worker-4,0
+x-ai/grok-3,Better than even,4,0.6,0.6,2025-09-10T09:56:13.753666,Worker-18,0
+x-ai/grok-3,Better than even,1,0.6,0.6,2025-09-10T09:56:13.757267,Worker-14,0
+x-ai/grok-3,Better than even,3,0.6,0.6,2025-09-10T09:56:13.783732,Worker-8,0
+x-ai/grok-3,Better than even,5,0.6,0.6,2025-09-10T09:56:13.866663,Worker-12,0
+x-ai/grok-3,Better than even,2,0.6,0.6,2025-09-10T09:56:13.911425,Worker-7,0
+x-ai/grok-3,Probable,2,0.7,0.7,2025-09-10T09:56:13.916782,Worker-10,0
+x-ai/grok-3,Quite likely,3,0.8,0.8,2025-09-10T09:56:13.948902,Worker-3,0
+x-ai/grok-3,Probable,1,0.7,0.7,2025-09-10T09:56:13.960007,Worker-13,0
+x-ai/grok-3,Probable,4,0.7,0.7,2025-09-10T09:56:13.999166,Worker-19,0
+x-ai/grok-3,Probable,3,0.7,0.7,2025-09-10T09:56:14.001587,Worker-15,0
+x-ai/grok-4,Seldom,5,0.1,0.1,2025-09-10T09:56:14.213267,Worker-5,0
+x-ai/grok-3,Probable,5,0.7,0.7,2025-09-10T09:56:14.281725,Worker-4,0
+x-ai/grok-3,Improbable,1,0.2,0.2,2025-09-10T09:56:14.712068,Worker-10,0
+x-ai/grok-3,Improbable,3,0.2,0.2,2025-09-10T09:56:14.713799,Worker-13,0
+x-ai/grok-3,Improbable,5,0.2,0.2,2025-09-10T09:56:14.735188,Worker-15,0
+x-ai/grok-3,Highly unlikely,1,0.1,0.1,2025-09-10T09:56:14.875611,Worker-5,0
+x-ai/grok-3,Possible,1,0.5,0.5,2025-09-10T09:56:14.890764,Worker-18,0
+x-ai/grok-3,Possible,2,0.4,0.4,2025-09-10T09:56:14.894691,Worker-14,0
+x-ai/grok-3,Improbable,2,0.2,0.2,2025-09-10T09:56:14.897664,Worker-3,0
+x-ai/grok-3,Possible,5,0.5,0.5,2025-09-10T09:56:14.904982,Worker-7,0
+x-ai/grok-3,Possible,3,0.5,0.5,2025-09-10T09:56:14.912689,Worker-8,0
+x-ai/grok-3,Possible,4,0.5,0.5,2025-09-10T09:56:14.914982,Worker-12,0
+x-ai/grok-3,Improbable,4,0.2,0.2,2025-09-10T09:56:15.068088,Worker-19,0
+x-ai/grok-3,Highly unlikely,3,0.1,0.1,2025-09-10T09:56:15.559299,Worker-10,0
+x-ai/grok-3,Highly unlikely,2,0.1,0.1,2025-09-10T09:56:15.568785,Worker-4,0
+x-ai/grok-3,Highly unlikely,4,0.1,0.1,2025-09-10T09:56:15.588787,Worker-13,0
+x-ai/grok-3,Highly unlikely,5,0.1,0.1,2025-09-10T09:56:15.619977,Worker-15,0
+x-ai/grok-3,Almost certain,5,0.95,0.95,2025-09-10T09:56:15.925479,Worker-11,0
+x-ai/grok-3,Seldom,4,0.1,0.1,2025-09-10T09:56:16.382970,Worker-10,0
+x-ai/grok-3,Impossible,2,0.0,0.0,2025-09-10T09:56:16.400308,Worker-15,0
+x-ai/grok-3,Impossible,1,0.0,0.0,2025-09-10T09:56:16.428664,Worker-13,0
+x-ai/grok-3,Seldom,5,0.1,0.1,2025-09-10T09:56:16.449441,Worker-4,0
+x-ai/grok-3,Impossible,3,0.0,0.0,2025-09-10T09:56:16.631206,Worker-11,0
+x-ai/grok-3,Seldom,3,0.1,0.1,2025-09-10T09:56:16.675481,Worker-19,0
+x-ai/grok-3,Seldom,2,0.1,0.1,2025-09-10T09:56:16.695783,Worker-12,0
+x-ai/grok-3,Unlikely,5,0.2,0.2,2025-09-10T09:56:16.709915,Worker-7,0
+x-ai/grok-3,Unlikely,4,0.2,0.2,2025-09-10T09:56:16.768441,Worker-3,0
+x-ai/grok-3,Seldom,1,0.1,0.1,2025-09-10T09:56:16.769898,Worker-8,0
+x-ai/grok-3,Unlikely,1,0.2,0.2,2025-09-10T09:56:16.771815,Worker-5,0
+x-ai/grok-3,Unlikely,3,0.2,0.2,2025-09-10T09:56:16.787811,Worker-14,0
+x-ai/grok-3,Unlikely,2,0.2,0.2,2025-09-10T09:56:16.791015,Worker-18,0
+x-ai/grok-3,Impossible,5,0.0,0.0,2025-09-10T09:56:17.183596,Worker-15,0
+x-ai/grok-3,Impossible,4,0.0,0.0,2025-09-10T09:56:17.193937,Worker-10,0
+x-ai/grok-3,Rare,2,0.1,0.1,2025-09-10T09:56:17.344926,Worker-4,0
+x-ai/grok-3,Rare,1,0.1,0.1,2025-09-10T09:56:17.349937,Worker-13,0
+x-ai/grok-3,Rare,5,0.1,0.1,2025-09-10T09:56:17.496357,Worker-12,0
+x-ai/grok-3,Rare,4,0.1,0.1,2025-09-10T09:56:17.555692,Worker-19,0
+x-ai/grok-3,Rare,3,0.1,0.1,2025-09-10T09:56:17.665905,Worker-11,0
+x-ai/grok-4,Seldom,3,0.1,0.1,2025-09-10T09:56:18.334705,Worker-2,0
+anthropic/claude-opus-4.1,Definite,5,0.95,0.95,2025-09-10T09:56:18.933970,Worker-14,0
+anthropic/claude-opus-4.1,Definite,2,0.95,0.95,2025-09-10T09:56:18.984013,Worker-3,0
+anthropic/claude-opus-4.1,Definite,4,0.95,0.95,2025-09-10T09:56:19.151787,Worker-5,0
+anthropic/claude-opus-4.1,Almost certain,2,0.95,0.95,2025-09-10T09:56:19.478171,Worker-15,0
+anthropic/claude-opus-4.1,Almost certain,1,0.95,0.95,2025-09-10T09:56:19.677957,Worker-18,0
+anthropic/claude-opus-4.1,Definite,1,0.95,0.95,2025-09-10T09:56:19.692184,Worker-7,0
+anthropic/claude-opus-4.1,Definite,3,0.95,0.95,2025-09-10T09:56:19.828088,Worker-8,0
+anthropic/claude-opus-4.1,Almost certain,4,0.95,0.95,2025-09-10T09:56:20.185144,Worker-4,0
+anthropic/claude-opus-4.1,Highly probable,2,0.85,0.85,2025-09-10T09:56:20.187306,Worker-19,0
+anthropic/claude-opus-4.1,Highly probable,1,0.85,0.85,2025-09-10T09:56:20.369470,Worker-12,0
+anthropic/claude-opus-4.1,Almost certain,3,0.95,0.95,2025-09-10T09:56:20.406738,Worker-10,0
+anthropic/claude-opus-4.1,Highly probable,4,0.85,0.85,2025-09-10T09:56:20.860343,Worker-2,0
+anthropic/claude-opus-4.1,Almost certain,5,0.95,0.95,2025-09-10T09:56:20.906189,Worker-13,0
+anthropic/claude-opus-4.1,Highly probable,3,0.85,0.85,2025-09-10T09:56:20.935322,Worker-11,0
+anthropic/claude-opus-4.1,A good chance,5,0.75,0.75,2025-09-10T09:56:21.605213,Worker-7,0
+anthropic/claude-opus-4.1,Highly probable,5,0.85,0.85,2025-09-10T09:56:21.681553,Worker-14,0
+anthropic/claude-opus-4.1,Likely,2,0.7,0.7,2025-09-10T09:56:22.104488,Worker-4,0
+anthropic/claude-opus-4.1,A good chance,2,0.7,0.7,2025-09-10T09:56:22.336897,Worker-5,0
+anthropic/claude-opus-4.1,Likely,4,0.7,0.7,2025-09-10T09:56:22.360105,Worker-12,0
+anthropic/claude-opus-4.1,A good chance,4,0.75,0.75,2025-09-10T09:56:22.521473,Worker-18,0
+anthropic/claude-opus-4.1,A good chance,1,0.7,0.7,2025-09-10T09:56:22.658039,Worker-3,0
+anthropic/claude-opus-4.1,Likely,5,0.7,0.7,2025-09-10T09:56:22.684521,Worker-10,0
+anthropic/claude-opus-4.1,A good chance,3,0.7,0.7,2025-09-10T09:56:22.893828,Worker-15,0
+anthropic/claude-opus-4.1,Likely,1,0.7,0.7,2025-09-10T09:56:23.173557,Worker-8,0
+anthropic/claude-opus-4.1,Likely,3,0.7,0.7,2025-09-10T09:56:23.252606,Worker-19,0
+anthropic/claude-opus-4.1,Better than even,1,0.6,0.6,2025-09-10T09:56:23.673207,Worker-4,0
+anthropic/claude-opus-4.1,Quite likely,2,0.75,0.75,2025-09-10T09:56:23.903199,Worker-13,0
+anthropic/claude-opus-4.1,Quite likely,3,0.75,0.75,2025-09-10T09:56:24.174871,Worker-11,0
+anthropic/claude-opus-4.1,Quite likely,1,0.75,0.75,2025-09-10T09:56:24.360945,Worker-2,0
+anthropic/claude-opus-4.1,Quite likely,4,0.75,0.75,2025-09-10T09:56:24.743788,Worker-7,0
+anthropic/claude-opus-4.1,Probable,1,0.7,0.7,2025-09-10T09:56:24.897896,Worker-10,0
+anthropic/claude-opus-4.1,Better than even,2,0.6,0.6,2025-09-10T09:56:24.953198,Worker-5,0
+anthropic/claude-opus-4.1,Better than even,3,0.6,0.6,2025-09-10T09:56:24.982102,Worker-12,0
+anthropic/claude-opus-4.1,Quite likely,5,0.75,0.75,2025-09-10T09:56:25.043092,Worker-14,0
+anthropic/claude-opus-4.1,Better than even,4,0.6,0.6,2025-09-10T09:56:25.406566,Worker-18,0
+anthropic/claude-opus-4.1,Probable,2,0.7,0.7,2025-09-10T09:56:25.473848,Worker-15,0
+anthropic/claude-opus-4.1,Probable,5,0.7,0.7,2025-09-10T09:56:25.921133,Worker-4,0
+anthropic/claude-opus-4.1,Probable,3,0.7,0.7,2025-09-10T09:56:26.010555,Worker-8,0
+anthropic/claude-opus-4.1,Probable,4,0.7,0.7,2025-09-10T09:56:26.095020,Worker-19,0
+anthropic/claude-opus-4.1,Better than even,5,0.6,0.6,2025-09-10T09:56:26.263918,Worker-3,0
+anthropic/claude-opus-4.1,Possible,3,0.4,0.4,2025-09-10T09:56:26.273506,Worker-2,0
+anthropic/claude-opus-4.1,Possible,1,0.4,0.4,2025-09-10T09:56:27.268392,Worker-13,0
+anthropic/claude-opus-4.1,Possible,4,0.4,0.4,2025-09-10T09:56:27.295949,Worker-7,0
+anthropic/claude-opus-4.1,Possible,2,0.4,0.4,2025-09-10T09:56:27.348305,Worker-11,0
+anthropic/claude-opus-4.1,Improbable,1,0.2,0.2,2025-09-10T09:56:27.670839,Worker-5,0
+anthropic/claude-opus-4.1,Improbable,3,0.2,0.2,2025-09-10T09:56:27.725346,Worker-14,0
+anthropic/claude-opus-4.1,Improbable,2,0.2,0.2,2025-09-10T09:56:27.810140,Worker-12,0
+anthropic/claude-opus-4.1,Improbable,4,0.2,0.2,2025-09-10T09:56:28.293806,Worker-18,0
+anthropic/claude-opus-4.1,Improbable,5,0.2,0.2,2025-09-10T09:56:28.446901,Worker-15,0
+anthropic/claude-opus-4.1,Possible,5,0.4,0.4,2025-09-10T09:56:28.553805,Worker-10,0
+anthropic/claude-opus-4.1,Highly unlikely,3,0.1,0.1,2025-09-10T09:56:28.951943,Worker-19,0
+anthropic/claude-opus-4.1,Highly unlikely,4,0.1,0.1,2025-09-10T09:56:29.108236,Worker-3,0
+anthropic/claude-opus-4.1,Highly unlikely,1,0.1,0.1,2025-09-10T09:56:29.128475,Worker-4,0
+anthropic/claude-opus-4.1,Highly unlikely,2,0.1,0.1,2025-09-10T09:56:29.263057,Worker-8,0
+anthropic/claude-opus-4.1,Unlikely,1,0.25,0.25,2025-09-10T09:56:29.566187,Worker-13,0
+anthropic/claude-opus-4.1,Unlikely,2,0.25,0.25,2025-09-10T09:56:29.577631,Worker-7,0
+anthropic/claude-opus-4.1,Highly unlikely,5,0.1,0.1,2025-09-10T09:56:29.653858,Worker-2,0
+anthropic/claude-opus-4.1,Unlikely,3,0.25,0.25,2025-09-10T09:56:29.765439,Worker-11,0
+x-ai/grok-4,Possible,4,0.4,0.4,2025-09-10T09:56:30.097688,Worker-6,0
+anthropic/claude-opus-4.1,Unlikely,5,0.25,0.25,2025-09-10T09:56:30.228727,Worker-14,0
+anthropic/claude-opus-4.1,Seldom,1,0.15,0.15,2025-09-10T09:56:30.303861,Worker-12,0
+anthropic/claude-opus-4.1,Unlikely,4,0.25,0.25,2025-09-10T09:56:30.951234,Worker-5,0
+anthropic/claude-opus-4.1,Impossible,3,0.0,0.0,2025-09-10T09:56:31.365851,Worker-8,0
+anthropic/claude-opus-4.1,Seldom,2,0.15,0.15,2025-09-10T09:56:31.374326,Worker-18,0
+anthropic/claude-opus-4.1,Seldom,4,0.15,0.15,2025-09-10T09:56:31.510047,Worker-10,0
+anthropic/claude-opus-4.1,Impossible,1,0.0,0.0,2025-09-10T09:56:31.642566,Worker-3,0
+anthropic/claude-opus-4.1,Seldom,3,0.15,0.15,2025-09-10T09:56:31.899322,Worker-15,0
+anthropic/claude-opus-4.1,Seldom,5,0.15,0.15,2025-09-10T09:56:31.965070,Worker-19,0
+anthropic/claude-opus-4.1,Impossible,5,0.0,0.0,2025-09-10T09:56:32.235756,Worker-7,0
+anthropic/claude-opus-4.1,Rare,1,0.05,0.05,2025-09-10T09:56:32.349628,Worker-2,0
+anthropic/claude-opus-4.1,Impossible,2,0.0,0.0,2025-09-10T09:56:32.644744,Worker-4,0
+anthropic/claude-opus-4.1,Rare,3,0.05,0.05,2025-09-10T09:56:32.647314,Worker-6,0
+anthropic/claude-opus-4.1,Rare,4,0.05,0.05,2025-09-10T09:56:32.706337,Worker-14,0
+openai/gpt-oss-20b,Almost certain,2,0.95,0.95,2025-09-10T09:56:32.883012,Worker-19,0
+anthropic/claude-opus-4.1,Rare,5,0.05,0.05,2025-09-10T09:56:32.980060,Worker-12,0
+openai/gpt-oss-20b,Definite,2,0.9,0.9,2025-09-10T09:56:33.049280,Worker-8,0
+anthropic/claude-opus-4.1,Rare,2,0.05,0.05,2025-09-10T09:56:33.219052,Worker-11,0
+openai/gpt-oss-20b,Almost certain,3,0.95,0.95,2025-09-10T09:56:33.528934,Worker-7,0
+openai/gpt-oss-20b,Definite,5,0.9,0.9,2025-09-10T09:56:33.696348,Worker-3,0
+openai/gpt-oss-20b,Almost certain,1,0.99,0.99,2025-09-10T09:56:33.737274,Worker-15,0
+openai/gpt-oss-20b,Highly probable,2,0.9,0.9,2025-09-10T09:56:34.074565,Worker-14,0
+openai/gpt-oss-20b,Almost certain,5,0.9,0.9,2025-09-10T09:56:34.129669,Worker-4,0
+openai/gpt-oss-20b,Highly probable,3,0.85,0.85,2025-09-10T09:56:34.287667,Worker-19,0
+openai/gpt-oss-20b,Highly probable,1,0.85,0.85,2025-09-10T09:56:34.355892,Worker-6,0
+openai/gpt-oss-20b,A good chance,1,0.65,0.65,2025-09-10T09:56:34.569930,Worker-11,0
+openai/gpt-oss-20b,Highly probable,5,0.85,0.85,2025-09-10T09:56:34.623389,Worker-8,0
+openai/gpt-oss-20b,Definite,1,0.9,0.9,2025-09-10T09:56:34.624648,Worker-5,0
+openai/gpt-oss-20b,A good chance,2,0.7,0.7,2025-09-10T09:56:34.945462,Worker-7,0
+openai/gpt-oss-20b,A good chance,4,0.75,0.75,2025-09-10T09:56:34.995195,Worker-15,0
+openai/gpt-oss-20b,Highly probable,4,0.9,0.9,2025-09-10T09:56:35.175492,Worker-12,0
+x-ai/grok-4,Rare,1,0.05,0.05,2025-09-10T09:56:35.226269,Worker-17,0
+openai/gpt-oss-20b,Likely,1,0.7,0.7,2025-09-10T09:56:35.280267,Worker-4,0
+openai/gpt-oss-20b,Likely,2,0.75,0.75,2025-09-10T09:56:35.329602,Worker-19,0
+anthropic/claude-opus-4.1,Impossible,4,0.0,0.0,2025-09-10T09:56:35.631251,Worker-13,0
+openai/gpt-oss-20b,Definite,4,1.0,1.0,2025-09-10T09:56:35.710417,Worker-10,0
+openai/gpt-oss-20b,Likely,4,0.8,0.8,2025-09-10T09:56:35.735872,Worker-11,0
+openai/gpt-oss-20b,Likely,3,0.8,0.8,2025-09-10T09:56:35.752118,Worker-6,0
+openai/gpt-oss-20b,A good chance,3,0.7,0.7,2025-09-10T09:56:35.818214,Worker-3,0
+openai/gpt-oss-20b,Almost certain,4,0.99,0.99,2025-09-10T09:56:36.013304,Worker-2,0
+openai/gpt-oss-20b,A good chance,5,0.7,0.7,2025-09-10T09:56:36.034940,Worker-14,0
+openai/gpt-oss-20b,Quite likely,5,0.8,0.8,2025-09-10T09:56:36.367151,Worker-17,0
+openai/gpt-oss-20b,Quite likely,4,0.8,0.8,2025-09-10T09:56:36.414222,Worker-12,0
+openai/gpt-oss-20b,Probable,3,0.75,0.75,2025-09-10T09:56:36.437267,Worker-2,0
+openai/gpt-oss-20b,Better than even,3,0.7,0.7,2025-09-10T09:56:36.720180,Worker-13,0
+openai/gpt-oss-20b,Quite likely,3,0.8,0.8,2025-09-10T09:56:36.775871,Worker-15,0
+openai/gpt-oss-20b,Probable,1,0.8,0.8,2025-09-10T09:56:36.895423,Worker-6,0
+openai/gpt-oss-20b,Better than even,1,0.6,0.6,2025-09-10T09:56:36.936994,Worker-4,0
+openai/gpt-oss-20b,Better than even,2,0.6,0.6,2025-09-10T09:56:36.995858,Worker-19,0
+openai/gpt-oss-20b,Possible,1,0.5,0.5,2025-09-10T09:56:37.036376,Worker-12,0
+openai/gpt-oss-20b,Quite likely,2,0.85,0.85,2025-09-10T09:56:37.516476,Worker-7,0
+openai/gpt-oss-20b,Better than even,4,0.6,0.6,2025-09-10T09:56:37.674305,Worker-10,0
+openai/gpt-oss-20b,Probable,5,0.7,0.7,2025-09-10T09:56:37.676977,Worker-17,0
+openai/gpt-oss-20b,Likely,5,0.75,0.75,2025-09-10T09:56:37.816251,Worker-8,0
+openai/gpt-oss-20b,Improbable,3,0.05,0.05,2025-09-10T09:56:37.975988,Worker-12,0
+openai/gpt-oss-20b,Definite,3,0.95,0.95,2025-09-10T09:56:38.047527,Worker-18,0
+openai/gpt-oss-20b,Possible,3,0.5,0.5,2025-09-10T09:56:38.125967,Worker-13,0
+openai/gpt-oss-20b,Probable,2,0.8,0.8,2025-09-10T09:56:38.222475,Worker-3,0
+x-ai/grok-4,Rare,4,0.05,0.05,2025-09-10T09:56:38.294190,Worker-9,0
+openai/gpt-oss-20b,Possible,4,0.6,0.6,2025-09-10T09:56:38.299063,Worker-15,0
+openai/gpt-oss-20b,Better than even,5,0.6,0.6,2025-09-10T09:56:38.424849,Worker-11,0
+openai/gpt-oss-20b,Quite likely,1,0.85,0.85,2025-09-10T09:56:38.938752,Worker-5,0
+openai/gpt-oss-20b,Improbable,5,0.15,0.15,2025-09-10T09:56:38.989474,Worker-10,0
+openai/gpt-oss-20b,Possible,2,0.6,0.6,2025-09-10T09:56:39.016712,Worker-2,0
+openai/gpt-oss-20b,Highly unlikely,4,0.05,0.05,2025-09-10T09:56:39.171327,Worker-18,0
+x-ai/grok-4,Rare,5,0.05,0.05,2025-09-10T09:56:39.331272,Worker-1,0
+openai/gpt-oss-20b,Highly unlikely,2,0.05,0.05,2025-09-10T09:56:39.373004,Worker-8,0
+openai/gpt-oss-20b,Highly unlikely,1,0.05,0.05,2025-09-10T09:56:39.374188,Worker-17,0
+openai/gpt-oss-20b,Improbable,4,0.1,0.1,2025-09-10T09:56:39.400109,Worker-7,0
+openai/gpt-oss-20b,Highly unlikely,3,0.1,0.1,2025-09-10T09:56:39.454011,Worker-12,0
+openai/gpt-oss-20b,Unlikely,2,0.2,0.2,2025-09-10T09:56:39.716236,Worker-9,0
+openai/gpt-oss-20b,Unlikely,4,0.2,0.2,2025-09-10T09:56:40.024491,Worker-11,0
+openai/gpt-oss-20b,Unlikely,5,0.25,0.25,2025-09-10T09:56:40.117086,Worker-5,0
+openai/gpt-oss-20b,Impossible,2,0.99,0.99,2025-09-10T09:56:40.130203,Worker-7,0
+openai/gpt-oss-20b,Unlikely,3,0.2,0.2,2025-09-10T09:56:40.166116,Worker-15,0
+openai/gpt-oss-20b,Seldom,2,0.1,0.1,2025-09-10T09:56:40.263782,Worker-2,0
+openai/gpt-oss-20b,Improbable,1,0.1,0.1,2025-09-10T09:56:40.456659,Worker-4,0
+openai/gpt-oss-20b,Possible,5,0.6,0.6,2025-09-10T09:56:40.469634,Worker-6,0
+openai/gpt-oss-20b,Seldom,3,0.2,0.2,2025-09-10T09:56:40.545777,Worker-18,0
+openai/gpt-oss-20b,Improbable,2,0.15,0.15,2025-09-10T09:56:40.549488,Worker-19,0
+openai/gpt-oss-20b,Highly unlikely,5,0.1,0.1,2025-09-10T09:56:40.637489,Worker-13,0
+openai/gpt-oss-20b,Impossible,4,0.0,0.0,2025-09-10T09:56:40.696992,Worker-9,0
+openai/gpt-oss-120b,Definite,1,0.95,0.95,2025-09-10T09:56:41.406067,Worker-6,0
+openai/gpt-oss-20b,Seldom,5,0.1,0.1,2025-09-10T09:56:41.422711,Worker-8,0
+openai/gpt-oss-120b,Definite,2,0.95,0.95,2025-09-10T09:56:41.509971,Worker-18,0
+openai/gpt-oss-20b,Rare,3,0.1,0.1,2025-09-10T09:56:41.513382,Worker-15,0
+openai/gpt-oss-120b,Definite,4,0.95,0.95,2025-09-10T09:56:41.609382,Worker-13,0
+openai/gpt-oss-120b,Definite,5,0.95,0.95,2025-09-10T09:56:41.761094,Worker-9,0
+openai/gpt-oss-20b,Seldom,1,0.2,0.2,2025-09-10T09:56:41.994118,Worker-10,0
+openai/gpt-oss-20b,Probable,4,0.7,0.7,2025-09-10T09:56:42.072996,Worker-14,0
+openai/gpt-oss-20b,Impossible,5,1.0,1.0,2025-09-10T09:56:42.129785,Worker-11,0
+openai/gpt-oss-20b,Rare,1,0.1,0.1,2025-09-10T09:56:42.314750,Worker-5,0
+openai/gpt-oss-120b,Almost certain,5,0.95,0.95,2025-09-10T09:56:42.398930,Worker-13,0
+openai/gpt-oss-120b,Almost certain,1,0.95,0.95,2025-09-10T09:56:42.469361,Worker-6,0
+openai/gpt-oss-20b,Impossible,3,0.0,0.0,2025-09-10T09:56:42.503989,Worker-12,0
+openai/gpt-oss-20b,Rare,5,0.2,0.2,2025-09-10T09:56:42.629491,Worker-4,0
+openai/gpt-oss-20b,Impossible,1,0.0,0.0,2025-09-10T09:56:42.648444,Worker-17,0
+openai/gpt-oss-20b,Unlikely,1,0.2,0.2,2025-09-10T09:56:42.795003,Worker-3,0
+openai/gpt-oss-20b,Rare,4,0.05,0.05,2025-09-10T09:56:42.922245,Worker-2,0
+openai/gpt-oss-120b,Highly probable,2,0.85,0.85,2025-09-10T09:56:42.925437,Worker-10,0
+openai/gpt-oss-120b,Highly probable,3,0.85,0.85,2025-09-10T09:56:42.989046,Worker-14,0
+openai/gpt-oss-120b,A good chance,2,0.75,0.75,2025-09-10T09:56:43.243709,Worker-6,0
+openai/gpt-oss-120b,Almost certain,3,0.95,0.95,2025-09-10T09:56:43.410208,Worker-18,0
+openai/gpt-oss-120b,A good chance,3,0.75,0.75,2025-09-10T09:56:43.495957,Worker-12,0
+openai/gpt-oss-120b,A good chance,5,0.75,0.75,2025-09-10T09:56:43.637406,Worker-17,0
+openai/gpt-oss-120b,Likely,4,0.8,0.8,2025-09-10T09:56:43.772416,Worker-14,0
+openai/gpt-oss-120b,Likely,1,0.75,0.75,2025-09-10T09:56:43.845296,Worker-3,0
+openai/gpt-oss-120b,Likely,2,0.8,0.8,2025-09-10T09:56:44.170302,Worker-2,0
+openai/gpt-oss-20b,Rare,2,0.05,0.05,2025-09-10T09:56:44.193785,Worker-7,0
+openai/gpt-oss-120b,Definite,3,0.99,0.99,2025-09-10T09:56:44.485188,Worker-19,0
+openai/gpt-oss-120b,Quite likely,2,0.8,0.8,2025-09-10T09:56:44.780575,Worker-12,0
+openai/gpt-oss-120b,Quite likely,1,0.8,0.8,2025-09-10T09:56:44.897134,Worker-18,0
+openai/gpt-oss-120b,Quite likely,4,0.8,0.8,2025-09-10T09:56:45.094355,Worker-14,0
+openai/gpt-oss-120b,A good chance,4,0.75,0.75,2025-09-10T09:56:45.249262,Worker-4,0
+openai/gpt-oss-120b,Better than even,1,0.65,0.65,2025-09-10T09:56:45.298576,Worker-2,0
+openai/gpt-oss-120b,Highly probable,1,0.9,0.9,2025-09-10T09:56:45.798173,Worker-9,0
+openai/gpt-oss-120b,Better than even,4,0.6,0.6,2025-09-10T09:56:45.980836,Worker-12,0
+openai/gpt-oss-120b,Better than even,5,0.6,0.6,2025-09-10T09:56:46.280846,Worker-18,0
+openai/gpt-oss-120b,Better than even,3,0.65,0.65,2025-09-10T09:56:46.484077,Worker-19,0
+openai/gpt-oss-120b,Probable,2,0.8,0.8,2025-09-10T09:56:46.508381,Worker-4,0
+openai/gpt-oss-120b,Almost certain,4,0.95,0.95,2025-09-10T09:56:46.541344,Worker-15,0
+openai/gpt-oss-120b,Probable,3,0.75,0.75,2025-09-10T09:56:46.848078,Worker-2,0
+openai/gpt-oss-120b,Possible,4,0.5,0.5,2025-09-10T09:56:47.580729,Worker-15,0
+x-ai/grok-4,Rare,2,0.1,0.1,2025-09-10T09:56:47.596030,Worker-16,0
+openai/gpt-oss-120b,Highly probable,5,0.9,0.9,2025-09-10T09:56:47.699325,Worker-5,0
+openai/gpt-oss-120b,Highly probable,4,0.85,0.85,2025-09-10T09:56:47.725771,Worker-11,0
+openai/gpt-oss-120b,Better than even,2,0.65,0.65,2025-09-10T09:56:47.752911,Worker-7,0
+openai/gpt-oss-120b,Likely,5,0.75,0.75,2025-09-10T09:56:47.982721,Worker-6,0
+openai/gpt-oss-120b,Possible,1,0.5,0.5,2025-09-10T09:56:48.179587,Worker-18,0
+openai/gpt-oss-120b,Almost certain,2,0.97,0.97,2025-09-10T09:56:48.328051,Worker-8,0
+openai/gpt-oss-120b,Probable,1,0.75,0.75,2025-09-10T09:56:48.355141,Worker-14,0
+openai/gpt-oss-120b,Improbable,3,0.2,0.2,2025-09-10T09:56:48.411624,Worker-5,0
+openai/gpt-oss-120b,A good chance,1,0.75,0.75,2025-09-10T09:56:48.669852,Worker-13,0
+openai/gpt-oss-120b,Possible,5,0.5,0.5,2025-09-10T09:56:48.806833,Worker-2,0
+openai/gpt-oss-120b,Quite likely,5,0.8,0.8,2025-09-10T09:56:48.958022,Worker-3,0
+openai/gpt-oss-120b,Improbable,2,0.2,0.2,2025-09-10T09:56:49.024230,Worker-16,0
+openai/gpt-oss-120b,Probable,4,0.8,0.8,2025-09-10T09:56:49.030511,Worker-9,0
+x-ai/grok-4,Rare,3,0.05,0.05,2025-09-10T09:56:49.147765,Worker-20,0
+openai/gpt-oss-120b,Unlikely,3,0.2,0.2,2025-09-10T09:56:49.611889,Worker-3,0
+openai/gpt-oss-120b,Improbable,1,0.2,0.2,2025-09-10T09:56:49.809528,Worker-15,0
+openai/gpt-oss-120b,Unlikely,5,0.2,0.2,2025-09-10T09:56:49.929138,Worker-9,0
+openai/gpt-oss-120b,Unlikely,4,0.2,0.2,2025-09-10T09:56:50.070101,Worker-16,0
+openai/gpt-oss-120b,Improbable,4,0.15,0.15,2025-09-10T09:56:50.079085,Worker-11,0
+openai/gpt-oss-120b,Highly unlikely,4,0.07,0.07,2025-09-10T09:56:50.187136,Worker-14,0
+openai/gpt-oss-120b,Probable,5,0.75,0.75,2025-09-10T09:56:50.290448,Worker-12,0
+openai/gpt-oss-20b,Seldom,4,0.1,0.1,2025-09-10T09:56:50.462293,Worker-1,0
+openai/gpt-oss-120b,Unlikely,1,0.2,0.2,2025-09-10T09:56:50.767845,Worker-13,0
+openai/gpt-oss-120b,Likely,3,0.7,0.7,2025-09-10T09:56:50.787761,Worker-10,0
+openai/gpt-oss-120b,Seldom,2,0.15,0.15,2025-09-10T09:56:50.957158,Worker-3,0
+openai/gpt-oss-120b,Highly unlikely,2,0.05,0.05,2025-09-10T09:56:51.143568,Worker-18,0
+openai/gpt-oss-120b,Unlikely,2,0.2,0.2,2025-09-10T09:56:51.448841,Worker-2,0
+openai/gpt-oss-120b,Seldom,3,0.1,0.1,2025-09-10T09:56:51.457672,Worker-15,0
+openai/gpt-oss-120b,Impossible,3,0.0,0.0,2025-09-10T09:56:51.589684,Worker-12,0
+openai/gpt-oss-120b,Possible,3,0.5,0.5,2025-09-10T09:56:51.690472,Worker-4,0
+openai/gpt-oss-120b,Rare,2,0.1,0.1,2025-09-10T09:56:51.693706,Worker-3,0
+openai/gpt-oss-120b,Seldom,1,0.1,0.1,2025-09-10T09:56:51.833479,Worker-20,0
+openai/gpt-oss-120b,Seldom,5,0.15,0.15,2025-09-10T09:56:52.094689,Worker-16,0
+openai/gpt-oss-120b,Impossible,4,0.0,0.0,2025-09-10T09:56:52.318676,Worker-1,0
+openai/gpt-oss-120b,Highly unlikely,3,0.05,0.05,2025-09-10T09:56:52.505024,Worker-8,0
+openai/gpt-oss-120b,Rare,5,0.1,0.1,2025-09-10T09:56:52.743768,Worker-15,0
+openai/gpt-oss-120b,Seldom,4,0.1,0.1,2025-09-10T09:56:53.054690,Worker-9,0
+openai/gpt-oss-120b,Rare,1,0.1,0.1,2025-09-10T09:56:53.439601,Worker-10,0
+openai/gpt-oss-120b,Highly unlikely,5,0.05,0.05,2025-09-10T09:56:53.867672,Worker-5,0
+openai/gpt-oss-120b,Impossible,2,0.0,0.0,2025-09-10T09:56:54.174129,Worker-14,0
+openai/gpt-oss-120b,Impossible,1,0.0,0.0,2025-09-10T09:56:54.446739,Worker-11,0
+openai/gpt-oss-120b,Rare,4,0.1,0.1,2025-09-10T09:56:54.480019,Worker-2,0
+openai/gpt-oss-120b,Quite likely,3,0.78,0.78,2025-09-10T09:56:55.184729,Worker-17,0
+openai/gpt-oss-120b,Rare,3,0.1,0.1,2025-09-10T09:56:55.243622,Worker-18,0
+openai/gpt-oss-120b,Possible,2,0.5,0.5,2025-09-10T09:56:55.744082,Worker-19,0
+openai/gpt-oss-120b,Improbable,5,0.15,0.15,2025-09-10T09:56:56.078681,Worker-7,0
+openai/gpt-oss-120b,Highly unlikely,1,0.05,0.05,2025-09-10T09:56:57.071910,Worker-6,0
+openai/gpt-oss-120b,Impossible,5,0.0,0.0,2025-09-10T09:56:58.007384,Worker-13,0
+openai/gpt-5-nano,Definite,4,0.9,0.9,2025-09-10T09:57:00.887322,Worker-20,0
+openai/gpt-5-nano,Highly probable,2,0.9,0.9,2025-09-10T09:57:01.155711,Worker-14,0
+openai/gpt-5-nano,Almost certain,1,0.95,0.95,2025-09-10T09:57:01.822955,Worker-1,0
+openai/gpt-5-nano,Almost certain,5,0.95,0.95,2025-09-10T09:57:02.243587,Worker-10,0
+openai/gpt-5-nano,Almost certain,2,0.95,0.95,2025-09-10T09:57:04.336998,Worker-8,0
+openai/gpt-5-nano,Definite,3,0.95,0.95,2025-09-10T09:57:04.553492,Worker-3,0
+openai/gpt-5-nano,Highly probable,1,0.92,0.92,2025-09-10T09:57:04.902652,Worker-5,0
+openai/gpt-5-nano,Definite,1,0.95,0.95,2025-09-10T09:57:05.069923,Worker-12,0
+openai/gpt-5-nano,Highly probable,3,0.9,0.9,2025-09-10T09:57:05.495061,Worker-11,0
+openai/gpt-5-nano,Definite,5,0.92,0.92,2025-09-10T09:57:05.782830,Worker-16,0
+openai/gpt-5-nano,Likely,2,0.75,0.75,2025-09-10T09:57:06.459410,Worker-14,0
+openai/gpt-5-nano,A good chance,2,0.75,0.75,2025-09-10T09:57:06.707003,Worker-19,0
+openai/gpt-5-nano,A good chance,4,0.75,0.75,2025-09-10T09:57:06.893938,Worker-6,0
+openai/gpt-5-nano,Definite,2,0.98,0.98,2025-09-10T09:57:08.834505,Worker-4,0
+openai/gpt-5-nano,Likely,3,0.75,0.75,2025-09-10T09:57:09.354974,Worker-1,0
+openai/gpt-5-nano,Highly probable,4,0.95,0.95,2025-09-10T09:57:10.669630,Worker-2,0
+openai/gpt-5-nano,Quite likely,5,0.85,0.85,2025-09-10T09:57:11.689052,Worker-16,0
+openai/gpt-5-nano,A good chance,1,0.75,0.75,2025-09-10T09:57:11.764527,Worker-18,0
+openai/gpt-5-nano,Quite likely,1,0.85,0.85,2025-09-10T09:57:12.352928,Worker-3,0
+openai/gpt-5-nano,Likely,1,0.75,0.75,2025-09-10T09:57:12.622322,Worker-20,0
+openai/gpt-5-nano,Quite likely,2,0.85,0.85,2025-09-10T09:57:12.926864,Worker-5,0
+openai/gpt-5-nano,Quite likely,4,0.8,0.8,2025-09-10T09:57:13.151664,Worker-11,0
+openai/gpt-5-nano,Probable,1,0.75,0.75,2025-09-10T09:57:13.749575,Worker-2,0
+openai/gpt-5-nano,Better than even,2,0.6,0.6,2025-09-10T09:57:14.220518,Worker-19,0
+openai/gpt-5-nano,Better than even,3,0.6,0.6,2025-09-10T09:57:15.498281,Worker-6,0
+openai/gpt-5-nano,Almost certain,3,0.95,0.95,2025-09-10T09:57:15.975349,Worker-15,0
+openai/gpt-5-nano,A good chance,3,0.75,0.75,2025-09-10T09:57:17.329733,Worker-7,0
+openai/gpt-5-nano,Better than even,1,0.6,0.6,2025-09-10T09:57:18.739554,Worker-14,0
+openai/gpt-5-nano,Highly probable,5,0.95,0.95,2025-09-10T09:57:19.676148,Worker-17,0
+openai/gpt-5-nano,Better than even,5,0.6,0.6,2025-09-10T09:57:19.960405,Worker-1,0
+openai/gpt-5-nano,Possible,3,0.5,0.5,2025-09-10T09:57:19.997415,Worker-2,0
+openai/gpt-5-nano,Likely,4,0.8,0.8,2025-09-10T09:57:20.197912,Worker-10,0
+openai/gpt-5-nano,Probable,2,0.7,0.7,2025-09-10T09:57:20.257574,Worker-16,0
+openai/gpt-5-nano,Probable,3,0.7,0.7,2025-09-10T09:57:20.869237,Worker-18,0
+openai/gpt-5-nano,Better than even,4,0.6,0.6,2025-09-10T09:57:22.688366,Worker-4,0
+openai/gpt-5-nano,A good chance,5,0.75,0.75,2025-09-10T09:57:22.885825,Worker-13,0
+openai/gpt-5-nano,Possible,4,0.5,0.5,2025-09-10T09:57:23.052065,Worker-19,0
+openai/gpt-5-nano,Possible,5,0.5,0.5,2025-09-10T09:57:23.615583,Worker-6,0
+openai/gpt-5-nano,Improbable,1,0.1,0.1,2025-09-10T09:57:24.127489,Worker-15,0
+openai/gpt-5-nano,Likely,5,0.75,0.75,2025-09-10T09:57:24.402573,Worker-8,0
+openai/gpt-5-nano,Possible,1,0.5,0.5,2025-09-10T09:57:24.631368,Worker-5,0
+openai/gpt-5-nano,Almost certain,4,0.97,0.97,2025-09-10T09:57:24.732216,Worker-9,0
+openai/gpt-5-nano,Possible,2,0.4,0.4,2025-09-10T09:57:25.144439,Worker-11,0
+openai/gpt-5-nano,Probable,5,0.7,0.7,2025-09-10T09:57:25.384913,Worker-20,0
+openai/gpt-5-nano,Improbable,3,0.15,0.15,2025-09-10T09:57:26.366137,Worker-14,0
+openai/gpt-5-nano,Quite likely,3,0.85,0.85,2025-09-10T09:57:27.119925,Worker-12,0
+openai/gpt-5-nano,Highly unlikely,2,0.05,0.05,2025-09-10T09:57:27.922434,Worker-10,0
+openai/gpt-5-nano,Improbable,5,0.2,0.2,2025-09-10T09:57:28.880939,Worker-1,0
+openai/gpt-5-nano,Highly unlikely,1,0.02,0.02,2025-09-10T09:57:29.290486,Worker-2,0
+openai/gpt-5-nano,Probable,4,0.75,0.75,2025-09-10T09:57:29.587570,Worker-3,0
+openai/gpt-5-nano,Highly unlikely,3,0.05,0.05,2025-09-10T09:57:30.355529,Worker-16,0
+openai/gpt-5-nano,Highly unlikely,5,0.05,0.05,2025-09-10T09:57:30.654951,Worker-4,0
+openai/gpt-5-nano,Impossible,1,0.0,0.0,2025-09-10T09:57:30.703984,Worker-12,0
+openai/gpt-5-nano,Improbable,4,0.1,0.1,2025-09-10T09:57:31.110914,Worker-17,0
+openai/gpt-5-nano,Seldom,1,0.1,0.1,2025-09-10T09:57:31.535215,Worker-5,0
+openai/gpt-5-nano,Seldom,2,0.1,0.1,2025-09-10T09:57:32.096090,Worker-9,0
+openai/gpt-5-nano,Improbable,2,0.2,0.2,2025-09-10T09:57:32.101896,Worker-7,0
+openai/gpt-5-nano,Seldom,3,0.1,0.1,2025-09-10T09:57:32.698507,Worker-11,0
+openai/gpt-5-nano,Seldom,4,0.1,0.1,2025-09-10T09:57:33.612916,Worker-20,0
+openai/gpt-5-nano,Highly unlikely,4,0.05,0.05,2025-09-10T09:57:34.091127,Worker-18,0
+openai/gpt-5-nano,Unlikely,4,0.2,0.2,2025-09-10T09:57:34.306606,Worker-15,0
+openai/gpt-5-nano,Impossible,4,0.0,0.0,2025-09-10T09:57:34.652353,Worker-2,0
+openai/gpt-5-nano,Unlikely,3,0.15,0.15,2025-09-10T09:57:34.718759,Worker-6,0
+openai/gpt-5-nano,Unlikely,1,0.2,0.2,2025-09-10T09:57:35.220087,Worker-13,0
+openai/gpt-5-nano,Impossible,2,0.0,0.0,2025-09-10T09:57:37.677654,Worker-10,0
+openai/gpt-5-mini,Definite,3,0.95,0.95,2025-09-10T09:57:38.029698,Worker-11,0
+openai/gpt-5-mini,Definite,2,0.99,0.99,2025-09-10T09:57:38.484619,Worker-7,0
+openai/gpt-5-nano,Seldom,5,0.1,0.1,2025-09-10T09:57:38.577946,Worker-14,0
+openai/gpt-5-nano,Unlikely,2,0.2,0.2,2025-09-10T09:57:38.702774,Worker-19,0
+openai/gpt-5-mini,Almost certain,2,0.95,0.95,2025-09-10T09:57:39.575400,Worker-2,0
+openai/gpt-5-nano,Impossible,3,0.0,0.0,2025-09-10T09:57:39.641618,Worker-1,0
+openai/gpt-5-mini,Almost certain,4,0.98,0.98,2025-09-10T09:57:41.067692,Worker-13,0
+openai/gpt-5-mini,Definite,4,1.0,1.0,2025-09-10T09:57:41.123222,Worker-20,0
+openai/gpt-5-mini,Definite,1,0.99,0.99,2025-09-10T09:57:41.124606,Worker-9,0
+openai/gpt-5-nano,Rare,2,0.1,0.1,2025-09-10T09:57:41.835943,Worker-4,0
+openai/gpt-5-mini,Definite,5,0.99,0.99,2025-09-10T09:57:42.434228,Worker-18,0
+openai/gpt-5-mini,Almost certain,3,0.95,0.95,2025-09-10T09:57:43.212765,Worker-6,0
+openai/gpt-5-nano,Unlikely,5,0.2,0.2,2025-09-10T09:57:43.675461,Worker-8,0
+openai/gpt-5-mini,Highly probable,1,0.85,0.85,2025-09-10T09:57:43.708929,Worker-11,0
+openai/gpt-5-nano,Rare,4,0.15,0.15,2025-09-10T09:57:44.891272,Worker-17,0
+openai/gpt-5-mini,Highly probable,4,0.85,0.85,2025-09-10T09:57:44.987208,Worker-19,0
+openai/gpt-5-mini,Highly probable,2,0.9,0.9,2025-09-10T09:57:45.060039,Worker-7,0
+openai/gpt-5-mini,Highly probable,5,0.9,0.9,2025-09-10T09:57:45.239709,Worker-2,0
+openai/gpt-5-mini,Almost certain,1,0.98,0.98,2025-09-10T09:57:45.414211,Worker-15,0
+openai/gpt-5-mini,A good chance,2,0.75,0.75,2025-09-10T09:57:45.510501,Worker-13,0
+openai/gpt-5-nano,Rare,1,0.1,0.1,2025-09-10T09:57:46.684362,Worker-16,0
+openai/gpt-5-mini,Highly probable,3,0.9,0.9,2025-09-10T09:57:46.904761,Worker-14,0
+openai/gpt-5-mini,A good chance,4,0.75,0.75,2025-09-10T09:57:46.930907,Worker-9,0
+openai/gpt-5-mini,A good chance,3,0.75,0.75,2025-09-10T09:57:47.578693,Worker-20,0
+openai/gpt-5-nano,Rare,5,0.1,0.1,2025-09-10T09:57:47.700436,Worker-5,0
+openai/gpt-5-mini,A good chance,5,0.75,0.75,2025-09-10T09:57:47.782247,Worker-4,0
+openai/gpt-5-mini,Likely,4,0.75,0.75,2025-09-10T09:57:48.440079,Worker-11,0
+openai/gpt-5-mini,Almost certain,5,0.98,0.98,2025-09-10T09:57:48.442960,Worker-10,0
+openai/gpt-5-mini,Likely,5,0.75,0.75,2025-09-10T09:57:48.671908,Worker-17,0
+openai/gpt-5-mini,Likely,2,0.75,0.75,2025-09-10T09:57:49.112834,Worker-6,0
+openai/gpt-5-mini,Quite likely,1,0.8,0.8,2025-09-10T09:57:50.647523,Worker-19,0
+openai/gpt-5-mini,Likely,1,0.75,0.75,2025-09-10T09:57:50.683584,Worker-18,0
+openai/gpt-5-mini,Likely,3,0.8,0.8,2025-09-10T09:57:50.978458,Worker-8,0
+openai/gpt-5-mini,Better than even,3,0.6,0.6,2025-09-10T09:57:51.284970,Worker-9,0
+openai/gpt-5-mini,Quite likely,2,0.8,0.8,2025-09-10T09:57:51.427209,Worker-7,0
+openai/gpt-5-nano,Impossible,5,0.0,0.0,2025-09-10T09:57:51.433732,Worker-3,0
+openai/gpt-5-mini,Quite likely,3,0.8,0.8,2025-09-10T09:57:52.669596,Worker-2,0
+openai/gpt-5-mini,Quite likely,5,0.8,0.8,2025-09-10T09:57:53.218650,Worker-13,0
+openai/gpt-5-mini,Better than even,4,0.6,0.6,2025-09-10T09:57:53.221196,Worker-20,0
+openai/gpt-5-mini,Better than even,5,0.6,0.6,2025-09-10T09:57:53.769044,Worker-5,0
+openai/gpt-5-mini,Quite likely,4,0.8,0.8,2025-09-10T09:57:54.090314,Worker-15,0
+openai/gpt-5-mini,Probable,4,0.8,0.8,2025-09-10T09:57:54.203183,Worker-17,0
+openai/gpt-5-mini,Probable,1,0.75,0.75,2025-09-10T09:57:54.264350,Worker-4,0
+openai/gpt-5-mini,Better than even,1,0.6,0.6,2025-09-10T09:57:54.862377,Worker-16,0
+openai/gpt-5-mini,Possible,2,0.5,0.5,2025-09-10T09:57:56.358839,Worker-18,0
+openai/gpt-5-nano,Rare,3,0.1,0.1,2025-09-10T09:57:56.623753,Worker-12,0
+openai/gpt-5-mini,Improbable,1,0.1,0.1,2025-09-10T09:57:56.876043,Worker-3,0
+openai/gpt-5-mini,Improbable,4,0.1,0.1,2025-09-10T09:57:58.486178,Worker-20,0
+openai/gpt-5-mini,Probable,3,0.8,0.8,2025-09-10T09:57:58.894270,Worker-10,0
+openai/gpt-5-mini,Highly unlikely,4,0.05,0.05,2025-09-10T09:57:59.084940,Worker-16,0
+openai/gpt-5-mini,Possible,1,0.4,0.4,2025-09-10T09:57:59.321888,Worker-19,0
+openai/gpt-5-mini,Possible,3,0.5,0.5,2025-09-10T09:57:59.516835,Worker-8,0
+openai/gpt-5-mini,Improbable,2,0.1,0.1,2025-09-10T09:57:59.820422,Worker-2,0
+openai/gpt-5-mini,Probable,5,0.75,0.75,2025-09-10T09:58:00.273108,Worker-6,0
+openai/gpt-5-mini,Highly unlikely,2,0.05,0.05,2025-09-10T09:58:00.330834,Worker-17,0
+openai/gpt-5-mini,Possible,5,0.3,0.3,2025-09-10T09:58:00.577163,Worker-7,0
+openai/gpt-5-mini,Improbable,3,0.1,0.1,2025-09-10T09:58:01.385611,Worker-13,0
+openai/gpt-5-mini,Highly unlikely,1,0.05,0.05,2025-09-10T09:58:01.436889,Worker-15,0
+openai/gpt-5-mini,Highly unlikely,5,0.05,0.05,2025-09-10T09:58:02.152104,Worker-18,0
+openai/gpt-5-mini,A good chance,1,0.75,0.75,2025-09-10T09:58:02.393414,Worker-1,0
+openai/gpt-5-mini,Unlikely,1,0.2,0.2,2025-09-10T09:58:02.427619,Worker-12,0
+openai/gpt-5-mini,Highly unlikely,3,0.05,0.05,2025-09-10T09:58:02.659254,Worker-4,0
+openai/gpt-5-mini,Probable,2,0.8,0.8,2025-09-10T09:58:02.704279,Worker-11,0
+openai/gpt-5-mini,Unlikely,2,0.2,0.2,2025-09-10T09:58:03.194883,Worker-3,0
+openai/gpt-5-mini,Impossible,3,0.0,0.0,2025-09-10T09:58:04.374794,Worker-15,0
+openai/gpt-5-mini,Unlikely,4,0.2,0.2,2025-09-10T09:58:05.174402,Worker-10,0
+openai/gpt-5-mini,Impossible,1,0.0,0.0,2025-09-10T09:58:05.195798,Worker-7,0
+openai/gpt-5-mini,Unlikely,3,0.2,0.2,2025-09-10T09:58:05.199821,Worker-20,0
+openai/gpt-5-mini,Improbable,5,0.1,0.1,2025-09-10T09:58:05.273405,Worker-5,0
+openai/gpt-5-mini,Impossible,2,0.0,0.0,2025-09-10T09:58:05.387383,Worker-13,0
+openai/gpt-5-chat,Definite,1,1.0,1.0,2025-09-10T09:58:06.023213,Worker-10,0
+openai/gpt-5-mini,Seldom,2,0.15,0.15,2025-09-10T09:58:06.051896,Worker-8,0
+openai/gpt-5-chat,Definite,3,1.0,1.0,2025-09-10T09:58:06.163530,Worker-20,0
+openai/gpt-5-mini,Seldom,1,0.15,0.15,2025-09-10T09:58:06.206380,Worker-19,0
+openai/gpt-5-mini,Seldom,4,0.1,0.1,2025-09-10T09:58:06.412262,Worker-6,0
+openai/gpt-5-chat,Definite,4,1.0,1.0,2025-09-10T09:58:06.563386,Worker-5,0
+openai/gpt-5-chat,Definite,5,1.0,1.0,2025-09-10T09:58:06.589603,Worker-13,0
+openai/gpt-5-chat,Definite,2,1.0,1.0,2025-09-10T09:58:06.846224,Worker-7,0
+openai/gpt-5-chat,Almost certain,2,0.9,0.9,2025-09-10T09:58:07.043451,Worker-8,0
+openai/gpt-5-chat,Almost certain,3,0.95,0.95,2025-09-10T09:58:07.045390,Worker-20,0
+openai/gpt-5-chat,Almost certain,4,0.9,0.9,2025-09-10T09:58:07.284412,Worker-19,0
+openai/gpt-5-chat,Highly probable,1,0.85,0.85,2025-09-10T09:58:07.303790,Worker-5,0
+openai/gpt-5-chat,Almost certain,1,0.95,0.95,2025-09-10T09:58:07.417871,Worker-10,0
+openai/gpt-5-mini,Seldom,3,0.1,0.1,2025-09-10T09:58:07.492691,Worker-2,0
+openai/gpt-5-chat,Highly probable,3,0.85,0.85,2025-09-10T09:58:07.695123,Worker-7,0
+openai/gpt-5-mini,Seldom,5,0.1,0.1,2025-09-10T09:58:07.789768,Worker-17,0
+openai/gpt-5-chat,Almost certain,5,0.9,0.9,2025-09-10T09:58:07.961109,Worker-6,0
+openai/gpt-5-chat,Highly probable,4,0.85,0.85,2025-09-10T09:58:08.036791,Worker-8,0
+openai/gpt-5-mini,Impossible,4,0.0,0.0,2025-09-10T09:58:08.058921,Worker-18,0
+openai/gpt-5-chat,A good chance,2,0.7,0.7,2025-09-10T09:58:08.083382,Worker-5,0
+openai/gpt-5-chat,Highly probable,2,0.85,0.85,2025-09-10T09:58:08.132253,Worker-13,0
+openai/gpt-5-chat,A good chance,1,0.7,0.7,2025-09-10T09:58:08.193644,Worker-19,0
+openai/gpt-5-chat,Highly probable,5,0.85,0.85,2025-09-10T09:58:08.290965,Worker-20,0
+openai/gpt-5-mini,Rare,3,0.05,0.05,2025-09-10T09:58:08.496687,Worker-11,0
+openai/gpt-5-chat,Likely,2,0.75,0.75,2025-09-10T09:58:08.828463,Worker-6,0
+openai/gpt-5-chat,A good chance,5,0.7,0.7,2025-09-10T09:58:08.830442,Worker-7,0
+openai/gpt-5-chat,A good chance,4,0.7,0.7,2025-09-10T09:58:08.835547,Worker-2,0
+openai/gpt-5-chat,Likely,1,0.75,0.75,2025-09-10T09:58:08.861560,Worker-17,0
+openai/gpt-5-mini,Impossible,5,0.0,0.0,2025-09-10T09:58:08.862730,Worker-1,0
+openai/gpt-5-chat,Likely,4,0.75,0.75,2025-09-10T09:58:09.070732,Worker-18,0
+openai/gpt-5-chat,Quite likely,1,0.75,0.75,2025-09-10T09:58:09.102077,Worker-13,0
+openai/gpt-5-chat,A good chance,3,0.7,0.7,2025-09-10T09:58:09.126457,Worker-10,0
+openai/gpt-5-chat,Quite likely,2,0.75,0.75,2025-09-10T09:58:09.144315,Worker-19,0
+openai/gpt-5-chat,Quite likely,4,0.75,0.75,2025-09-10T09:58:09.275024,Worker-11,0
+openai/gpt-5-chat,Better than even,2,0.6,0.6,2025-09-10T09:58:09.713654,Worker-2,0
+openai/gpt-5-chat,Quite likely,3,0.75,0.75,2025-09-10T09:58:09.740747,Worker-20,0
+openai/gpt-5-chat,Better than even,4,0.6,0.6,2025-09-10T09:58:09.774936,Worker-1,0
+openai/gpt-5-chat,Better than even,3,0.6,0.6,2025-09-10T09:58:09.813948,Worker-17,0
+openai/gpt-5-mini,Better than even,2,0.6,0.6,2025-09-10T09:58:09.905194,Worker-14,0
+openai/gpt-5-chat,Likely,3,0.75,0.75,2025-09-10T09:58:10.008185,Worker-8,0
+openai/gpt-5-chat,Better than even,1,0.6,0.6,2025-09-10T09:58:10.052720,Worker-7,0
+openai/gpt-5-chat,Probable,3,0.75,0.75,2025-09-10T09:58:10.074700,Worker-19,0
+openai/gpt-5-chat,Probable,1,0.75,0.75,2025-09-10T09:58:10.099424,Worker-13,0
+openai/gpt-5-chat,Likely,5,0.75,0.75,2025-09-10T09:58:10.106426,Worker-5,0
+openai/gpt-5-chat,Probable,4,0.75,0.75,2025-09-10T09:58:10.144945,Worker-11,0
+openai/gpt-5-chat,Probable,2,0.75,0.75,2025-09-10T09:58:10.151515,Worker-10,0
+openai/gpt-5-chat,Quite likely,5,0.75,0.75,2025-09-10T09:58:10.242314,Worker-6,0
+openai/gpt-5-chat,Possible,1,0.5,0.5,2025-09-10T09:58:10.425914,Worker-20,0
+openai/gpt-5-mini,Unlikely,5,0.2,0.2,2025-09-10T09:58:10.449184,Worker-16,0
+openai/gpt-5-chat,Better than even,5,0.6,0.6,2025-09-10T09:58:10.495628,Worker-18,0
+openai/gpt-5-chat,Possible,2,0.5,0.5,2025-09-10T09:58:10.658776,Worker-1,0
+openai/gpt-5-chat,Possible,3,0.5,0.5,2025-09-10T09:58:10.696249,Worker-17,0
+openai/gpt-5-mini,Rare,4,0.1,0.1,2025-09-10T09:58:10.723885,Worker-3,0
+openai/gpt-5-chat,Possible,4,0.5,0.5,2025-09-10T09:58:10.731941,Worker-14,0
+openai/gpt-5-chat,Probable,5,0.75,0.75,2025-09-10T09:58:10.802301,Worker-2,0
+openai/gpt-5-chat,Improbable,3,0.2,0.2,2025-09-10T09:58:10.804401,Worker-13,0
+openai/gpt-5-chat,Possible,5,0.5,0.5,2025-09-10T09:58:10.845279,Worker-8,0
+openai/gpt-5-chat,Improbable,5,0.2,0.2,2025-09-10T09:58:10.905776,Worker-11,0
+openai/gpt-5-chat,Improbable,2,0.2,0.2,2025-09-10T09:58:10.957547,Worker-19,0
+openai/gpt-5-chat,Highly unlikely,1,0.1,0.1,2025-09-10T09:58:10.978536,Worker-10,0
+openai/gpt-5-chat,Improbable,4,0.2,0.2,2025-09-10T09:58:10.984438,Worker-5,0
+openai/gpt-5-chat,Highly unlikely,2,0.1,0.1,2025-09-10T09:58:11.206618,Worker-6,0
+openai/gpt-5-chat,Highly unlikely,4,0.1,0.1,2025-09-10T09:58:11.250907,Worker-16,0
+openai/gpt-5-chat,Highly unlikely,3,0.1,0.1,2025-09-10T09:58:11.353757,Worker-20,0
+openai/gpt-5-chat,Unlikely,1,0.2,0.2,2025-09-10T09:58:11.461435,Worker-1,0
+openai/gpt-5-chat,Highly unlikely,5,0.1,0.1,2025-09-10T09:58:11.499039,Worker-18,0
+openai/gpt-5-chat,Seldom,1,0.2,0.2,2025-09-10T09:58:11.536763,Worker-13,0
+openai/gpt-5-chat,Unlikely,5,0.25,0.25,2025-09-10T09:58:11.759502,Worker-2,0
+openai/gpt-5-chat,Improbable,1,0.2,0.2,2025-09-10T09:58:11.836535,Worker-7,0
+openai/gpt-5-mini,Possible,4,0.5,0.5,2025-09-10T09:58:11.880285,Worker-9,0
+openai/gpt-5-chat,Impossible,2,0.0,0.0,2025-09-10T09:58:11.905844,Worker-6,0
+openai/gpt-5-chat,Seldom,4,0.15,0.15,2025-09-10T09:58:11.926737,Worker-19,0
+openai/gpt-5-mini,Rare,2,0.05,0.05,2025-09-10T09:58:11.934313,Worker-4,0
+openai/gpt-5-chat,Seldom,3,0.15,0.15,2025-09-10T09:58:11.989981,Worker-11,0
+openai/gpt-5-chat,Seldom,2,0.1,0.1,2025-09-10T09:58:11.992820,Worker-8,0
+openai/gpt-5-chat,Impossible,1,0.0,0.0,2025-09-10T09:58:12.049221,Worker-5,0
+openai/gpt-5-chat,Unlikely,3,0.2,0.2,2025-09-10T09:58:12.050370,Worker-3,0
+openai/gpt-5-chat,Impossible,4,0.0,0.0,2025-09-10T09:58:12.164966,Worker-20,0
+openai/gpt-5-chat,Rare,1,0.1,0.1,2025-09-10T09:58:12.243456,Worker-18,0
+openai/gpt-5-chat,Rare,2,0.1,0.1,2025-09-10T09:58:12.459730,Worker-13,0
+openai/gpt-5-chat,Impossible,5,0.0,0.0,2025-09-10T09:58:12.541915,Worker-1,0
+openai/gpt-5-mini,Rare,5,0.05,0.05,2025-09-10T09:58:12.601772,Worker-15,0
+openai/gpt-5-chat,Rare,5,0.1,0.1,2025-09-10T09:58:12.883426,Worker-9,0
+deepseek/deepseek-chat-v3.1,Definite,3,1.0,1.0,2025-09-10T09:58:13.007020,Worker-4,0
+deepseek/deepseek-chat-v3.1,Definite,5,1.0,1.0,2025-09-10T09:58:13.170324,Worker-8,0
+openai/gpt-5-chat,Rare,4,0.1,0.1,2025-09-10T09:58:13.205007,Worker-7,0
+deepseek/deepseek-chat-v3.1,Almost certain,4,0.9,0.9,2025-09-10T09:58:13.347350,Worker-18,0
+openai/gpt-5-chat,Unlikely,2,0.25,0.25,2025-09-10T09:58:13.420041,Worker-17,0
+deepseek/deepseek-chat-v3.1,Definite,4,1.0,1.0,2025-09-10T09:58:13.429791,Worker-11,0
+deepseek/deepseek-chat-v3.1,Almost certain,1,0.9,0.9,2025-09-10T09:58:13.440706,Worker-5,0
+deepseek/deepseek-chat-v3.1,Definite,2,0.99,0.99,2025-09-10T09:58:13.487562,Worker-19,0
+openai/gpt-5-chat,Seldom,5,0.1,0.1,2025-09-10T09:58:13.828522,Worker-10,0
+openai/gpt-5-chat,Unlikely,4,0.2,0.2,2025-09-10T09:58:14.041118,Worker-14,0
+deepseek/deepseek-chat-v3.1,A good chance,2,0.7,0.7,2025-09-10T09:58:14.197635,Worker-18,0
+deepseek/deepseek-chat-v3.1,A good chance,5,0.7,0.7,2025-09-10T09:58:14.264571,Worker-5,0
+deepseek/deepseek-chat-v3.1,Highly probable,3,0.9,0.9,2025-09-10T09:58:14.337346,Worker-9,0
+deepseek/deepseek-chat-v3.1,Highly probable,2,0.85,0.85,2025-09-10T09:58:14.478068,Worker-15,0
+deepseek/deepseek-chat-v3.1,A good chance,4,0.7,0.7,2025-09-10T09:58:14.571928,Worker-11,0
+openai/gpt-5-chat,Impossible,3,0.0,0.0,2025-09-10T09:58:14.601168,Worker-16,0
+deepseek/deepseek-chat-v3.1,Almost certain,2,0.85,0.85,2025-09-10T09:58:14.686379,Worker-3,0
+deepseek/deepseek-chat-v3.1,Highly probable,1,0.8,0.8,2025-09-10T09:58:14.719295,Worker-1,0
+deepseek/deepseek-chat-v3.1,Likely,1,0.7,0.7,2025-09-10T09:58:14.787368,Worker-19,0
+deepseek/deepseek-chat-v3.1,Likely,3,0.7,0.7,2025-09-10T09:58:14.994170,Worker-14,0
+deepseek/deepseek-chat-v3.1,Likely,4,0.7,0.7,2025-09-10T09:58:15.018626,Worker-18,0
+deepseek/deepseek-chat-v3.1,Almost certain,3,0.85,0.85,2025-09-10T09:58:15.021618,Worker-20,0
+openai/gpt-5-chat,Rare,3,0.1,0.1,2025-09-10T09:58:15.063214,Worker-2,0
+deepseek/deepseek-chat-v3.1,A good chance,1,0.7,0.7,2025-09-10T09:58:15.200124,Worker-7,0
+deepseek/deepseek-chat-v3.1,Highly probable,4,0.8,0.8,2025-09-10T09:58:15.438144,Worker-4,0
+deepseek/deepseek-chat-v3.1,A good chance,3,0.7,0.7,2025-09-10T09:58:15.721383,Worker-17,0
+deepseek/deepseek-chat-v3.1,Better than even,5,0.6,0.6,2025-09-10T09:58:15.777992,Worker-20,0
+deepseek/deepseek-chat-v3.1,Almost certain,5,0.9,0.9,2025-09-10T09:58:15.809544,Worker-13,0
+deepseek/deepseek-chat-v3.1,Quite likely,3,0.8,0.8,2025-09-10T09:58:15.869092,Worker-11,0
+deepseek/deepseek-chat-v3.1,Better than even,2,0.6,0.6,2025-09-10T09:58:16.037946,Worker-19,0
+deepseek/deepseek-chat-v3.1,Highly probable,5,0.85,0.85,2025-09-10T09:58:16.230577,Worker-8,0
+deepseek/deepseek-chat-v3.1,Quite likely,1,0.8,0.8,2025-09-10T09:58:16.480399,Worker-9,0
+deepseek/deepseek-chat-v3.1,Possible,3,0.5,0.5,2025-09-10T09:58:16.482895,Worker-19,0
+deepseek/deepseek-chat-v3.1,Probable,2,0.75,0.75,2025-09-10T09:58:16.492732,Worker-7,0
+deepseek/deepseek-chat-v3.1,Quite likely,5,0.8,0.8,2025-09-10T09:58:16.718750,Worker-3,0
+deepseek/deepseek-chat-v3.1,Probable,3,0.75,0.75,2025-09-10T09:58:16.844610,Worker-4,0
+deepseek/deepseek-chat-v3.1,Possible,2,0.5,0.5,2025-09-10T09:58:17.011661,Worker-11,0
+deepseek/deepseek-chat-v3.1,Possible,1,0.5,0.5,2025-09-10T09:58:17.078520,Worker-13,0
+deepseek/deepseek-chat-v3.1,Better than even,4,0.6,0.6,2025-09-10T09:58:17.257218,Worker-18,0
+deepseek/deepseek-chat-v3.1,Probable,4,0.75,0.75,2025-09-10T09:58:17.320845,Worker-17,0
+deepseek/deepseek-chat-v3.1,Likely,2,0.7,0.7,2025-09-10T09:58:17.526600,Worker-10,0
+deepseek/deepseek-chat-v3.1,Better than even,3,0.6,0.6,2025-09-10T09:58:17.682060,Worker-14,0
+deepseek/deepseek-chat-v3.1,Possible,4,0.7,0.7,2025-09-10T09:58:17.700757,Worker-8,0
+deepseek/deepseek-chat-v3.1,Possible,5,0.4,0.4,2025-09-10T09:58:17.779616,Worker-9,0
+deepseek/deepseek-chat-v3.1,Improbable,2,0.3,0.3,2025-09-10T09:58:17.919704,Worker-7,0
+deepseek/deepseek-chat-v3.1,Highly unlikely,1,0.2,0.2,2025-09-10T09:58:17.959366,Worker-13,0
+deepseek/deepseek-chat-v3.1,Improbable,4,0.15,0.15,2025-09-10T09:58:17.961770,Worker-4,0
+deepseek/deepseek-chat-v3.1,Quite likely,2,0.8,0.8,2025-09-10T09:58:17.994594,Worker-15,0
+deepseek/deepseek-chat-v3.1,Highly unlikely,3,0.1,0.1,2025-09-10T09:58:18.076866,Worker-17,0
+deepseek/deepseek-chat-v3.1,Improbable,3,0.1,0.1,2025-09-10T09:58:18.441670,Worker-3,0
+deepseek/deepseek-chat-v3.1,Highly unlikely,2,0.1,0.1,2025-09-10T09:58:18.582405,Worker-18,0
+deepseek/deepseek-chat-v3.1,Unlikely,1,0.25,0.25,2025-09-10T09:58:18.605744,Worker-8,0
+deepseek/deepseek-chat-v3.1,Unlikely,2,0.25,0.25,2025-09-10T09:58:18.644034,Worker-9,0
+deepseek/deepseek-chat-v3.1,Likely,5,0.7,0.7,2025-09-10T09:58:18.670639,Worker-5,0
+deepseek/deepseek-chat-v3.1,Highly unlikely,5,0.1,0.1,2025-09-10T09:58:18.776933,Worker-14,0
+deepseek/deepseek-chat-v3.1,Quite likely,4,0.85,0.85,2025-09-10T09:58:18.842931,Worker-16,0
+deepseek/deepseek-chat-v3.1,Better than even,1,0.6,0.6,2025-09-10T09:58:19.070526,Worker-1,0
+deepseek/deepseek-chat-v3.1,Probable,1,0.75,0.75,2025-09-10T09:58:19.184455,Worker-2,0
+deepseek/deepseek-chat-v3.1,Unlikely,5,0.3,0.3,2025-09-10T09:58:19.275312,Worker-4,0
+deepseek/deepseek-chat-v3.1,Unlikely,4,0.3,0.3,2025-09-10T09:58:19.369950,Worker-13,0
+deepseek/deepseek-chat-v3.1,Seldom,3,0.1,0.1,2025-09-10T09:58:19.570356,Worker-3,0
+deepseek/deepseek-chat-v3.1,Seldom,2,0.1,0.1,2025-09-10T09:58:19.617017,Worker-17,0
+deepseek/deepseek-chat-v3.1,Impossible,3,0.0,0.0,2025-09-10T09:58:19.791791,Worker-14,0
+deepseek/deepseek-chat-v3.1,Seldom,4,0.1,0.1,2025-09-10T09:58:19.794342,Worker-18,0
+deepseek/deepseek-chat-v3.1,Probable,5,0.75,0.75,2025-09-10T09:58:19.836256,Worker-20,0
+deepseek/deepseek-chat-v3.1,Impossible,1,0.0,0.0,2025-09-10T09:58:19.851652,Worker-9,0
+deepseek/deepseek-chat-v3.1,Impossible,5,0.0,0.0,2025-09-10T09:58:20.039804,Worker-1,0
+deepseek/deepseek-chat-v3.1,Rare,1,0.1,0.1,2025-09-10T09:58:20.235768,Worker-2,0
+deepseek/deepseek-chat-v3.1,Impossible,2,0.0,0.0,2025-09-10T09:58:20.242911,Worker-5,0
+deepseek/deepseek-chat-v3.1,Rare,2,0.1,0.1,2025-09-10T09:58:20.454887,Worker-4,0
+moonshotai/kimi-k2-0905,Definite,1,1.0,1.0,2025-09-10T09:58:20.520755,Worker-14,0
+deepseek/deepseek-chat-v3.1,Seldom,5,0.1,0.1,2025-09-10T09:58:20.649075,Worker-8,0
+moonshotai/kimi-k2-0905,Definite,3,1.0,1.0,2025-09-10T09:58:20.653359,Worker-20,0
+moonshotai/kimi-k2-0905,Definite,4,0.99,0.99,2025-09-10T09:58:20.656601,Worker-9,0
+deepseek/deepseek-chat-v3.1,Improbable,1,0.2,0.2,2025-09-10T09:58:20.804655,Worker-19,0
+moonshotai/kimi-k2-0905,Definite,5,0.99,0.99,2025-09-10T09:58:20.911897,Worker-1,0
+deepseek/deepseek-chat-v3.1,Rare,5,0.1,0.1,2025-09-10T09:58:21.048151,Worker-17,0
+moonshotai/kimi-k2-0905,Almost certain,3,0.95,0.95,2025-09-10T09:58:21.158852,Worker-4,0
+moonshotai/kimi-k2-0905,Almost certain,5,0.95,0.95,2025-09-10T09:58:21.230813,Worker-8,0
+moonshotai/kimi-k2-0905,Almost certain,2,0.95,0.95,2025-09-10T09:58:21.312097,Worker-5,0
+moonshotai/kimi-k2-0905,Highly probable,1,0.85,0.85,2025-09-10T09:58:21.341896,Worker-20,0
+deepseek/deepseek-chat-v3.1,Impossible,4,0.0,0.0,2025-09-10T09:58:21.543161,Worker-16,0
+moonshotai/kimi-k2-0905,Highly probable,2,0.85,0.85,2025-09-10T09:58:21.546703,Worker-9,0
+moonshotai/kimi-k2-0905,Highly probable,4,0.85,0.85,2025-09-10T09:58:21.569383,Worker-1,0
+moonshotai/kimi-k2-0905,Definite,2,1.0,1.0,2025-09-10T09:58:21.589602,Worker-18,0
+moonshotai/kimi-k2-0905,A good chance,1,0.7,0.7,2025-09-10T09:58:21.828405,Worker-4,0
+deepseek/deepseek-chat-v3.1,Rare,3,0.15,0.15,2025-09-10T09:58:21.854482,Worker-13,0
+moonshotai/kimi-k2-0905,Highly probable,3,0.85,0.85,2025-09-10T09:58:22.015921,Worker-19,0
+moonshotai/kimi-k2-0905,Almost certain,1,0.95,0.95,2025-09-10T09:58:22.101926,Worker-2,0
+moonshotai/kimi-k2-0905,Almost certain,4,0.95,0.95,2025-09-10T09:58:22.117012,Worker-14,0
+moonshotai/kimi-k2-0905,A good chance,2,0.65,0.65,2025-09-10T09:58:22.298862,Worker-8,0
+moonshotai/kimi-k2-0905,Highly probable,5,0.85,0.85,2025-09-10T09:58:22.695729,Worker-17,0
+moonshotai/kimi-k2-0905,Likely,4,0.7,0.7,2025-09-10T09:58:22.732172,Worker-4,0
+moonshotai/kimi-k2-0905,Likely,1,0.7,0.7,2025-09-10T09:58:22.733542,Worker-9,0
+moonshotai/kimi-k2-0905,A good chance,5,0.7,0.7,2025-09-10T09:58:22.742905,Worker-16,0
+moonshotai/kimi-k2-0905,Quite likely,1,0.75,0.75,2025-09-10T09:58:22.776684,Worker-19,0
+moonshotai/kimi-k2-0905,Likely,5,0.7,0.7,2025-09-10T09:58:22.890976,Worker-13,0
+deepseek/deepseek-chat-v3.1,Improbable,5,0.2,0.2,2025-09-10T09:58:22.927603,Worker-11,0
+moonshotai/kimi-k2-0905,Likely,3,0.7,0.7,2025-09-10T09:58:22.977605,Worker-18,0
+moonshotai/kimi-k2-0905,Quite likely,3,0.7,0.7,2025-09-10T09:58:23.026603,Worker-14,0
+moonshotai/kimi-k2-0905,Likely,2,0.7,0.7,2025-09-10T09:58:23.061123,Worker-1,0
+moonshotai/kimi-k2-0905,A good chance,4,0.7,0.7,2025-09-10T09:58:23.147834,Worker-20,0
+deepseek/deepseek-chat-v3.1,Seldom,1,0.1,0.1,2025-09-10T09:58:23.238174,Worker-15,0
+moonshotai/kimi-k2-0905,A good chance,3,0.65,0.65,2025-09-10T09:58:23.497457,Worker-5,0
+moonshotai/kimi-k2-0905,Better than even,5,0.6,0.6,2025-09-10T09:58:23.567370,Worker-13,0
+deepseek/deepseek-chat-v3.1,Rare,4,0.1,0.1,2025-09-10T09:58:23.671552,Worker-3,0
+moonshotai/kimi-k2-0905,Better than even,4,0.6,0.6,2025-09-10T09:58:23.717313,Worker-19,0
+moonshotai/kimi-k2-0905,Probable,2,0.7,0.7,2025-09-10T09:58:23.828995,Worker-18,0
+moonshotai/kimi-k2-0905,Possible,3,0.3,0.3,2025-09-10T09:58:24.232449,Worker-13,0
+moonshotai/kimi-k2-0905,Quite likely,2,0.75,0.75,2025-09-10T09:58:24.235654,Worker-2,0
+moonshotai/kimi-k2-0905,Better than even,2,0.55,0.55,2025-09-10T09:58:24.287058,Worker-9,0
+moonshotai/kimi-k2-0905,Probable,4,0.7,0.7,2025-09-10T09:58:24.297505,Worker-1,0
+moonshotai/kimi-k2-0905,Probable,3,0.7,0.7,2025-09-10T09:58:24.400248,Worker-14,0
+deepseek/deepseek-chat-v3.1,Definite,1,1.0,1.0,2025-09-10T09:58:24.471761,Worker-6,0
+moonshotai/kimi-k2-0905,Possible,1,0.3,0.3,2025-09-10T09:58:24.570582,Worker-15,0
+moonshotai/kimi-k2-0905,Improbable,1,0.2,0.2,2025-09-10T09:58:24.611940,Worker-18,0
+moonshotai/kimi-k2-0905,Quite likely,5,0.7,0.7,2025-09-10T09:58:24.641963,Worker-17,0
+moonshotai/kimi-k2-0905,Probable,5,0.7,0.7,2025-09-10T09:58:24.656550,Worker-20,0
+moonshotai/kimi-k2-0905,Improbable,5,0.25,0.25,2025-09-10T09:58:24.750775,Worker-1,0
+moonshotai/kimi-k2-0905,Possible,2,0.3,0.3,2025-09-10T09:58:24.864887,Worker-5,0
+moonshotai/kimi-k2-0905,Improbable,3,0.15,0.15,2025-09-10T09:58:24.902337,Worker-2,0
+moonshotai/kimi-k2-0905,Improbable,2,0.15,0.15,2025-09-10T09:58:24.956951,Worker-13,0
+moonshotai/kimi-k2-0905,Possible,4,0.3,0.3,2025-09-10T09:58:24.979743,Worker-3,0
+moonshotai/kimi-k2-0905,Better than even,3,0.6,0.6,2025-09-10T09:58:25.099702,Worker-16,0
+moonshotai/kimi-k2-0905,Probable,1,0.75,0.75,2025-09-10T09:58:25.225398,Worker-11,0
+moonshotai/kimi-k2-0905,Highly unlikely,1,0.1,0.1,2025-09-10T09:58:25.227655,Worker-14,0
+moonshotai/kimi-k2-0905,Better than even,1,0.55,0.55,2025-09-10T09:58:25.241291,Worker-4,0
+moonshotai/kimi-k2-0905,Seldom,3,0.15,0.15,2025-09-10T09:58:25.968566,Worker-11,0
+moonshotai/kimi-k2-0905,Unlikely,1,0.25,0.25,2025-09-10T09:58:25.972517,Worker-20,0
+moonshotai/kimi-k2-0905,Highly unlikely,4,0.1,0.1,2025-09-10T09:58:25.975902,Worker-18,0
+moonshotai/kimi-k2-0905,Seldom,1,0.1,0.1,2025-09-10T09:58:25.979223,Worker-3,0
+moonshotai/kimi-k2-0905,Unlikely,3,0.25,0.25,2025-09-10T09:58:25.982817,Worker-5,0
+moonshotai/kimi-k2-0905,Possible,5,0.3,0.3,2025-09-10T09:58:25.986098,Worker-19,0
+moonshotai/kimi-k2-0905,Unlikely,5,0.25,0.25,2025-09-10T09:58:25.996289,Worker-13,0
+moonshotai/kimi-k2-0905,Unlikely,4,0.25,0.25,2025-09-10T09:58:25.998793,Worker-2,0
+moonshotai/kimi-k2-0905,Improbable,4,0.2,0.2,2025-09-10T09:58:26.069894,Worker-9,0
+moonshotai/kimi-k2-0905,Seldom,4,0.1,0.1,2025-09-10T09:58:26.381659,Worker-14,0
+moonshotai/kimi-k2-0905,Highly unlikely,5,0.1,0.1,2025-09-10T09:58:26.384749,Worker-17,0
+moonshotai/kimi-k2-0905,Highly unlikely,3,0.15,0.15,2025-09-10T09:58:26.590474,Worker-15,0
+moonshotai/kimi-k2-0905,Unlikely,2,0.25,0.25,2025-09-10T09:58:26.604168,Worker-1,0
+moonshotai/kimi-k2-0905,Impossible,2,0.0,0.0,2025-09-10T09:58:26.637361,Worker-20,0
+moonshotai/kimi-k2-0905,Seldom,2,0.15,0.15,2025-09-10T09:58:26.674541,Worker-16,0
+moonshotai/kimi-k2-0905,Rare,2,0.1,0.1,2025-09-10T09:58:26.764653,Worker-13,0
+openai/gpt-5-mini,Rare,1,0.05,0.05,2025-09-10T09:58:26.836036,Worker-12,0
+moonshotai/kimi-k2-0905,Seldom,5,0.15,0.15,2025-09-10T09:58:26.878745,Worker-4,0
+moonshotai/kimi-k2-0905,Rare,4,0.1,0.1,2025-09-10T09:58:26.906391,Worker-9,0
+moonshotai/kimi-k2-0905,Rare,1,0.05,0.05,2025-09-10T09:58:26.921520,Worker-19,0
+moonshotai/kimi-k2-0905,Impossible,5,0.0,0.0,2025-09-10T09:58:27.068960,Worker-5,0
+moonshotai/kimi-k2-0905,Highly unlikely,2,0.15,0.15,2025-09-10T09:58:27.356822,Worker-6,0
+moonshotai/kimi-k2-0905,Rare,3,0.1,0.1,2025-09-10T09:58:27.592355,Worker-2,0
+moonshotai/kimi-k2-0905,Impossible,3,0.0,0.0,2025-09-10T09:58:27.689147,Worker-18,0
+moonshotai/kimi-k2-0905,Impossible,4,0.0,0.0,2025-09-10T09:58:27.802631,Worker-3,0
+openrouter/sonoma-sky-alpha,Definite,1,1.0,1.0,2025-09-10T09:58:27.864979,Worker-17,0
+openrouter/sonoma-sky-alpha,Definite,4,1.0,1.0,2025-09-10T09:58:27.881258,Worker-20,0
+openrouter/sonoma-sky-alpha,Definite,3,1.0,1.0,2025-09-10T09:58:27.938304,Worker-1,0
+openrouter/sonoma-sky-alpha,Definite,2,1.0,1.0,2025-09-10T09:58:27.990863,Worker-15,0
+openrouter/sonoma-sky-alpha,Definite,5,1.0,1.0,2025-09-10T09:58:28.046962,Worker-16,0
+moonshotai/kimi-k2-0905,Impossible,1,0.0,0.0,2025-09-10T09:58:28.117403,Worker-11,0
+openrouter/sonoma-sky-alpha,Almost certain,1,0.95,0.95,2025-09-10T09:58:28.551969,Worker-13,0
+openrouter/sonoma-sky-alpha,Almost certain,4,0.95,0.95,2025-09-10T09:58:28.592957,Worker-9,0
+moonshotai/kimi-k2-0905,Quite likely,4,0.7,0.7,2025-09-10T09:58:28.668256,Worker-8,0
+moonshotai/kimi-k2-0905,Rare,5,0.1,0.1,2025-09-10T09:58:28.811459,Worker-14,0
+openrouter/sonoma-sky-alpha,Almost certain,5,0.95,0.95,2025-09-10T09:58:29.076868,Worker-19,0
+openrouter/sonoma-sky-alpha,Almost certain,2,0.99,0.99,2025-09-10T09:58:29.080078,Worker-12,0
+openrouter/sonoma-sky-alpha,Highly probable,2,0.9,0.9,2025-09-10T09:58:29.230017,Worker-6,0
+openrouter/sonoma-sky-alpha,Highly probable,1,0.9,0.9,2025-09-10T09:58:29.276388,Worker-5,0
+openrouter/sonoma-sky-alpha,Almost certain,3,0.95,0.95,2025-09-10T09:58:29.507368,Worker-4,0
+openrouter/sonoma-sky-alpha,Highly probable,4,0.9,0.9,2025-09-10T09:58:29.512988,Worker-18,0
+openrouter/sonoma-sky-alpha,Highly probable,3,0.9,0.9,2025-09-10T09:58:29.537322,Worker-2,0
+openrouter/sonoma-sky-alpha,Highly probable,5,0.85,0.85,2025-09-10T09:58:29.766735,Worker-3,0
+openrouter/sonoma-sky-alpha,Likely,1,0.7,0.7,2025-09-10T09:58:30.289785,Worker-11,0
+openrouter/sonoma-sky-alpha,A good chance,5,0.7,0.7,2025-09-10T09:58:30.321409,Worker-16,0
+openrouter/sonoma-sky-alpha,A good chance,1,0.7,0.7,2025-09-10T09:58:30.463574,Worker-17,0
+openrouter/sonoma-sky-alpha,A good chance,4,0.7,0.7,2025-09-10T09:58:30.539433,Worker-15,0
+openrouter/sonoma-sky-alpha,A good chance,2,0.7,0.7,2025-09-10T09:58:30.573010,Worker-20,0
+openrouter/sonoma-sky-alpha,Likely,4,0.7,0.7,2025-09-10T09:58:30.613565,Worker-8,0
+openrouter/sonoma-sky-alpha,Likely,5,0.7,0.7,2025-09-10T09:58:30.935756,Worker-14,0
+openrouter/sonoma-sky-alpha,A good chance,3,0.7,0.7,2025-09-10T09:58:31.084792,Worker-1,0
+openrouter/sonoma-sky-alpha,Likely,3,0.7,0.7,2025-09-10T09:58:31.160598,Worker-9,0
+openrouter/sonoma-sky-alpha,Quite likely,2,0.8,0.8,2025-09-10T09:58:31.285405,Worker-12,0
+openrouter/sonoma-sky-alpha,Quite likely,3,0.8,0.8,2025-09-10T09:58:31.323355,Worker-6,0
+openrouter/sonoma-sky-alpha,Quite likely,1,0.8,0.8,2025-09-10T09:58:31.396164,Worker-19,0
+openrouter/sonoma-sky-alpha,Quite likely,5,0.8,0.8,2025-09-10T09:58:31.479974,Worker-4,0
+openrouter/sonoma-sky-alpha,Quite likely,4,0.8,0.8,2025-09-10T09:58:31.497337,Worker-5,0
+openrouter/sonoma-sky-alpha,Likely,2,0.7,0.7,2025-09-10T09:58:31.501296,Worker-13,0
+deepseek/deepseek-chat-v3.1,Highly unlikely,4,0.1,0.1,2025-09-10T09:58:32.411563,Worker-10,0
+openrouter/sonoma-sky-alpha,Better than even,4,0.6,0.6,2025-09-10T09:58:32.649222,Worker-11,0
+openrouter/sonoma-sky-alpha,Probable,1,0.7,0.7,2025-09-10T09:58:32.698859,Worker-17,0
+openrouter/sonoma-sky-alpha,Better than even,2,0.6,0.6,2025-09-10T09:58:32.718140,Worker-2,0
+deepseek/deepseek-chat-v3.1,Unlikely,3,0.3,0.3,2025-09-10T09:58:32.724392,Worker-7,0
+openrouter/sonoma-sky-alpha,Probable,3,0.7,0.7,2025-09-10T09:58:33.174974,Worker-20,0
+openrouter/sonoma-sky-alpha,Improbable,1,0.2,0.2,2025-09-10T09:58:33.263597,Worker-4,0
+openrouter/sonoma-sky-alpha,Better than even,3,0.6,0.6,2025-09-10T09:58:33.436766,Worker-3,0
+openrouter/sonoma-sky-alpha,Possible,3,0.2,0.2,2025-09-10T09:58:33.683803,Worker-12,0
+openrouter/sonoma-sky-alpha,Better than even,1,0.6,0.6,2025-09-10T09:58:33.779003,Worker-18,0
+openrouter/sonoma-sky-alpha,Probable,4,0.75,0.75,2025-09-10T09:58:33.878403,Worker-8,0
+openrouter/sonoma-sky-alpha,Possible,4,0.25,0.25,2025-09-10T09:58:34.038903,Worker-6,0
+openrouter/sonoma-sky-alpha,Probable,2,0.7,0.7,2025-09-10T09:58:34.052952,Worker-15,0
+openrouter/sonoma-sky-alpha,Improbable,2,0.1,0.1,2025-09-10T09:58:34.056344,Worker-5,0
+openrouter/sonoma-sky-alpha,Improbable,3,0.25,0.25,2025-09-10T09:58:34.235170,Worker-13,0
+openrouter/sonoma-sky-alpha,Possible,2,0.3,0.3,2025-09-10T09:58:34.468238,Worker-9,0
+openrouter/sonoma-sky-alpha,Possible,1,0.3,0.3,2025-09-10T09:58:34.669330,Worker-1,0
+openrouter/sonoma-sky-alpha,Probable,5,0.75,0.75,2025-09-10T09:58:34.961267,Worker-14,0
+openrouter/sonoma-sky-alpha,Better than even,5,0.6,0.6,2025-09-10T09:58:35.113293,Worker-16,0
+openrouter/sonoma-sky-alpha,Possible,5,0.25,0.25,2025-09-10T09:58:35.209651,Worker-19,0
+openrouter/sonoma-sky-alpha,Highly unlikely,1,0.05,0.05,2025-09-10T09:58:35.603312,Worker-17,0
+openrouter/sonoma-sky-alpha,Improbable,5,0.2,0.2,2025-09-10T09:58:35.660026,Worker-11,0
+openrouter/sonoma-sky-alpha,Highly unlikely,5,0.05,0.05,2025-09-10T09:58:35.769427,Worker-4,0
+openrouter/sonoma-sky-alpha,Highly unlikely,4,0.05,0.05,2025-09-10T09:58:35.794608,Worker-20,0
+openrouter/sonoma-sky-alpha,Highly unlikely,3,0.05,0.05,2025-09-10T09:58:35.851515,Worker-7,0
+openrouter/sonoma-sky-alpha,Highly unlikely,2,0.05,0.05,2025-09-10T09:58:35.859549,Worker-2,0
+openrouter/sonoma-sky-alpha,Unlikely,4,0.25,0.25,2025-09-10T09:58:35.957048,Worker-8,0
+openrouter/sonoma-sky-alpha,Unlikely,3,0.25,0.25,2025-09-10T09:58:36.145864,Worker-18,0
+openrouter/sonoma-sky-alpha,Unlikely,1,0.2,0.2,2025-09-10T09:58:36.174443,Worker-3,0
+openrouter/sonoma-sky-alpha,Unlikely,2,0.25,0.25,2025-09-10T09:58:36.206175,Worker-12,0
+openrouter/sonoma-sky-alpha,Unlikely,5,0.25,0.25,2025-09-10T09:58:36.226566,Worker-6,0
+openrouter/sonoma-sky-alpha,Improbable,4,0.2,0.2,2025-09-10T09:58:36.568998,Worker-10,0
+openrouter/sonoma-sky-alpha,Impossible,1,0.0,0.0,2025-09-10T09:58:36.572570,Worker-14,0
+openrouter/sonoma-dusk-alpha,Definite,4,1.0,1.0,2025-09-10T09:58:36.918032,Worker-6,0
+openrouter/sonoma-dusk-alpha,Definite,2,1.0,1.0,2025-09-10T09:58:36.920482,Worker-3,0
+openrouter/sonoma-dusk-alpha,Definite,1,1.0,1.0,2025-09-10T09:58:36.948089,Worker-18,0
+openrouter/sonoma-sky-alpha,Impossible,2,0.0,0.0,2025-09-10T09:58:36.968050,Worker-16,0
+openrouter/sonoma-sky-alpha,Impossible,5,0.0,0.0,2025-09-10T09:58:37.084549,Worker-11,0
+openrouter/sonoma-sky-alpha,Impossible,3,0.0,0.0,2025-09-10T09:58:37.092055,Worker-19,0
+openrouter/sonoma-dusk-alpha,Definite,5,1.0,1.0,2025-09-10T09:58:37.204770,Worker-10,0
+openrouter/sonoma-dusk-alpha,Almost certain,1,0.95,0.95,2025-09-10T09:58:37.234788,Worker-14,0
+openrouter/sonoma-sky-alpha,Seldom,2,0.1,0.1,2025-09-10T09:58:37.358529,Worker-5,0
+openrouter/sonoma-sky-alpha,Seldom,1,0.1,0.1,2025-09-10T09:58:37.473272,Worker-15,0
+openrouter/sonoma-sky-alpha,Seldom,4,0.1,0.1,2025-09-10T09:58:37.600120,Worker-9,0
+openrouter/sonoma-sky-alpha,Seldom,5,0.1,0.1,2025-09-10T09:58:37.640251,Worker-1,0
+openrouter/sonoma-sky-alpha,Impossible,4,0.0,0.0,2025-09-10T09:58:37.673295,Worker-17,0
+openrouter/sonoma-dusk-alpha,Almost certain,5,0.95,0.95,2025-09-10T09:58:37.744580,Worker-16,0
+openrouter/sonoma-dusk-alpha,Almost certain,3,0.95,0.95,2025-09-10T09:58:37.779181,Worker-3,0
+openrouter/sonoma-dusk-alpha,Almost certain,2,0.95,0.95,2025-09-10T09:58:37.799579,Worker-6,0
+openrouter/sonoma-dusk-alpha,Almost certain,4,0.95,0.95,2025-09-10T09:58:37.896279,Worker-18,0
+openrouter/sonoma-dusk-alpha,Highly probable,1,0.9,0.9,2025-09-10T09:58:37.962449,Worker-11,0
+openrouter/sonoma-dusk-alpha,Highly probable,2,0.9,0.9,2025-09-10T09:58:37.989902,Worker-19,0
+openrouter/sonoma-dusk-alpha,Highly probable,4,0.9,0.9,2025-09-10T09:58:38.087213,Worker-14,0
+openrouter/sonoma-dusk-alpha,Highly probable,3,0.9,0.9,2025-09-10T09:58:38.145896,Worker-10,0
+openrouter/sonoma-dusk-alpha,Highly probable,5,0.9,0.9,2025-09-10T09:58:38.182243,Worker-5,0
+openrouter/sonoma-sky-alpha,Seldom,3,0.1,0.1,2025-09-10T09:58:38.380296,Worker-13,0
+openrouter/sonoma-sky-alpha,Rare,2,0.05,0.05,2025-09-10T09:58:38.609040,Worker-20,0
+openrouter/sonoma-sky-alpha,Rare,3,0.05,0.05,2025-09-10T09:58:38.629323,Worker-7,0
+openrouter/sonoma-sky-alpha,Rare,1,0.05,0.05,2025-09-10T09:58:38.664850,Worker-4,0
+openrouter/sonoma-dusk-alpha,Likely,1,0.7,0.7,2025-09-10T09:58:38.669381,Worker-3,0
+openrouter/sonoma-dusk-alpha,Definite,3,1.0,1.0,2025-09-10T09:58:38.682620,Worker-12,0
+openrouter/sonoma-dusk-alpha,Likely,5,0.7,0.7,2025-09-10T09:58:38.693839,Worker-19,0
+openrouter/sonoma-dusk-alpha,Likely,2,0.7,0.7,2025-09-10T09:58:38.704554,Worker-6,0
+openrouter/sonoma-dusk-alpha,A good chance,3,0.65,0.65,2025-09-10T09:58:38.713375,Worker-1,0
+openrouter/sonoma-dusk-alpha,A good chance,2,0.7,0.7,2025-09-10T09:58:38.718839,Worker-9,0
+openrouter/sonoma-dusk-alpha,Likely,4,0.7,0.7,2025-09-10T09:58:38.721217,Worker-11,0
+openrouter/sonoma-dusk-alpha,Quite likely,2,0.75,0.75,2025-09-10T09:58:38.875898,Worker-10,0
+openrouter/sonoma-dusk-alpha,Quite likely,3,0.75,0.75,2025-09-10T09:58:38.878690,Worker-5,0
+openrouter/sonoma-dusk-alpha,A good chance,4,0.6,0.6,2025-09-10T09:58:38.932740,Worker-17,0
+openrouter/sonoma-dusk-alpha,A good chance,1,0.7,0.7,2025-09-10T09:58:38.971693,Worker-15,0
+openrouter/sonoma-dusk-alpha,Quite likely,1,0.75,0.75,2025-09-10T09:58:38.994966,Worker-14,0
+openrouter/sonoma-dusk-alpha,Likely,3,0.75,0.75,2025-09-10T09:58:39.011071,Worker-18,0
+openrouter/sonoma-dusk-alpha,A good chance,5,0.65,0.65,2025-09-10T09:58:39.022470,Worker-16,0
+openrouter/sonoma-dusk-alpha,Quite likely,4,0.8,0.8,2025-09-10T09:58:39.159004,Worker-13,0
+openrouter/sonoma-dusk-alpha,Quite likely,5,0.75,0.75,2025-09-10T09:58:39.303319,Worker-20,0
+openrouter/sonoma-dusk-alpha,Better than even,3,0.6,0.6,2025-09-10T09:58:39.428023,Worker-3,0
+openrouter/sonoma-dusk-alpha,Better than even,2,0.6,0.6,2025-09-10T09:58:39.457033,Worker-4,0
+openrouter/sonoma-dusk-alpha,Probable,2,0.7,0.7,2025-09-10T09:58:39.543939,Worker-1,0
+openrouter/sonoma-dusk-alpha,Probable,5,0.75,0.75,2025-09-10T09:58:39.572330,Worker-10,0
+openrouter/sonoma-dusk-alpha,Better than even,5,0.6,0.6,2025-09-10T09:58:39.602438,Worker-19,0
+openrouter/sonoma-dusk-alpha,Probable,4,0.75,0.75,2025-09-10T09:58:39.605292,Worker-11,0
+openrouter/sonoma-dusk-alpha,Better than even,1,0.6,0.6,2025-09-10T09:58:39.608515,Worker-7,0
+openrouter/sonoma-dusk-alpha,Possible,3,0.25,0.25,2025-09-10T09:58:39.611649,Worker-15,0
+openrouter/sonoma-dusk-alpha,Better than even,4,0.6,0.6,2025-09-10T09:58:39.643273,Worker-12,0
+openrouter/sonoma-dusk-alpha,Possible,5,0.3,0.3,2025-09-10T09:58:39.730667,Worker-18,0
+openrouter/sonoma-dusk-alpha,Probable,3,0.7,0.7,2025-09-10T09:58:39.736516,Worker-9,0
+openrouter/sonoma-dusk-alpha,Improbable,1,0.2,0.2,2025-09-10T09:58:40.033255,Worker-16,0
+openrouter/sonoma-dusk-alpha,Possible,4,0.3,0.3,2025-09-10T09:58:40.035502,Worker-14,0
+openrouter/sonoma-sky-alpha,Rare,5,0.05,0.05,2025-09-10T09:58:40.038377,Worker-8,0
+openrouter/sonoma-dusk-alpha,Possible,1,0.3,0.3,2025-09-10T09:58:40.053944,Worker-5,0
+openrouter/sonoma-dusk-alpha,Improbable,2,0.2,0.2,2025-09-10T09:58:40.065469,Worker-13,0
+openrouter/sonoma-dusk-alpha,Unlikely,2,0.3,0.3,2025-09-10T09:58:40.561922,Worker-12,0
+openrouter/sonoma-dusk-alpha,Highly unlikely,5,0.05,0.05,2025-09-10T09:58:40.568708,Worker-7,0
+openrouter/sonoma-dusk-alpha,Unlikely,3,0.3,0.3,2025-09-10T09:58:40.583859,Worker-18,0
+openrouter/sonoma-dusk-alpha,Improbable,5,0.2,0.2,2025-09-10T09:58:40.587391,Worker-4,0
+openrouter/sonoma-dusk-alpha,Highly unlikely,1,0.05,0.05,2025-09-10T09:58:40.590600,Worker-1,0
+openrouter/sonoma-dusk-alpha,Highly unlikely,3,0.05,0.05,2025-09-10T09:58:40.593380,Worker-19,0
+openrouter/sonoma-dusk-alpha,Improbable,3,0.2,0.2,2025-09-10T09:58:40.597666,Worker-20,0
+openrouter/sonoma-dusk-alpha,Highly unlikely,2,0.05,0.05,2025-09-10T09:58:40.600486,Worker-10,0
+openrouter/sonoma-dusk-alpha,Highly unlikely,4,0.05,0.05,2025-09-10T09:58:40.602576,Worker-11,0
+openrouter/sonoma-dusk-alpha,Unlikely,1,0.3,0.3,2025-09-10T09:58:40.661230,Worker-15,0
+openrouter/sonoma-dusk-alpha,Unlikely,4,0.3,0.3,2025-09-10T09:58:40.781146,Worker-9,0
+openrouter/sonoma-dusk-alpha,Improbable,4,0.15,0.15,2025-09-10T09:58:40.797740,Worker-3,0
+openrouter/sonoma-dusk-alpha,Seldom,3,0.1,0.1,2025-09-10T09:58:40.919148,Worker-5,0
+openrouter/sonoma-dusk-alpha,Seldom,1,0.1,0.1,2025-09-10T09:58:40.922390,Worker-14,0
+openrouter/sonoma-dusk-alpha,Seldom,4,0.1,0.1,2025-09-10T09:58:40.934468,Worker-13,0
+openrouter/sonoma-dusk-alpha,Unlikely,5,0.25,0.25,2025-09-10T09:58:40.986678,Worker-16,0
+openrouter/sonoma-dusk-alpha,Seldom,2,0.1,0.1,2025-09-10T09:58:41.014806,Worker-8,0
+openrouter/sonoma-dusk-alpha,Probable,1,0.75,0.75,2025-09-10T09:58:41.152836,Worker-6,0
+mistralai/mistral-medium-3,Definite,1,1.0,1.0,2025-09-10T09:58:41.407596,Worker-3,0
+openrouter/sonoma-dusk-alpha,Rare,5,0.1,0.1,2025-09-10T09:58:41.441576,Worker-9,0
+openrouter/sonoma-dusk-alpha,Rare,2,0.05,0.05,2025-09-10T09:58:41.472665,Worker-10,0
+openrouter/sonoma-dusk-alpha,Rare,3,0.05,0.05,2025-09-10T09:58:41.475467,Worker-11,0
+openrouter/sonoma-dusk-alpha,Rare,1,0.05,0.05,2025-09-10T09:58:41.482283,Worker-20,0
+openrouter/sonoma-dusk-alpha,Impossible,1,0.0,0.0,2025-09-10T09:58:41.507660,Worker-7,0
+openrouter/sonoma-dusk-alpha,Impossible,5,0.0,0.0,2025-09-10T09:58:41.511463,Worker-19,0
+openrouter/sonoma-dusk-alpha,Impossible,2,0.0,0.0,2025-09-10T09:58:41.512183,Worker-18,0
+openrouter/sonoma-dusk-alpha,Impossible,3,0.0,0.0,2025-09-10T09:58:41.519528,Worker-4,0
+mistralai/mistral-medium-3,Definite,4,1.0,1.0,2025-09-10T09:58:41.564441,Worker-13,0
+openrouter/sonoma-dusk-alpha,Rare,4,0.1,0.1,2025-09-10T09:58:41.584177,Worker-15,0
+openrouter/sonoma-dusk-alpha,Impossible,4,0.0,0.0,2025-09-10T09:58:41.607158,Worker-1,0
+mistralai/mistral-medium-3,Definite,5,1.0,1.0,2025-09-10T09:58:41.611595,Worker-16,0
+openrouter/sonoma-dusk-alpha,Seldom,5,0.1,0.1,2025-09-10T09:58:41.655298,Worker-12,0
+mistralai/mistral-medium-3,Almost certain,1,0.95,0.95,2025-09-10T09:58:41.702638,Worker-8,0
+mistralai/mistral-medium-3,Definite,2,1.0,1.0,2025-09-10T09:58:41.941723,Worker-5,0
+mistralai/mistral-medium-3,Almost certain,3,0.95,0.95,2025-09-10T09:58:41.975056,Worker-3,0
+mistralai/mistral-medium-3,Almost certain,4,0.95,0.95,2025-09-10T09:58:42.180051,Worker-9,0
+mistralai/mistral-medium-3,Highly probable,1,0.9,0.9,2025-09-10T09:58:42.218842,Worker-11,0
+mistralai/mistral-medium-3,Highly probable,4,0.9,0.9,2025-09-10T09:58:42.223397,Worker-19,0
+mistralai/mistral-medium-3,Highly probable,3,0.9,0.9,2025-09-10T09:58:42.231643,Worker-7,0
+mistralai/mistral-medium-3,Highly probable,5,0.9,0.9,2025-09-10T09:58:42.235016,Worker-18,0
+mistralai/mistral-medium-3,Almost certain,5,0.95,0.95,2025-09-10T09:58:42.239646,Worker-10,0
+mistralai/mistral-medium-3,Almost certain,2,0.95,0.95,2025-09-10T09:58:42.264850,Worker-6,0
+mistralai/mistral-medium-3,Definite,3,1.0,1.0,2025-09-10T09:58:42.279482,Worker-14,0
+mistralai/mistral-medium-3,A good chance,1,0.7,0.7,2025-09-10T09:58:42.298878,Worker-4,0
+mistralai/mistral-medium-3,A good chance,3,0.7,0.7,2025-09-10T09:58:42.342767,Worker-15,0
+mistralai/mistral-medium-3,Likely,1,0.75,0.75,2025-09-10T09:58:42.348606,Worker-12,0
+mistralai/mistral-medium-3,Likely,2,0.75,0.75,2025-09-10T09:58:42.421253,Worker-8,0
+mistralai/mistral-medium-3,Highly probable,2,0.9,0.9,2025-09-10T09:58:42.555368,Worker-20,0
+mistralai/mistral-medium-3,A good chance,2,0.7,0.7,2025-09-10T09:58:42.587904,Worker-13,0
+mistralai/mistral-medium-3,Likely,4,0.75,0.75,2025-09-10T09:58:42.591305,Worker-3,0
+openrouter/sonoma-sky-alpha,Rare,4,0.05,0.05,2025-09-10T09:58:42.617561,Worker-2,0
+mistralai/mistral-medium-3,Likely,3,0.75,0.75,2025-09-10T09:58:42.694596,Worker-5,0
+mistralai/mistral-medium-3,A good chance,4,0.7,0.7,2025-09-10T09:58:42.784775,Worker-1,0
+mistralai/mistral-medium-3,Quite likely,2,0.75,0.75,2025-09-10T09:58:42.964203,Worker-19,0
+mistralai/mistral-medium-3,Better than even,3,0.6,0.6,2025-09-10T09:58:42.986233,Worker-4,0
+openrouter/sonoma-dusk-alpha,Possible,2,0.3,0.3,2025-09-10T09:58:43.068973,Worker-17,0
+mistralai/mistral-medium-3,Better than even,4,0.6,0.6,2025-09-10T09:58:43.086486,Worker-15,0
+mistralai/mistral-medium-3,Probable,3,0.75,0.75,2025-09-10T09:58:43.192016,Worker-13,0
+mistralai/mistral-medium-3,Quite likely,4,0.8,0.8,2025-09-10T09:58:43.222492,Worker-18,0
+mistralai/mistral-medium-3,Quite likely,5,0.7,0.7,2025-09-10T09:58:43.250644,Worker-10,0
+mistralai/mistral-medium-3,Probable,4,0.75,0.75,2025-09-10T09:58:43.259236,Worker-3,0
+mistralai/mistral-medium-3,Better than even,1,0.6,0.6,2025-09-10T09:58:43.269778,Worker-6,0
+mistralai/mistral-medium-3,Quite likely,3,0.75,0.75,2025-09-10T09:58:43.271516,Worker-7,0
+mistralai/mistral-medium-3,Possible,1,0.5,0.5,2025-09-10T09:58:43.281234,Worker-5,0
+mistralai/mistral-medium-3,Quite likely,1,0.75,0.75,2025-09-10T09:58:43.369491,Worker-11,0
+mistralai/mistral-medium-3,Probable,2,0.75,0.75,2025-09-10T09:58:43.485939,Worker-20,0
+mistralai/mistral-medium-3,Possible,2,0.5,0.5,2025-09-10T09:58:43.492364,Worker-1,0
+mistralai/mistral-medium-3,Probable,5,0.75,0.75,2025-09-10T09:58:43.532081,Worker-2,0
+mistralai/mistral-medium-3,Better than even,2,0.6,0.6,2025-09-10T09:58:43.534881,Worker-14,0
+mistralai/mistral-medium-3,Likely,5,0.75,0.75,2025-09-10T09:58:43.543372,Worker-9,0
+mistralai/mistral-medium-3,Possible,5,0.5,0.5,2025-09-10T09:58:43.635445,Worker-17,0
+mistralai/mistral-medium-3,A good chance,5,0.7,0.7,2025-09-10T09:58:43.640661,Worker-16,0
+mistralai/mistral-medium-3,Better than even,5,0.6,0.6,2025-09-10T09:58:43.663676,Worker-12,0
+mistralai/mistral-medium-3,Possible,4,0.5,0.5,2025-09-10T09:58:43.709779,Worker-4,0
+mistralai/mistral-medium-3,Possible,3,0.5,0.5,2025-09-10T09:58:43.752453,Worker-19,0
+mistralai/mistral-medium-3,Improbable,2,0.1,0.1,2025-09-10T09:58:43.815452,Worker-13,0
+mistralai/mistral-medium-3,Improbable,1,0.1,0.1,2025-09-10T09:58:43.868239,Worker-15,0
+mistralai/mistral-medium-3,Highly unlikely,4,0.1,0.1,2025-09-10T09:58:43.967462,Worker-11,0
+mistralai/mistral-medium-3,Highly unlikely,2,0.1,0.1,2025-09-10T09:58:44.037020,Worker-7,0
+mistralai/mistral-medium-3,Improbable,3,0.1,0.1,2025-09-10T09:58:44.062473,Worker-18,0
+mistralai/mistral-medium-3,Highly unlikely,3,0.1,0.1,2025-09-10T09:58:44.116128,Worker-5,0
+mistralai/mistral-medium-3,Improbable,5,0.1,0.1,2025-09-10T09:58:44.135923,Worker-3,0
+mistralai/mistral-medium-3,Highly unlikely,1,0.1,0.1,2025-09-10T09:58:44.160963,Worker-6,0
+mistralai/mistral-medium-3,Highly unlikely,5,0.1,0.1,2025-09-10T09:58:44.219025,Worker-20,0
+mistralai/mistral-medium-3,Unlikely,1,0.2,0.2,2025-09-10T09:58:44.245338,Worker-1,0
+mistralai/mistral-medium-3,Seldom,2,0.1,0.1,2025-09-10T09:58:44.286425,Worker-12,0
+mistralai/mistral-medium-3,Impossible,1,0.0,0.0,2025-09-10T09:58:44.471938,Worker-15,0
+mistralai/mistral-medium-3,Unlikely,4,0.3,0.3,2025-09-10T09:58:44.502503,Worker-9,0
+mistralai/mistral-medium-3,Unlikely,2,0.2,0.2,2025-09-10T09:58:44.506991,Worker-2,0
+mistralai/mistral-medium-3,Seldom,1,0.1,0.1,2025-09-10T09:58:44.573900,Worker-16,0
+mistralai/mistral-medium-3,Unlikely,3,0.25,0.25,2025-09-10T09:58:44.579630,Worker-14,0
+mistralai/mistral-medium-3,Seldom,3,0.1,0.1,2025-09-10T09:58:44.679868,Worker-4,0
+mistralai/mistral-medium-3,Rare,2,0.1,0.1,2025-09-10T09:58:44.715170,Worker-6,0
+mistralai/mistral-medium-3,Impossible,5,0.0,0.0,2025-09-10T09:58:44.721772,Worker-5,0
+mistralai/mistral-medium-3,Impossible,4,0.0,0.0,2025-09-10T09:58:44.744672,Worker-18,0
+mistralai/mistral-medium-3,Rare,1,0.1,0.1,2025-09-10T09:58:44.830102,Worker-3,0
+mistralai/mistral-medium-3,Rare,5,0.1,0.1,2025-09-10T09:58:44.909924,Worker-12,0
+mistralai/mistral-medium-3,Seldom,5,0.1,0.1,2025-09-10T09:58:44.947682,Worker-13,0
+mistralai/mistral-medium-3,Probable,1,0.75,0.75,2025-09-10T09:58:45.100170,Worker-8,0
+mistralai/mistral-medium-3,Impossible,3,0.0,0.0,2025-09-10T09:58:45.121531,Worker-7,0
+mistralai/mistral-medium-3,Impossible,2,0.0,0.0,2025-09-10T09:58:45.159190,Worker-11,0
+mistralai/mistral-medium-3,Rare,3,0.1,0.1,2025-09-10T09:58:45.238583,Worker-20,0
+mistralai/mistral-medium-3,Unlikely,5,0.3,0.3,2025-09-10T09:58:45.278182,Worker-17,0
+mistralai/mistral-medium-3,Rare,4,0.1,0.1,2025-09-10T09:58:45.348623,Worker-1,0
+anthropic/claude-3.7-sonnet,Definite,5,1.0,1.0,2025-09-10T09:58:46.039716,Worker-14,0
+anthropic/claude-3.7-sonnet,Definite,4,1.0,1.0,2025-09-10T09:58:46.042168,Worker-16,0
+anthropic/claude-3.7-sonnet,Almost certain,3,0.95,0.95,2025-09-10T09:58:46.097268,Worker-5,0
+anthropic/claude-3.7-sonnet,Definite,3,1.0,1.0,2025-09-10T09:58:46.132054,Worker-2,0
+anthropic/claude-3.7-sonnet,Almost certain,1,0.95,0.95,2025-09-10T09:58:46.164386,Worker-4,0
+anthropic/claude-3.7-sonnet,Almost certain,4,0.95,0.95,2025-09-10T09:58:46.165588,Worker-18,0
+anthropic/claude-3.7-sonnet,Definite,1,1.0,1.0,2025-09-10T09:58:46.173096,Worker-15,0
+anthropic/claude-3.7-sonnet,Definite,2,0.99,0.99,2025-09-10T09:58:46.208000,Worker-9,0
+anthropic/claude-3.7-sonnet,Almost certain,2,0.95,0.95,2025-09-10T09:58:46.229590,Worker-6,0
+anthropic/claude-3.7-sonnet,Almost certain,5,0.95,0.95,2025-09-10T09:58:46.303411,Worker-3,0
+anthropic/claude-3.7-sonnet,Highly probable,1,0.85,0.85,2025-09-10T09:58:46.342476,Worker-12,0
+anthropic/claude-3.7-sonnet,A good chance,1,0.7,0.7,2025-09-10T09:58:46.591626,Worker-20,0
+anthropic/claude-3.7-sonnet,Highly probable,3,0.85,0.85,2025-09-10T09:58:46.678726,Worker-8,0
+anthropic/claude-3.7-sonnet,Highly probable,5,0.85,0.85,2025-09-10T09:58:46.726908,Worker-11,0
+anthropic/claude-3.7-sonnet,A good chance,3,0.7,0.7,2025-09-10T09:58:46.794980,Worker-1,0
+anthropic/claude-3.7-sonnet,Highly probable,4,0.85,0.85,2025-09-10T09:58:46.879548,Worker-7,0
+anthropic/claude-3.7-sonnet,Highly probable,2,0.9,0.9,2025-09-10T09:58:47.027387,Worker-13,0
+anthropic/claude-3.7-sonnet,A good chance,2,0.7,0.7,2025-09-10T09:58:47.057053,Worker-17,0
+anthropic/claude-3.7-sonnet,Likely,2,0.7,0.7,2025-09-10T09:58:47.635386,Worker-2,0
+anthropic/claude-3.7-sonnet,A good chance,4,0.7,0.7,2025-09-10T09:58:47.666814,Worker-14,0
+anthropic/claude-3.7-sonnet,Likely,5,0.7,0.7,2025-09-10T09:58:47.669802,Worker-15,0
+anthropic/claude-3.7-sonnet,Likely,1,0.7,0.7,2025-09-10T09:58:47.694102,Worker-5,0
+anthropic/claude-3.7-sonnet,Quite likely,1,0.8,0.8,2025-09-10T09:58:47.776850,Worker-9,0
+anthropic/claude-3.7-sonnet,Quite likely,2,0.75,0.75,2025-09-10T09:58:47.898694,Worker-6,0
+anthropic/claude-3.7-sonnet,A good chance,5,0.7,0.7,2025-09-10T09:58:47.942209,Worker-16,0
+anthropic/claude-3.7-sonnet,Likely,3,0.7,0.7,2025-09-10T09:58:47.946910,Worker-4,0
+anthropic/claude-3.7-sonnet,Quite likely,4,0.75,0.75,2025-09-10T09:58:48.212801,Worker-12,0
+anthropic/claude-3.7-sonnet,Quite likely,3,0.8,0.8,2025-09-10T09:58:48.392737,Worker-3,0
+anthropic/claude-3.7-sonnet,Better than even,1,0.6,0.6,2025-09-10T09:58:48.398076,Worker-8,0
+anthropic/claude-3.7-sonnet,Quite likely,5,0.8,0.8,2025-09-10T09:58:48.407629,Worker-20,0
+anthropic/claude-3.7-sonnet,Likely,4,0.7,0.7,2025-09-10T09:58:48.452777,Worker-18,0
+anthropic/claude-3.7-sonnet,Better than even,3,0.6,0.6,2025-09-10T09:58:48.563845,Worker-1,0
+anthropic/claude-3.7-sonnet,Better than even,4,0.6,0.6,2025-09-10T09:58:49.088819,Worker-7,0
+anthropic/claude-3.7-sonnet,Probable,4,0.75,0.75,2025-09-10T09:58:49.098087,Worker-15,0
+anthropic/claude-3.7-sonnet,Possible,2,0.5,0.5,2025-09-10T09:58:49.273620,Worker-6,0
+anthropic/claude-3.7-sonnet,Probable,3,0.75,0.75,2025-09-10T09:58:49.308239,Worker-14,0
+anthropic/claude-3.7-sonnet,Possible,3,0.4,0.4,2025-09-10T09:58:49.324236,Worker-16,0
+anthropic/claude-3.7-sonnet,Probable,2,0.75,0.75,2025-09-10T09:58:49.392808,Worker-2,0
+anthropic/claude-3.7-sonnet,Probable,5,0.7,0.7,2025-09-10T09:58:49.581397,Worker-5,0
+anthropic/claude-3.7-sonnet,Better than even,5,0.6,0.6,2025-09-10T09:58:49.613591,Worker-13,0
+anthropic/claude-3.7-sonnet,Improbable,1,0.2,0.2,2025-09-10T09:58:49.617676,Worker-3,0
+anthropic/claude-3.7-sonnet,Possible,1,0.5,0.5,2025-09-10T09:58:49.620308,Worker-9,0
+anthropic/claude-3.7-sonnet,Improbable,4,0.2,0.2,2025-09-10T09:58:49.657797,Worker-18,0
+anthropic/claude-3.7-sonnet,Probable,1,0.7,0.7,2025-09-10T09:58:49.741987,Worker-17,0
+anthropic/claude-3.7-sonnet,Possible,5,0.4,0.4,2025-09-10T09:58:49.780447,Worker-12,0
+anthropic/claude-3.7-sonnet,Possible,4,0.5,0.5,2025-09-10T09:58:50.055309,Worker-4,0
+anthropic/claude-3.7-sonnet,Improbable,2,0.15,0.15,2025-09-10T09:58:50.070603,Worker-8,0
+anthropic/claude-3.7-sonnet,Improbable,5,0.15,0.15,2025-09-10T09:58:50.191096,Worker-1,0
+anthropic/claude-3.7-sonnet,Improbable,3,0.2,0.2,2025-09-10T09:58:50.194319,Worker-20,0
+anthropic/claude-3.7-sonnet,Better than even,2,0.6,0.6,2025-09-10T09:58:50.210286,Worker-11,0
+anthropic/claude-3.7-sonnet,Highly unlikely,2,0.1,0.1,2025-09-10T09:58:50.526156,Worker-15,0
+anthropic/claude-3.7-sonnet,Highly unlikely,5,0.1,0.1,2025-09-10T09:58:50.731729,Worker-16,0
+anthropic/claude-3.7-sonnet,Highly unlikely,4,0.1,0.1,2025-09-10T09:58:50.760042,Worker-14,0
+anthropic/claude-3.7-sonnet,Seldom,1,0.15,0.15,2025-09-10T09:58:50.787842,Worker-18,0
+anthropic/claude-3.7-sonnet,Highly unlikely,3,0.15,0.15,2025-09-10T09:58:50.812761,Worker-6,0
+anthropic/claude-3.7-sonnet,Highly unlikely,1,0.1,0.1,2025-09-10T09:58:50.822673,Worker-7,0
+mistralai/mistral-medium-3,Seldom,4,0.1,0.1,2025-09-10T09:58:50.865200,Worker-19,0
+anthropic/claude-3.7-sonnet,Unlikely,4,0.2,0.2,2025-09-10T09:58:50.878769,Worker-3,0
+mistralai/mistral-medium-3,Improbable,4,0.1,0.1,2025-09-10T09:58:50.921661,Worker-10,0
+anthropic/claude-3.7-sonnet,Seldom,3,0.2,0.2,2025-09-10T09:58:51.047793,Worker-12,0
+anthropic/claude-3.7-sonnet,Unlikely,2,0.25,0.25,2025-09-10T09:58:51.324931,Worker-5,0
+anthropic/claude-3.7-sonnet,Unlikely,5,0.2,0.2,2025-09-10T09:58:51.565838,Worker-9,0
+anthropic/claude-3.7-sonnet,Seldom,2,0.15,0.15,2025-09-10T09:58:51.590540,Worker-17,0
+anthropic/claude-3.7-sonnet,Unlikely,3,0.25,0.25,2025-09-10T09:58:51.595596,Worker-13,0
+anthropic/claude-3.7-sonnet,Impossible,3,0.0,0.0,2025-09-10T09:58:51.670360,Worker-11,0
+deepseek/deepseek-chat,Definite,3,1.0,1.0,2025-09-10T09:58:51.792032,Worker-12,0
+anthropic/claude-3.7-sonnet,Seldom,5,0.15,0.15,2025-09-10T09:58:51.943196,Worker-8,0
+anthropic/claude-3.7-sonnet,Rare,1,0.1,0.1,2025-09-10T09:58:52.093000,Worker-14,0
+anthropic/claude-3.7-sonnet,Seldom,4,0.15,0.15,2025-09-10T09:58:52.145388,Worker-4,0
+anthropic/claude-3.7-sonnet,Rare,2,0.15,0.15,2025-09-10T09:58:52.170978,Worker-18,0
+anthropic/claude-3.7-sonnet,Impossible,5,0.0,0.0,2025-09-10T09:58:52.203617,Worker-16,0
+deepseek/deepseek-chat,Definite,5,1.0,1.0,2025-09-10T09:58:52.214936,Worker-9,0
+anthropic/claude-3.7-sonnet,Impossible,1,0.0,0.0,2025-09-10T09:58:52.235413,Worker-1,0
+anthropic/claude-3.7-sonnet,Rare,3,0.1,0.1,2025-09-10T09:58:52.248805,Worker-6,0
+deepseek/deepseek-chat,Almost certain,2,0.9,0.9,2025-09-10T09:58:52.269444,Worker-13,0
+anthropic/claude-3.7-sonnet,Unlikely,1,0.25,0.25,2025-09-10T09:58:52.271854,Worker-2,0
+anthropic/claude-3.7-sonnet,Rare,5,0.05,0.05,2025-09-10T09:58:52.346033,Worker-19,0
+anthropic/claude-3.7-sonnet,Rare,4,0.1,0.1,2025-09-10T09:58:52.378130,Worker-7,0
+deepseek/deepseek-chat,Definite,4,1.0,1.0,2025-09-10T09:58:52.537797,Worker-5,0
+anthropic/claude-3.7-sonnet,Impossible,2,0.0,0.0,2025-09-10T09:58:52.541591,Worker-20,0
+deepseek/deepseek-chat,Definite,2,1.0,1.0,2025-09-10T09:58:52.617456,Worker-10,0
+anthropic/claude-3.7-sonnet,Impossible,4,0.0,0.0,2025-09-10T09:58:52.620777,Worker-15,0
+deepseek/deepseek-chat,Almost certain,1,0.9,0.9,2025-09-10T09:58:52.629961,Worker-17,0
+deepseek/deepseek-chat,Almost certain,3,0.9,0.9,2025-09-10T09:58:52.650332,Worker-11,0
+deepseek/deepseek-chat,Almost certain,4,0.9,0.9,2025-09-10T09:58:52.808217,Worker-12,0
+deepseek/deepseek-chat,Definite,1,1.0,1.0,2025-09-10T09:58:52.836363,Worker-3,0
+deepseek/deepseek-chat,Highly probable,1,0.9,0.9,2025-09-10T09:58:53.053957,Worker-14,0
+deepseek/deepseek-chat,A good chance,1,0.7,0.7,2025-09-10T09:58:53.089670,Worker-1,0
+deepseek/deepseek-chat,A good chance,4,0.7,0.7,2025-09-10T09:58:53.160684,Worker-2,0
+deepseek/deepseek-chat,Highly probable,4,0.9,0.9,2025-09-10T09:58:53.192583,Worker-16,0
+deepseek/deepseek-chat,Likely,1,0.7,0.7,2025-09-10T09:58:53.205796,Worker-7,0
+deepseek/deepseek-chat,A good chance,2,0.75,0.75,2025-09-10T09:58:53.207004,Worker-6,0
+deepseek/deepseek-chat,Likely,4,0.7,0.7,2025-09-10T09:58:53.219244,Worker-10,0
+deepseek/deepseek-chat,Almost certain,5,0.9,0.9,2025-09-10T09:58:53.244431,Worker-8,0
+deepseek/deepseek-chat,Highly probable,5,0.85,0.85,2025-09-10T09:58:53.311407,Worker-9,0
+deepseek/deepseek-chat,Highly probable,2,0.85,0.85,2025-09-10T09:58:53.369854,Worker-4,0
+deepseek/deepseek-chat,A good chance,3,0.7,0.7,2025-09-10T09:58:53.549913,Worker-13,0
+deepseek/deepseek-chat,Highly probable,3,0.85,0.85,2025-09-10T09:58:53.723284,Worker-18,0
+deepseek/deepseek-chat,Likely,5,0.7,0.7,2025-09-10T09:58:53.777636,Worker-15,0
+deepseek/deepseek-chat,Quite likely,3,0.8,0.8,2025-09-10T09:58:53.895920,Worker-12,0
+deepseek/deepseek-chat,Better than even,1,0.6,0.6,2025-09-10T09:58:53.917006,Worker-1,0
+deepseek/deepseek-chat,Probable,3,0.7,0.7,2025-09-10T09:58:53.920580,Worker-9,0
+deepseek/deepseek-chat,Probable,4,0.7,0.7,2025-09-10T09:58:53.926568,Worker-4,0
+deepseek/deepseek-chat,Probable,1,0.7,0.7,2025-09-10T09:58:54.021802,Worker-10,0
+deepseek/deepseek-chat,Probable,2,0.7,0.7,2025-09-10T09:58:54.113276,Worker-8,0
+deepseek/deepseek-chat,Quite likely,4,0.8,0.8,2025-09-10T09:58:54.154429,Worker-3,0
+deepseek/deepseek-chat,Better than even,3,0.6,0.6,2025-09-10T09:58:54.287186,Worker-16,0
+deepseek/deepseek-chat,Likely,2,0.7,0.7,2025-09-10T09:58:54.341035,Worker-5,0
+deepseek/deepseek-chat,Quite likely,2,0.8,0.8,2025-09-10T09:58:54.346741,Worker-11,0
+deepseek/deepseek-chat,A good chance,5,0.7,0.7,2025-09-10T09:58:54.413900,Worker-19,0
+deepseek/deepseek-chat,Better than even,2,0.6,0.6,2025-09-10T09:58:54.470789,Worker-2,0
+deepseek/deepseek-chat,Quite likely,1,0.8,0.8,2025-09-10T09:58:54.511388,Worker-17,0
+deepseek/deepseek-chat,Possible,5,0.5,0.5,2025-09-10T09:58:54.560812,Worker-9,0
+deepseek/deepseek-chat,Possible,4,0.5,0.5,2025-09-10T09:58:54.571495,Worker-1,0
+deepseek/deepseek-chat,Improbable,1,0.2,0.2,2025-09-10T09:58:54.620969,Worker-4,0
+deepseek/deepseek-chat,Probable,5,0.75,0.75,2025-09-10T09:58:54.707666,Worker-13,0
+deepseek/deepseek-chat,Better than even,4,0.6,0.6,2025-09-10T09:58:54.820218,Worker-7,0
+deepseek/deepseek-chat,Better than even,5,0.6,0.6,2025-09-10T09:58:54.850419,Worker-6,0
+deepseek/deepseek-chat,Possible,2,0.6,0.6,2025-09-10T09:58:54.857074,Worker-15,0
+deepseek/deepseek-chat,Highly unlikely,1,0.1,0.1,2025-09-10T09:58:54.948094,Worker-5,0
+deepseek/deepseek-chat,Quite likely,5,0.8,0.8,2025-09-10T09:58:54.963422,Worker-14,0
+deepseek/deepseek-chat,Improbable,2,0.2,0.2,2025-09-10T09:58:55.142940,Worker-10,0
+deepseek/deepseek-chat,Highly unlikely,4,0.1,0.1,2025-09-10T09:58:55.145422,Worker-2,0
+deepseek/deepseek-chat,Highly unlikely,2,0.1,0.1,2025-09-10T09:58:55.235704,Worker-11,0
+deepseek/deepseek-chat,Improbable,5,0.1,0.1,2025-09-10T09:58:55.301510,Worker-16,0
+deepseek/deepseek-chat,Possible,3,0.5,0.5,2025-09-10T09:58:55.358888,Worker-12,0
+deepseek/deepseek-chat,Possible,1,0.5,0.5,2025-09-10T09:58:55.385400,Worker-18,0
+deepseek/deepseek-chat,Highly unlikely,3,0.1,0.1,2025-09-10T09:58:55.543806,Worker-19,0
+deepseek/deepseek-chat,Unlikely,1,0.3,0.3,2025-09-10T09:58:55.686591,Worker-9,0
+deepseek/deepseek-chat,Improbable,3,0.2,0.2,2025-09-10T09:58:55.703289,Worker-8,0
+deepseek/deepseek-chat,Improbable,4,0.2,0.2,2025-09-10T09:58:55.747361,Worker-3,0
+deepseek/deepseek-chat,Seldom,5,0.1,0.1,2025-09-10T09:58:55.760073,Worker-10,0
+deepseek/deepseek-chat,Seldom,1,0.1,0.1,2025-09-10T09:58:55.787700,Worker-6,0
+deepseek/deepseek-chat,Impossible,2,0.0,0.0,2025-09-10T09:58:55.843178,Worker-11,0
+deepseek/deepseek-chat,Unlikely,4,0.3,0.3,2025-09-10T09:58:55.857027,Worker-13,0
+deepseek/deepseek-chat,Impossible,1,0.0,0.0,2025-09-10T09:58:55.921480,Worker-2,0
+deepseek/deepseek-chat,Unlikely,5,0.3,0.3,2025-09-10T09:58:55.983840,Worker-7,0
+deepseek/deepseek-chat,Impossible,4,0.0,0.0,2025-09-10T09:58:56.014942,Worker-12,0
+deepseek/deepseek-chat,Unlikely,3,0.3,0.3,2025-09-10T09:58:56.102983,Worker-4,0
+deepseek/deepseek-chat,Seldom,2,0.1,0.1,2025-09-10T09:58:56.105278,Worker-15,0
+deepseek/deepseek-chat,Unlikely,2,0.3,0.3,2025-09-10T09:58:56.107008,Worker-1,0
+deepseek/deepseek-chat,Seldom,4,0.1,0.1,2025-09-10T09:58:56.246614,Worker-14,0
+deepseek/deepseek-chat,Seldom,3,0.1,0.1,2025-09-10T09:58:56.285682,Worker-5,0
+deepseek/deepseek-chat,Impossible,3,0.0,0.0,2025-09-10T09:58:56.334491,Worker-16,0
+google/gemma-3-4b-it,Definite,2,0.95,0.95,2025-09-10T09:58:56.344190,Worker-11,0
+google/gemma-3-4b-it,Definite,3,0.95,0.95,2025-09-10T09:58:56.354718,Worker-13,0
+deepseek/deepseek-chat,Likely,3,0.7,0.7,2025-09-10T09:58:56.363735,Worker-20,0
+google/gemma-3-4b-it,Almost certain,1,0.99,0.99,2025-09-10T09:58:56.379430,Worker-12,0
+google/gemma-3-4b-it,Definite,4,0.95,0.95,2025-09-10T09:58:56.431823,Worker-2,0
+google/gemma-3-4b-it,Definite,1,0.95,0.95,2025-09-10T09:58:56.520383,Worker-6,0
+google/gemma-3-4b-it,Definite,5,0.95,0.95,2025-09-10T09:58:56.540613,Worker-7,0
+google/gemma-3-4b-it,Almost certain,4,0.99,0.99,2025-09-10T09:58:56.552020,Worker-1,0
+deepseek/deepseek-chat,Impossible,5,0.0,0.0,2025-09-10T09:58:56.621010,Worker-18,0
+deepseek/deepseek-chat,Rare,1,0.1,0.1,2025-09-10T09:58:56.624473,Worker-19,0
+google/gemma-3-4b-it,Almost certain,5,0.99,0.99,2025-09-10T09:58:56.637026,Worker-14,0
+google/gemma-3-4b-it,Highly probable,1,0.9,0.9,2025-09-10T09:58:56.730109,Worker-5,0
+google/gemma-3-4b-it,Almost certain,2,0.99,0.99,2025-09-10T09:58:56.777183,Worker-4,0
+google/gemma-3-4b-it,Highly probable,5,0.9,0.9,2025-09-10T09:58:56.788398,Worker-20,0
+google/gemma-3-4b-it,Highly probable,2,0.9,0.9,2025-09-10T09:58:56.809666,Worker-16,0
+google/gemma-3-4b-it,Highly probable,4,0.9,0.9,2025-09-10T09:58:56.832786,Worker-13,0
+google/gemma-3-4b-it,A good chance,1,0.75,0.75,2025-09-10T09:58:56.891962,Worker-12,0
+deepseek/deepseek-chat,Highly unlikely,5,0.1,0.1,2025-09-10T09:58:56.926259,Worker-17,0
+deepseek/deepseek-chat,Rare,2,0.1,0.1,2025-09-10T09:58:56.934165,Worker-9,0
+deepseek/deepseek-chat,Rare,4,0.1,0.1,2025-09-10T09:58:56.971797,Worker-3,0
+google/gemma-3-4b-it,A good chance,2,0.75,0.75,2025-09-10T09:58:57.061590,Worker-2,0
+google/gemma-3-4b-it,Likely,2,0.75,0.75,2025-09-10T09:58:57.070281,Worker-19,0
+google/gemma-3-4b-it,A good chance,4,0.75,0.75,2025-09-10T09:58:57.106035,Worker-7,0
+google/gemma-3-4b-it,Likely,1,0.75,0.75,2025-09-10T09:58:57.133784,Worker-18,0
+google/gemma-3-4b-it,Quite likely,3,0.75,0.75,2025-09-10T09:58:57.173530,Worker-13,0
+google/gemma-3-4b-it,Likely,5,0.75,0.75,2025-09-10T09:58:57.183004,Worker-4,0
+google/gemma-3-4b-it,Quite likely,2,0.75,0.75,2025-09-10T09:58:57.192279,Worker-16,0
+deepseek/deepseek-chat,Rare,3,0.1,0.1,2025-09-10T09:58:57.194196,Worker-8,0
+google/gemma-3-4b-it,Likely,3,0.75,0.75,2025-09-10T09:58:57.219679,Worker-14,0
+google/gemma-3-4b-it,Quite likely,4,0.75,0.75,2025-09-10T09:58:57.321405,Worker-12,0
+google/gemma-3-4b-it,Better than even,2,0.66,0.66,2025-09-10T09:58:57.395673,Worker-3,0
+google/gemma-3-4b-it,Quite likely,1,0.75,0.75,2025-09-10T09:58:57.425611,Worker-20,0
+google/gemma-3-4b-it,Better than even,4,0.67,0.67,2025-09-10T09:58:57.431631,Worker-19,0
+google/gemma-3-4b-it,Better than even,1,0.75,0.75,2025-09-10T09:58:57.468231,Worker-9,0
+google/gemma-3-4b-it,Probable,2,0.75,0.75,2025-09-10T09:58:57.538886,Worker-13,0
+google/gemma-3-4b-it,Quite likely,5,0.75,0.75,2025-09-10T09:58:57.554381,Worker-17,0
+google/gemma-3-4b-it,Better than even,3,0.75,0.75,2025-09-10T09:58:57.558026,Worker-2,0
+google/gemma-3-4b-it,Likely,4,0.75,0.75,2025-09-10T09:58:57.566923,Worker-5,0
+google/gemma-3-4b-it,Probable,1,0.75,0.75,2025-09-10T09:58:57.569027,Worker-18,0
+google/gemma-3-4b-it,Almost certain,3,0.99,0.99,2025-09-10T09:58:57.570764,Worker-15,0
+google/gemma-3-4b-it,A good chance,5,0.75,0.75,2025-09-10T09:58:57.572130,Worker-1,0
+google/gemma-3-4b-it,Probable,3,0.75,0.75,2025-09-10T09:58:57.647037,Worker-4,0
+google/gemma-3-4b-it,Highly probable,3,0.9,0.9,2025-09-10T09:58:57.694373,Worker-11,0
+google/gemma-3-4b-it,Possible,1,0.5,0.5,2025-09-10T09:58:57.725215,Worker-14,0
+google/gemma-3-4b-it,Probable,4,0.75,0.75,2025-09-10T09:58:57.731675,Worker-16,0
+google/gemma-3-4b-it,Better than even,5,0.75,0.75,2025-09-10T09:58:57.788221,Worker-7,0
+google/gemma-3-4b-it,Possible,4,0.5,0.5,2025-09-10T09:58:57.814223,Worker-20,0
+deepseek/deepseek-chat,Rare,5,0.1,0.1,2025-09-10T09:58:57.854530,Worker-10,0
+google/gemma-3-4b-it,Possible,5,0.5,0.5,2025-09-10T09:58:57.868258,Worker-19,0
+google/gemma-3-4b-it,Improbable,1,0.05,0.05,2025-09-10T09:58:57.895030,Worker-9,0
+google/gemma-3-4b-it,Probable,5,0.75,0.75,2025-09-10T09:58:57.997818,Worker-8,0
+google/gemma-3-4b-it,Highly unlikely,5,0.05,0.05,2025-09-10T09:58:58.055773,Worker-11,0
+google/gemma-3-4b-it,Possible,2,0.5,0.5,2025-09-10T09:58:58.078059,Worker-12,0
+google/gemma-3-4b-it,Highly unlikely,4,0.05,0.05,2025-09-10T09:58:58.093065,Worker-4,0
+google/gemma-3-4b-it,Improbable,2,0.05,0.05,2025-09-10T09:58:58.114341,Worker-13,0
+google/gemma-3-4b-it,Improbable,4,0.05,0.05,2025-09-10T09:58:58.176887,Worker-2,0
+google/gemma-3-4b-it,Improbable,5,0.05,0.05,2025-09-10T09:58:58.209758,Worker-5,0
+google/gemma-3-4b-it,Unlikely,2,0.1,0.1,2025-09-10T09:58:58.236938,Worker-16,0
+google/gemma-3-4b-it,Unlikely,3,0.1,0.1,2025-09-10T09:58:58.255805,Worker-7,0
+google/gemma-3-4b-it,Improbable,3,0.05,0.05,2025-09-10T09:58:58.260249,Worker-17,0
+google/gemma-3-4b-it,A good chance,3,0.75,0.75,2025-09-10T09:58:58.274740,Worker-6,0
+google/gemma-3-4b-it,Unlikely,4,0.1,0.1,2025-09-10T09:58:58.374668,Worker-20,0
+google/gemma-3-4b-it,Highly unlikely,2,0.05,0.05,2025-09-10T09:58:58.402192,Worker-15,0
+google/gemma-3-4b-it,Seldom,2,0.1,0.1,2025-09-10T09:58:58.426447,Worker-9,0
+google/gemma-3-4b-it,Highly unlikely,3,0.05,0.05,2025-09-10T09:58:58.452130,Worker-1,0
+google/gemma-3-4b-it,Unlikely,1,0.1,0.1,2025-09-10T09:58:58.472870,Worker-14,0
+google/gemma-3-4b-it,Seldom,4,0.1,0.1,2025-09-10T09:58:58.511978,Worker-11,0
+google/gemma-3-4b-it,Impossible,2,0.0,0.0,2025-09-10T09:58:58.571923,Worker-13,0
+google/gemma-3-4b-it,Seldom,3,0.1,0.1,2025-09-10T09:58:58.574502,Worker-8,0
+google/gemma-3-4b-it,Impossible,3,0.0,0.0,2025-09-10T09:58:58.610290,Worker-2,0
+google/gemma-3-4b-it,Seldom,5,0.1,0.1,2025-09-10T09:58:58.658992,Worker-12,0
+google/gemma-3-4b-it,Seldom,1,0.1,0.1,2025-09-10T09:58:58.699773,Worker-19,0
+google/gemma-3-4b-it,Impossible,5,0.0,0.0,2025-09-10T09:58:58.744657,Worker-16,0
+google/gemma-3-4b-it,Impossible,1,0.0,0.0,2025-09-10T09:58:58.745809,Worker-4,0
+google/gemma-3-4b-it,Rare,1,0.01,0.01,2025-09-10T09:58:58.795274,Worker-7,0
+google/gemma-3-4b-it,Rare,4,0.01,0.01,2025-09-10T09:58:58.828240,Worker-20,0
+google/gemma-3-4b-it,Rare,5,0.01,0.01,2025-09-10T09:58:58.858564,Worker-15,0
+google/gemma-3-4b-it,Impossible,4,0.0,0.0,2025-09-10T09:58:58.936719,Worker-5,0
+google/gemma-3-4b-it,Rare,2,0.01,0.01,2025-09-10T09:58:58.985317,Worker-17,0
+google/gemma-3-4b-it,Rare,3,0.01,0.01,2025-09-10T09:58:59.083021,Worker-6,0
+google/gemma-3-4b-it,Unlikely,5,0.1,0.1,2025-09-10T09:58:59.113980,Worker-10,0
+google/gemma-3-4b-it,Highly unlikely,1,0.05,0.05,2025-09-10T09:58:59.139591,Worker-18,0
+google/gemma-3-4b-it,Possible,3,0.5,0.5,2025-09-10T09:58:59.849835,Worker-3,0
+anthropic/claude-3.7-sonnet:thinking,Definite,3,1.0,1.0,2025-09-10T09:59:01.920783,Worker-14,0
+anthropic/claude-3.7-sonnet:thinking,Definite,4,1.0,1.0,2025-09-10T09:59:02.502406,Worker-11,0
+anthropic/claude-3.7-sonnet:thinking,Almost certain,4,0.95,0.95,2025-09-10T09:59:03.826308,Worker-19,0
+anthropic/claude-3.7-sonnet:thinking,Definite,1,1.0,1.0,2025-09-10T09:59:04.044838,Worker-9,0
+anthropic/claude-3.7-sonnet:thinking,Almost certain,3,0.95,0.95,2025-09-10T09:59:04.260862,Worker-12,0
+anthropic/claude-3.7-sonnet:thinking,A good chance,2,0.7,0.7,2025-09-10T09:59:04.303360,Worker-6,0
+anthropic/claude-3.7-sonnet:thinking,Highly probable,2,0.85,0.85,2025-09-10T09:59:04.431282,Worker-7,0
+anthropic/claude-3.7-sonnet:thinking,Almost certain,2,0.95,0.95,2025-09-10T09:59:04.468210,Worker-2,0
+anthropic/claude-3.7-sonnet:thinking,Almost certain,1,0.95,0.95,2025-09-10T09:59:04.695024,Worker-8,0
+anthropic/claude-3.7-sonnet:thinking,Highly probable,3,0.85,0.85,2025-09-10T09:59:04.811154,Worker-20,0
+anthropic/claude-3.7-sonnet:thinking,Highly probable,4,0.85,0.85,2025-09-10T09:59:05.297002,Worker-15,0
+anthropic/claude-3.7-sonnet:thinking,Almost certain,5,0.95,0.95,2025-09-10T09:59:05.537236,Worker-16,0
+anthropic/claude-3.7-sonnet:thinking,Highly probable,1,0.85,0.85,2025-09-10T09:59:05.584817,Worker-4,0
+anthropic/claude-3.7-sonnet:thinking,A good chance,3,0.7,0.7,2025-09-10T09:59:05.641049,Worker-10,0
+anthropic/claude-3.7-sonnet:thinking,A good chance,1,0.7,0.7,2025-09-10T09:59:05.749314,Worker-17,0
+anthropic/claude-3.7-sonnet:thinking,A good chance,4,0.7,0.7,2025-09-10T09:59:05.888163,Worker-18,0
+anthropic/claude-3.7-sonnet:thinking,Highly probable,5,0.9,0.9,2025-09-10T09:59:06.056069,Worker-5,0
+anthropic/claude-3.7-sonnet:thinking,A good chance,5,0.7,0.7,2025-09-10T09:59:06.839779,Worker-3,0
+anthropic/claude-3.7-sonnet:thinking,Likely,1,0.7,0.7,2025-09-10T09:59:07.230536,Worker-14,0
+anthropic/claude-3.7-sonnet:thinking,Likely,2,0.7,0.7,2025-09-10T09:59:08.204466,Worker-11,0
+anthropic/claude-3.7-sonnet:thinking,Definite,2,1.0,1.0,2025-09-10T09:59:08.538452,Worker-1,0
+anthropic/claude-3.7-sonnet:thinking,Quite likely,1,0.8,0.8,2025-09-10T09:59:09.311983,Worker-6,0
+anthropic/claude-3.7-sonnet:thinking,Better than even,3,0.6,0.6,2025-09-10T09:59:09.717902,Worker-4,0
+anthropic/claude-3.7-sonnet:thinking,Likely,3,0.75,0.75,2025-09-10T09:59:09.720467,Worker-19,0
+anthropic/claude-3.7-sonnet:thinking,Probable,1,0.75,0.75,2025-09-10T09:59:10.023146,Worker-18,0
+anthropic/claude-3.7-sonnet:thinking,Likely,5,0.75,0.75,2025-09-10T09:59:10.068848,Worker-12,0
+anthropic/claude-3.7-sonnet:thinking,Quite likely,2,0.75,0.75,2025-09-10T09:59:10.280337,Worker-7,0
+anthropic/claude-3.7-sonnet:thinking,Likely,4,0.7,0.7,2025-09-10T09:59:10.343788,Worker-9,0
+anthropic/claude-3.7-sonnet:thinking,Better than even,1,0.6,0.6,2025-09-10T09:59:10.526932,Worker-15,0
+anthropic/claude-3.7-sonnet:thinking,Quite likely,3,0.8,0.8,2025-09-10T09:59:10.618916,Worker-2,0
+anthropic/claude-3.7-sonnet:thinking,Probable,2,0.7,0.7,2025-09-10T09:59:11.156331,Worker-5,0
+anthropic/claude-3.7-sonnet:thinking,Quite likely,4,0.75,0.75,2025-09-10T09:59:11.250538,Worker-8,0
+anthropic/claude-3.7-sonnet:thinking,Better than even,4,0.6,0.6,2025-09-10T09:59:11.331013,Worker-10,0
+anthropic/claude-3.7-sonnet:thinking,Quite likely,5,0.8,0.8,2025-09-10T09:59:11.760959,Worker-20,0
+anthropic/claude-3.7-sonnet:thinking,Better than even,5,0.6,0.6,2025-09-10T09:59:12.392310,Worker-17,0
+anthropic/claude-3.7-sonnet:thinking,Probable,3,0.75,0.75,2025-09-10T09:59:12.835791,Worker-3,0
+anthropic/claude-3.7-sonnet:thinking,Probable,4,0.75,0.75,2025-09-10T09:59:13.997432,Worker-14,0
+anthropic/claude-3.7-sonnet:thinking,Better than even,2,0.6,0.6,2025-09-10T09:59:14.128625,Worker-16,0
+anthropic/claude-3.7-sonnet:thinking,Probable,5,0.7,0.7,2025-09-10T09:59:14.153292,Worker-11,0
+anthropic/claude-3.7-sonnet:thinking,Possible,1,0.3,0.3,2025-09-10T09:59:15.483033,Worker-1,0
+anthropic/claude-3.7-sonnet:thinking,Improbable,4,0.2,0.2,2025-09-10T09:59:15.759762,Worker-15,0
+anthropic/claude-3.7-sonnet:thinking,Definite,5,0.99,0.99,2025-09-10T09:59:15.871245,Worker-13,0
+anthropic/claude-3.7-sonnet:thinking,Highly unlikely,1,0.1,0.1,2025-09-10T09:59:16.034900,Worker-5,0
+anthropic/claude-3.7-sonnet:thinking,Improbable,3,0.2,0.2,2025-09-10T09:59:16.103614,Worker-9,0
+anthropic/claude-3.7-sonnet:thinking,Possible,3,0.3,0.3,2025-09-10T09:59:16.232510,Worker-4,0
+anthropic/claude-3.7-sonnet:thinking,Improbable,5,0.2,0.2,2025-09-10T09:59:16.247030,Worker-2,0
+anthropic/claude-3.7-sonnet:thinking,Improbable,2,0.2,0.2,2025-09-10T09:59:16.325635,Worker-7,0
+anthropic/claude-3.7-sonnet:thinking,Possible,5,0.35,0.35,2025-09-10T09:59:16.436085,Worker-18,0
+anthropic/claude-3.7-sonnet:thinking,Possible,4,0.35,0.35,2025-09-10T09:59:16.795570,Worker-19,0
+anthropic/claude-3.7-sonnet:thinking,Highly unlikely,3,0.1,0.1,2025-09-10T09:59:16.895570,Worker-10,0
+anthropic/claude-3.7-sonnet:thinking,Highly unlikely,4,0.1,0.1,2025-09-10T09:59:17.274291,Worker-20,0
+anthropic/claude-3.7-sonnet:thinking,Unlikely,1,0.2,0.2,2025-09-10T09:59:17.536609,Worker-3,0
+anthropic/claude-3.7-sonnet:thinking,Highly unlikely,2,0.1,0.1,2025-09-10T09:59:17.872104,Worker-8,0
+anthropic/claude-3.7-sonnet:thinking,Improbable,1,0.2,0.2,2025-09-10T09:59:18.230755,Worker-12,0
+anthropic/claude-3.7-sonnet:thinking,Possible,2,0.4,0.4,2025-09-10T09:59:18.501727,Worker-6,0
+anthropic/claude-3.7-sonnet:thinking,Unlikely,4,0.2,0.2,2025-09-10T09:59:18.668128,Worker-11,0
+anthropic/claude-3.7-sonnet:thinking,Unlikely,2,0.25,0.25,2025-09-10T09:59:19.061140,Worker-14,0
+anthropic/claude-3.7-sonnet:thinking,Impossible,2,0.0,0.0,2025-09-10T09:59:19.581768,Worker-7,0
+anthropic/claude-3.7-sonnet:thinking,Impossible,1,0,0.0,2025-09-10T09:59:19.921410,Worker-2,0
+anthropic/claude-3.7-sonnet:thinking,Impossible,3,0.0,0.0,2025-09-10T09:59:20.174993,Worker-18,0
+anthropic/claude-3.7-sonnet:thinking,Unlikely,3,0.25,0.25,2025-09-10T09:59:20.315177,Worker-16,0
+anthropic/claude-3.7-sonnet:thinking,Impossible,5,0.0,0.0,2025-09-10T09:59:20.353904,Worker-10,0
+anthropic/claude-3.7-sonnet:thinking,Unlikely,5,0.2,0.2,2025-09-10T09:59:20.679342,Worker-1,0
+anthropic/claude-3.7-sonnet:thinking,Seldom,4,0.15,0.15,2025-09-10T09:59:20.994836,Worker-9,0
+anthropic/claude-3.7-sonnet:thinking,Highly unlikely,5,0.1,0.1,2025-09-10T09:59:21.293153,Worker-17,0
+anthropic/claude-3.7-sonnet:thinking,Seldom,2,0.15,0.15,2025-09-10T09:59:21.664307,Worker-13,0
+anthropic/claude-3.7-sonnet:thinking,Impossible,4,0.0,0.0,2025-09-10T09:59:21.985660,Worker-19,0
+anthropic/claude-3.7-sonnet:thinking,Seldom,3,0.2,0.2,2025-09-10T09:59:22.111343,Worker-5,0
+anthropic/claude-3.7-sonnet:thinking,Seldom,1,0.15,0.15,2025-09-10T09:59:22.322130,Worker-15,0
+anthropic/claude-3.7-sonnet:thinking,Seldom,5,0.2,0.2,2025-09-10T09:59:23.741910,Worker-4,0
+anthropic/claude-3.7-sonnet:thinking,Rare,3,0.08,0.08,2025-09-10T09:59:24.647226,Worker-8,0
+anthropic/claude-3.7-sonnet:thinking,Rare,4,0.07,0.07,2025-09-10T09:59:24.654037,Worker-12,0
+anthropic/claude-3.7-sonnet:thinking,Rare,5,0.1,0.1,2025-09-10T09:59:25.688048,Worker-6,0
+anthropic/claude-3.7-sonnet:thinking,Rare,2,0.05,0.05,2025-09-10T09:59:26.654493,Worker-3,0
+anthropic/claude-3.7-sonnet:thinking,Rare,1,0.05,0.05,2025-09-10T09:59:27.783849,Worker-20,0

@@ -1,0 +1,1021 @@
+model,word,repeat,raw_response,extracted_probability,timestamp,thread_id,retry_count
+google/gemini-2.5-flash-lite-preview-06-17,Very Good Chance,3,0.9,0.9,2025-09-10T09:20:38.868959,Worker-9,0
+google/gemini-2.5-flash-lite-preview-06-17,We Believe,1,0.75,0.75,2025-09-10T09:20:38.961641,Worker-10,0
+google/gemini-2.5-flash-lite-preview-06-17,Probably,1,0.75,0.75,2025-09-10T09:20:38.969083,Worker-19,0
+google/gemini-2.5-flash-lite-preview-06-17,Highly Likely,2,0.9,0.9,2025-09-10T09:20:38.983292,Worker-5,0
+google/gemini-2.5-flash-lite-preview-06-17,Highly Likely,3,0.9,0.9,2025-09-10T09:20:38.991812,Worker-6,0
+google/gemini-2.5-flash-lite-preview-06-17,Probable,3,0.75,0.75,2025-09-10T09:20:39.013359,Worker-18,0
+google/gemini-2.5-flash-lite-preview-06-17,Almost Certain,3,0.95,0.95,2025-09-10T09:20:39.023856,Worker-3,0
+google/gemini-2.5-flash-lite-preview-06-17,Likely,1,0.75,0.75,2025-09-10T09:20:39.030753,Worker-13,0
+google/gemini-2.5-flash-lite-preview-06-17,Very Good Chance,2,0.9,0.9,2025-09-10T09:20:39.038203,Worker-8,0
+google/gemini-2.5-flash-lite-preview-06-17,Probably,2,0.75,0.75,2025-09-10T09:20:39.060885,Worker-20,0
+google/gemini-2.5-flash-lite-preview-06-17,Likely,3,0.75,0.75,2025-09-10T09:20:39.084657,Worker-15,0
+google/gemini-2.5-flash-lite-preview-06-17,Very Good Chance,1,0.85,0.85,2025-09-10T09:20:39.088605,Worker-7,0
+google/gemini-2.5-flash-lite-preview-06-17,Probable,1,0.8,0.8,2025-09-10T09:20:39.098668,Worker-16,0
+google/gemini-2.5-flash-lite-preview-06-17,Highly Likely,1,0.9,0.9,2025-09-10T09:20:39.101211,Worker-4,0
+google/gemini-2.5-flash-lite-preview-06-17,Almost Certain,2,0.99,0.99,2025-09-10T09:20:39.133799,Worker-2,0
+google/gemini-2.5-flash-lite-preview-06-17,Probable,2,0.75,0.75,2025-09-10T09:20:39.185420,Worker-17,0
+google/gemini-2.5-flash-lite-preview-06-17,Likely,2,0.75,0.75,2025-09-10T09:20:39.265137,Worker-14,0
+google/gemini-2.5-flash-lite-preview-06-17,We Believe,2,0.8,0.8,2025-09-10T09:20:39.299763,Worker-11,0
+google/gemini-2.5-flash-lite-preview-06-17,Probably,3,0.75,0.75,2025-09-10T09:20:39.643391,Worker-9,0
+google/gemini-2.5-flash-lite-preview-06-17,We Believe,3,0.9,0.9,2025-09-10T09:20:39.688459,Worker-12,0
+google/gemini-2.5-flash-lite-preview-06-17,Better than Even,1,0.65,0.65,2025-09-10T09:20:39.692700,Worker-10,0
+google/gemini-2.5-flash-lite-preview-06-17,Almost Certain,1,0.95,0.95,2025-09-10T09:20:39.702900,Worker-1,0
+google/gemini-2.5-flash-lite-preview-06-17,Better than Even,3,0.65,0.65,2025-09-10T09:20:39.707236,Worker-5,0
+google/gemini-2.5-flash-lite-preview-06-17,About Even,2,0.5,0.5,2025-09-10T09:20:39.864528,Worker-18,0
+google/gemini-2.5-flash-lite-preview-06-17,About Even,3,0.5,0.5,2025-09-10T09:20:39.868085,Worker-3,0
+google/gemini-2.5-flash-lite-preview-06-17,Probably Not,2,0.2,0.2,2025-09-10T09:20:39.874846,Worker-8,0
+google/gemini-2.5-flash-lite-preview-06-17,Probably Not,1,0.2,0.2,2025-09-10T09:20:39.879695,Worker-13,0
+google/gemini-2.5-flash-lite-preview-06-17,About Even,1,0.5,0.5,2025-09-10T09:20:39.883257,Worker-6,0
+google/gemini-2.5-flash-lite-preview-06-17,We Doubt,1,0.25,0.25,2025-09-10T09:20:39.888203,Worker-15,0
+google/gemini-2.5-flash-lite-preview-06-17,Unlikely,1,0.2,0.2,2025-09-10T09:20:39.890006,Worker-4,0
+google/gemini-2.5-flash-lite-preview-06-17,Unlikely,3,0.15,0.15,2025-09-10T09:20:39.928034,Worker-17,0
+google/gemini-2.5-flash-lite-preview-06-17,We Doubt,2,0.25,0.25,2025-09-10T09:20:39.954870,Worker-7,0
+google/gemini-2.5-flash-lite-preview-06-17,We Doubt,3,0.25,0.25,2025-09-10T09:20:39.979360,Worker-16,0
+google/gemini-2.5-flash-lite-preview-06-17,Improbable,1,0.1,0.1,2025-09-10T09:20:40.006190,Worker-14,0
+google/gemini-2.5-flash-lite-preview-06-17,Better than Even,2,0.7,0.7,2025-09-10T09:20:40.026590,Worker-19,0
+google/gemini-2.5-flash-lite-preview-06-17,Probably Not,3,0.25,0.25,2025-09-10T09:20:40.046625,Worker-20,0
+google/gemini-2.5-flash-lite-preview-06-17,Improbable,2,0.1,0.1,2025-09-10T09:20:40.074302,Worker-11,0
+google/gemini-2.5-flash-lite-preview-06-17,Improbable,3,0.15,0.15,2025-09-10T09:20:40.313038,Worker-9,0
+google/gemini-2.5-flash-lite-preview-06-17,Little Chance,1,0.1,0.1,2025-09-10T09:20:40.342787,Worker-5,0
+google/gemini-2.5-flash-lite-preview-06-17,Chances are Slight,1,0.25,0.25,2025-09-10T09:20:40.379532,Worker-12,0
+google/gemini-2.5-flash-lite-preview-06-17,Chances are Slight,2,0.15,0.15,2025-09-10T09:20:40.497393,Worker-10,0
+google/gemini-2.5-flash-lite-preview-06-17,Little Chance,2,0.15,0.15,2025-09-10T09:20:40.584245,Worker-18,0
+google/gemini-2.5-flash,Almost Certain,2,0.95,0.95,2025-09-10T09:20:40.618810,Worker-16,0
+google/gemini-2.5-flash-lite-preview-06-17,Highly Unlikely,1,0.05,0.05,2025-09-10T09:20:40.620823,Worker-8,0
+google/gemini-2.5-flash-lite-preview-06-17,Highly Unlikely,2,0.05,0.05,2025-09-10T09:20:40.622591,Worker-13,0
+google/gemini-2.5-flash-lite-preview-06-17,Almost No Chance,2,0.05,0.05,2025-09-10T09:20:40.656087,Worker-4,0
+google/gemini-2.5-flash,Highly Likely,1,0.85,0.85,2025-09-10T09:20:40.674421,Worker-19,0
+google/gemini-2.5-flash-lite-preview-06-17,Unlikely,2,0.25,0.25,2025-09-10T09:20:40.680790,Worker-2,0
+google/gemini-2.5-flash-lite-preview-06-17,Chances are Slight,3,0.25,0.25,2025-09-10T09:20:40.735705,Worker-1,0
+google/gemini-2.5-flash-lite-preview-06-17,Almost No Chance,1,0.05,0.05,2025-09-10T09:20:40.740508,Worker-15,0
+google/gemini-2.5-flash,Highly Likely,2,0.9,0.9,2025-09-10T09:20:40.753818,Worker-20,0
+google/gemini-2.5-flash-lite-preview-06-17,Little Chance,3,0.15,0.15,2025-09-10T09:20:40.762197,Worker-3,0
+google/gemini-2.5-flash,Almost Certain,1,0.95,0.95,2025-09-10T09:20:40.779793,Worker-7,0
+google/gemini-2.5-flash,Almost Certain,3,0.95,0.95,2025-09-10T09:20:40.836113,Worker-14,0
+google/gemini-2.5-flash-lite-preview-06-17,Highly Unlikely,3,0.1,0.1,2025-09-10T09:20:40.899759,Worker-6,0
+google/gemini-2.5-flash-lite-preview-06-17,Almost No Chance,3,0.05,0.05,2025-09-10T09:20:40.918477,Worker-17,0
+google/gemini-2.5-flash,Very Good Chance,2,0.85,0.85,2025-09-10T09:20:41.040175,Worker-5,0
+google/gemini-2.5-flash,Very Good Chance,3,0.85,0.85,2025-09-10T09:20:41.145864,Worker-12,0
+google/gemini-2.5-flash,Likely,1,0.7,0.7,2025-09-10T09:20:41.284564,Worker-8,0
+google/gemini-2.5-flash,We Believe,1,0.7,0.7,2025-09-10T09:20:41.326079,Worker-10,0
+google/gemini-2.5-flash,Probable,3,0.7,0.7,2025-09-10T09:20:41.380152,Worker-1,0
+google/gemini-2.5-flash,We Believe,3,0.7,0.7,2025-09-10T09:20:41.409550,Worker-16,0
+google/gemini-2.5-flash,Highly Likely,3,0.85,0.85,2025-09-10T09:20:41.413821,Worker-11,0
+google/gemini-2.5-flash,Probably,1,0.75,0.75,2025-09-10T09:20:41.470869,Worker-15,0
+google/gemini-2.5-flash,Probably,3,0.7,0.7,2025-09-10T09:20:41.498157,Worker-3,0
+google/gemini-2.5-flash,Very Good Chance,1,0.85,0.85,2025-09-10T09:20:41.500821,Worker-9,0
+google/gemini-2.5-flash,We Believe,2,0.7,0.7,2025-09-10T09:20:41.597580,Worker-18,0
+google/gemini-2.5-flash,Better than Even,1,0.6,0.6,2025-09-10T09:20:41.623048,Worker-7,0
+google/gemini-2.5-flash,Probable,2,0.75,0.75,2025-09-10T09:20:41.641882,Worker-2,0
+google/gemini-2.5-flash,Likely,3,0.75,0.75,2025-09-10T09:20:41.663722,Worker-4,0
+google/gemini-2.5-flash,Likely,2,0.75,0.75,2025-09-10T09:20:41.688464,Worker-13,0
+google/gemini-2.5-flash,About Even,1,0.5,0.5,2025-09-10T09:20:41.730953,Worker-17,0
+google/gemini-2.5-flash,About Even,3,0.5,0.5,2025-09-10T09:20:41.807374,Worker-12,0
+google/gemini-2.5-flash,Better than Even,3,0.65,0.65,2025-09-10T09:20:41.822717,Worker-6,0
+google/gemini-2.5-flash,Better than Even,2,0.65,0.65,2025-09-10T09:20:41.835656,Worker-14,0
+google/gemini-2.5-flash,Probably,2,0.75,0.75,2025-09-10T09:20:41.884688,Worker-20,0
+google/gemini-2.5-flash,About Even,2,0.5,0.5,2025-09-10T09:20:41.889846,Worker-5,0
+google/gemini-2.5-flash,Probable,1,0.75,0.75,2025-09-10T09:20:41.965311,Worker-19,0
+google/gemini-2.5-flash,Probably Not,3,0.2,0.2,2025-09-10T09:20:42.021147,Worker-1,0
+google/gemini-2.5-flash,Unlikely,1,0.2,0.2,2025-09-10T09:20:42.135466,Worker-3,0
+google/gemini-2.5-flash,We Doubt,2,0.2,0.2,2025-09-10T09:20:42.157399,Worker-11,0
+google/gemini-2.5-flash,Probably Not,1,0.2,0.2,2025-09-10T09:20:42.182953,Worker-8,0
+google/gemini-2.5-flash,Probably Not,2,0.2,0.2,2025-09-10T09:20:42.187566,Worker-10,0
+google/gemini-2.5-flash,We Doubt,1,0.2,0.2,2025-09-10T09:20:42.224644,Worker-16,0
+google/gemini-2.5-flash,Unlikely,2,0.2,0.2,2025-09-10T09:20:42.245337,Worker-9,0
+google/gemini-2.5-flash,Improbable,1,0.1,0.1,2025-09-10T09:20:42.278335,Worker-7,0
+google/gemini-2.5-flash,We Doubt,3,0.2,0.2,2025-09-10T09:20:42.282734,Worker-15,0
+google/gemini-2.5-flash,Unlikely,3,0.2,0.2,2025-09-10T09:20:42.306955,Worker-18,0
+google/gemini-2.5-flash,Little Chance,1,0.15,0.15,2025-09-10T09:20:42.477611,Worker-6,0
+google/gemini-2.5-flash,Improbable,2,0.15,0.15,2025-09-10T09:20:42.513985,Worker-2,0
+google/gemini-2.5-flash,Highly Unlikely,1,0.05,0.05,2025-09-10T09:20:42.561124,Worker-5,0
+google/gemini-2.5-flash,Improbable,3,0.1,0.1,2025-09-10T09:20:42.568801,Worker-4,0
+google/gemini-2.5-flash,Chances are Slight,2,0.15,0.15,2025-09-10T09:20:42.609007,Worker-17,0
+google/gemini-2.5-flash,Chances are Slight,3,0.15,0.15,2025-09-10T09:20:42.649326,Worker-12,0
+google/gemini-2.5-flash,Highly Unlikely,3,0.05,0.05,2025-09-10T09:20:42.702184,Worker-1,0
+google/gemini-2.5-flash,Highly Unlikely,2,0.05,0.05,2025-09-10T09:20:42.724326,Worker-19,0
+google/gemini-2.5-flash,Little Chance,3,0.2,0.2,2025-09-10T09:20:42.752296,Worker-20,0
+google/gemini-2.5-flash,Almost No Chance,2,0.05,0.05,2025-09-10T09:20:42.760940,Worker-11,0
+google/gemini-2.5-flash,Almost No Chance,3,0.05,0.05,2025-09-10T09:20:42.812953,Worker-8,0
+google/gemini-2.5-flash,Almost No Chance,1,0.05,0.05,2025-09-10T09:20:42.818419,Worker-3,0
+google/gemini-2.5-flash,Chances are Slight,1,0.15,0.15,2025-09-10T09:20:43.002293,Worker-13,0
+google/gemini-2.5-flash,Little Chance,2,0.15,0.15,2025-09-10T09:20:43.151688,Worker-14,0
+google/gemini-2.5-pro,Highly Likely,3,0.9,0.9,2025-09-10T09:20:47.636046,Worker-18,0
+google/gemini-2.5-pro,Almost Certain,2,0.99,0.99,2025-09-10T09:20:49.533050,Worker-16,0
+google/gemini-2.5-pro,Likely,3,0.7,0.7,2025-09-10T09:20:50.671652,Worker-20,0
+google/gemini-2.5-pro,Highly Likely,1,0.95,0.95,2025-09-10T09:20:50.729539,Worker-7,0
+google/gemini-2.5-pro,Highly Likely,2,0.95,0.95,2025-09-10T09:20:51.256295,Worker-15,0
+google/gemini-2.5-pro,Probable,3,0.75,0.75,2025-09-10T09:20:51.855551,Worker-3,0
+google/gemini-2.5-pro,Very Good Chance,2,0.85,0.85,2025-09-10T09:20:52.125274,Worker-2,0
+google/gemini-2.5-pro,Probably,2,0.8,0.8,2025-09-10T09:20:52.243447,Worker-14,0
+google/gemini-2.5-pro,Very Good Chance,1,0.85,0.85,2025-09-10T09:20:53.132638,Worker-6,0
+google/gemini-2.5-pro,We Believe,2,0.85,0.85,2025-09-10T09:20:54.588575,Worker-17,0
+google/gemini-2.5-pro,Likely,2,0.8,0.8,2025-09-10T09:20:54.921822,Worker-19,0
+google/gemini-2.5-pro,Very Good Chance,3,0.85,0.85,2025-09-10T09:20:55.279786,Worker-5,0
+google/gemini-2.5-pro,Almost Certain,3,0.98,0.98,2025-09-10T09:20:56.227552,Worker-9,0
+google/gemini-2.5-pro,We Believe,1,0.85,0.85,2025-09-10T09:20:57.722604,Worker-4,0
+google/gemini-2.5-pro,Probably,1,0.75,0.75,2025-09-10T09:20:58.064069,Worker-13,0
+google/gemini-2.5-pro,About Even,3,0.5,0.5,2025-09-10T09:20:58.376376,Worker-2,0
+google/gemini-2.5-pro,We Believe,3,0.85,0.85,2025-09-10T09:20:58.543379,Worker-12,0
+google/gemini-2.5-pro,Likely,1,0.75,0.75,2025-09-10T09:20:58.756359,Worker-1,0
+google/gemini-2.5-pro,Probable,1,0.7,0.7,2025-09-10T09:20:58.947162,Worker-11,0
+google/gemini-2.5-pro,About Even,2,0.5,0.5,2025-09-10T09:20:59.578666,Worker-3,0
+google/gemini-2.5-pro,Almost Certain,1,0.98,0.98,2025-09-10T09:21:00.153862,Worker-10,0
+google/gemini-2.5-pro,Better than Even,1,0.65,0.65,2025-09-10T09:21:00.660138,Worker-16,0
+google/gemini-2.5-pro,About Even,1,0.5,0.5,2025-09-10T09:21:01.017621,Worker-15,0
+google/gemini-2.5-pro,Better than Even,2,0.65,0.65,2025-09-10T09:21:01.611485,Worker-20,0
+google/gemini-2.5-pro,Probably,3,0.8,0.8,2025-09-10T09:21:01.720397,Worker-18,0
+google/gemini-2.5-pro,Better than Even,3,0.65,0.65,2025-09-10T09:21:04.333207,Worker-7,0
+google/gemini-2.5-pro,Probably Not,3,0.2,0.2,2025-09-10T09:21:05.807584,Worker-17,0
+google/gemini-2.5-pro,Unlikely,2,0.2,0.2,2025-09-10T09:21:06.495042,Worker-13,0
+google/gemini-2.5-pro,We Doubt,2,0.2,0.2,2025-09-10T09:21:07.197382,Worker-5,0
+google/gemini-2.5-pro,We Doubt,3,0.2,0.2,2025-09-10T09:21:07.421094,Worker-9,0
+google/gemini-2.5-pro,Chances are Slight,2,0.2,0.2,2025-09-10T09:21:08.105969,Worker-10,0
+google/gemini-2.5-pro,We Doubt,1,0.2,0.2,2025-09-10T09:21:08.199279,Worker-19,0
+google/gemini-2.5-pro,Unlikely,1,0.2,0.2,2025-09-10T09:21:09.085822,Worker-4,0
+google/gemini-2.5-pro,Chances are Slight,3,0.15,0.15,2025-09-10T09:21:09.251743,Worker-16,0
+google/gemini-2.5-pro,Improbable,2,0.15,0.15,2025-09-10T09:21:09.778353,Worker-1,0
+google/gemini-2.5-pro,Probably Not,1,0.3,0.3,2025-09-10T09:21:10.203002,Worker-14,0
+google/gemini-2.5-pro,Improbable,1,0.2,0.2,2025-09-10T09:21:10.397890,Worker-12,0
+google/gemini-2.5-pro,Chances are Slight,1,0.1,0.1,2025-09-10T09:21:10.498161,Worker-3,0
+google/gemini-2.5-pro,Probably Not,2,0.25,0.25,2025-09-10T09:21:10.924783,Worker-6,0
+google/gemini-2.5-pro,Little Chance,2,0.2,0.2,2025-09-10T09:21:12.971799,Worker-20,0
+x-ai/grok-4,Highly Likely,2,0.9,0.9,2025-09-10T09:21:14.258139,Worker-14,0
+google/gemini-2.5-pro,Unlikely,3,0.2,0.2,2025-09-10T09:21:14.444357,Worker-2,0
+google/gemini-2.5-pro,Little Chance,3,0.1,0.1,2025-09-10T09:21:14.637135,Worker-18,0
+google/gemini-2.5-pro,Probable,2,0.75,0.75,2025-09-10T09:21:15.009936,Worker-8,0
+google/gemini-2.5-pro,Little Chance,1,0.15,0.15,2025-09-10T09:21:15.454381,Worker-15,0
+google/gemini-2.5-pro,Highly Unlikely,1,0.05,0.05,2025-09-10T09:21:15.537843,Worker-7,0
+x-ai/grok-4,Highly Likely,1,0.9,0.9,2025-09-10T09:21:15.585389,Worker-1,0
+x-ai/grok-4,Almost Certain,1,0.95,0.95,2025-09-10T09:21:15.682569,Worker-19,0
+x-ai/grok-4,Highly Likely,3,0.9,0.9,2025-09-10T09:21:16.344585,Worker-12,0
+google/gemini-2.5-pro,Highly Unlikely,2,0.05,0.05,2025-09-10T09:21:16.517979,Worker-17,0
+google/gemini-2.5-pro,Almost No Chance,3,0.01,0.01,2025-09-10T09:21:16.752454,Worker-10,0
+x-ai/grok-4,Almost Certain,3,0.95,0.95,2025-09-10T09:21:17.423475,Worker-16,0
+x-ai/grok-4,Almost Certain,2,0.95,0.95,2025-09-10T09:21:17.445264,Worker-4,0
+x-ai/grok-4,Very Good Chance,2,0.85,0.85,2025-09-10T09:21:17.571794,Worker-6,0
+google/gemini-2.5-pro,Almost No Chance,1,0.01,0.01,2025-09-10T09:21:18.695666,Worker-5,0
+google/gemini-2.5-pro,Highly Unlikely,3,0.1,0.1,2025-09-10T09:21:19.643033,Worker-13,0
+x-ai/grok-4,Very Good Chance,1,0.85,0.85,2025-09-10T09:21:21.072307,Worker-3,0
+x-ai/grok-4,Probably,1,0.75,0.75,2025-09-10T09:21:22.447136,Worker-17,0
+x-ai/grok-4,Probable,3,0.7,0.7,2025-09-10T09:21:23.208722,Worker-12,0
+google/gemini-2.5-pro,Almost No Chance,2,0.01,0.01,2025-09-10T09:21:23.432783,Worker-9,0
+x-ai/grok-4,Very Good Chance,3,0.85,0.85,2025-09-10T09:21:23.715979,Worker-20,0
+x-ai/grok-4,Probably,2,0.75,0.75,2025-09-10T09:21:24.125068,Worker-10,0
+x-ai/grok-4,Probable,1,0.75,0.75,2025-09-10T09:21:24.763348,Worker-1,0
+x-ai/grok-4,About Even,1,0.5,0.5,2025-09-10T09:21:25.225085,Worker-13,0
+google/gemini-2.5-pro,Improbable,3,0.2,0.2,2025-09-10T09:21:25.289118,Worker-11,0
+x-ai/grok-4,Likely,1,0.7,0.7,2025-09-10T09:21:25.607648,Worker-8,0
+x-ai/grok-4,Better than Even,1,0.6,0.6,2025-09-10T09:21:26.007759,Worker-4,0
+x-ai/grok-4,Likely,3,0.7,0.7,2025-09-10T09:21:26.098887,Worker-7,0
+x-ai/grok-4,Probable,2,0.75,0.75,2025-09-10T09:21:26.311799,Worker-19,0
+x-ai/grok-4,About Even,3,0.5,0.5,2025-09-10T09:21:26.410695,Worker-17,0
+x-ai/grok-4,Likely,2,0.7,0.7,2025-09-10T09:21:27.388606,Worker-15,0
+x-ai/grok-4,Probably,3,0.75,0.75,2025-09-10T09:21:27.678148,Worker-16,0
+x-ai/grok-4,About Even,2,0.5,0.5,2025-09-10T09:21:28.176178,Worker-3,0
+x-ai/grok-4,Better than Even,3,0.6,0.6,2025-09-10T09:21:30.387274,Worker-5,0
+x-ai/grok-4,Better than Even,2,0.6,0.6,2025-09-10T09:21:31.027907,Worker-6,0
+x-ai/grok-4,Unlikely,3,0.3,0.3,2025-09-10T09:21:32.486691,Worker-4,0
+x-ai/grok-4,Unlikely,1,0.25,0.25,2025-09-10T09:21:34.718273,Worker-11,0
+x-ai/grok-4,Improbable,1,0.15,0.15,2025-09-10T09:21:35.740057,Worker-7,0
+x-ai/grok-4,We Believe,3,0.75,0.75,2025-09-10T09:21:36.439901,Worker-18,0
+x-ai/grok-4,Probably Not,1,0.25,0.25,2025-09-10T09:21:36.656773,Worker-12,0
+x-ai/grok-4,We Believe,2,0.75,0.75,2025-09-10T09:21:36.665079,Worker-2,0
+x-ai/grok-4,Chances are Slight,1,0.1,0.1,2025-09-10T09:21:37.144692,Worker-15,0
+x-ai/grok-4,Unlikely,2,0.25,0.25,2025-09-10T09:21:37.191934,Worker-8,0
+x-ai/grok-4,Improbable,3,0.2,0.2,2025-09-10T09:21:37.223131,Worker-17,0
+x-ai/grok-4,Probably Not,2,0.25,0.25,2025-09-10T09:21:37.861921,Worker-9,0
+x-ai/grok-3,Almost Certain,2,0.95,0.95,2025-09-10T09:21:38.085468,Worker-17,0
+x-ai/grok-3,Almost Certain,1,0.95,0.95,2025-09-10T09:21:38.216494,Worker-8,0
+x-ai/grok-4,Probably Not,3,0.25,0.25,2025-09-10T09:21:38.383432,Worker-20,0
+x-ai/grok-3,Almost Certain,3,0.95,0.95,2025-09-10T09:21:38.788458,Worker-9,0
+x-ai/grok-3,Highly Likely,1,0.9,0.9,2025-09-10T09:21:38.813676,Worker-17,0
+x-ai/grok-4,Chances are Slight,3,0.1,0.1,2025-09-10T09:21:38.835464,Worker-3,0
+x-ai/grok-4,We Believe,1,0.75,0.75,2025-09-10T09:21:39.311498,Worker-14,0
+x-ai/grok-3,Very Good Chance,3,0.85,0.85,2025-09-10T09:21:39.741679,Worker-3,0
+x-ai/grok-3,Very Good Chance,1,0.8,0.8,2025-09-10T09:21:39.757027,Worker-9,0
+x-ai/grok-3,Very Good Chance,2,0.8,0.8,2025-09-10T09:21:39.760191,Worker-17,0
+x-ai/grok-3,We Believe,1,0.7,0.7,2025-09-10T09:21:40.044374,Worker-14,0
+x-ai/grok-4,We Doubt,3,0.2,0.2,2025-09-10T09:21:40.185094,Worker-13,0
+x-ai/grok-3,We Believe,3,0.7,0.7,2025-09-10T09:21:40.574159,Worker-9,0
+x-ai/grok-4,We Doubt,2,0.2,0.2,2025-09-10T09:21:40.583330,Worker-1,0
+x-ai/grok-3,We Believe,2,0.7,0.7,2025-09-10T09:21:40.590996,Worker-3,0
+x-ai/grok-3,Highly Likely,2,0.9,0.9,2025-09-10T09:21:41.065902,Worker-8,0
+x-ai/grok-3,Likely,1,0.7,0.7,2025-09-10T09:21:41.068344,Worker-17,0
+x-ai/grok-3,Highly Likely,3,0.9,0.9,2025-09-10T09:21:41.083225,Worker-20,0
+x-ai/grok-3,Likely,2,0.7,0.7,2025-09-10T09:21:41.098393,Worker-14,0
+x-ai/grok-3,Likely,3,0.7,0.7,2025-09-10T09:21:41.143372,Worker-13,0
+x-ai/grok-3,Probable,1,0.7,0.7,2025-09-10T09:21:41.286087,Worker-9,0
+x-ai/grok-3,Probable,2,0.7,0.7,2025-09-10T09:21:41.288430,Worker-1,0
+x-ai/grok-4,Highly Unlikely,2,0.1,0.1,2025-09-10T09:21:41.663964,Worker-7,0
+x-ai/grok-4,Little Chance,2,0.1,0.1,2025-09-10T09:21:41.726720,Worker-6,0
+x-ai/grok-3,About Even,1,0.5,0.5,2025-09-10T09:21:42.038636,Worker-1,0
+x-ai/grok-3,Better than Even,3,0.6,0.6,2025-09-10T09:21:42.148422,Worker-9,0
+x-ai/grok-3,Better than Even,2,0.6,0.6,2025-09-10T09:21:42.190775,Worker-13,0
+x-ai/grok-3,Better than Even,1,0.6,0.6,2025-09-10T09:21:42.202995,Worker-14,0
+x-ai/grok-3,About Even,2,0.5,0.5,2025-09-10T09:21:42.267807,Worker-7,0
+x-ai/grok-4,Little Chance,3,0.1,0.1,2025-09-10T09:21:42.441467,Worker-4,0
+x-ai/grok-3,About Even,3,0.5,0.5,2025-09-10T09:21:42.502756,Worker-6,0
+x-ai/grok-4,Improbable,2,0.2,0.2,2025-09-10T09:21:43.108093,Worker-19,0
+x-ai/grok-4,Chances are Slight,2,0.2,0.2,2025-09-10T09:21:43.279096,Worker-16,0
+x-ai/grok-3,Unlikely,1,0.2,0.2,2025-09-10T09:21:43.469574,Worker-6,0
+x-ai/grok-3,We Doubt,1,0.3,0.3,2025-09-10T09:21:43.480514,Worker-14,0
+x-ai/grok-3,We Doubt,3,0.3,0.3,2025-09-10T09:21:43.488341,Worker-4,0
+x-ai/grok-3,Probably Not,1,0.3,0.3,2025-09-10T09:21:43.491679,Worker-1,0
+x-ai/grok-3,Probably Not,2,0.3,0.3,2025-09-10T09:21:43.520681,Worker-9,0
+x-ai/grok-3,Probably Not,3,0.3,0.3,2025-09-10T09:21:43.546727,Worker-13,0
+x-ai/grok-3,We Doubt,2,0.3,0.3,2025-09-10T09:21:43.553203,Worker-7,0
+x-ai/grok-3,Probably,3,0.7,0.7,2025-09-10T09:21:43.640660,Worker-20,0
+x-ai/grok-3,Probably,2,0.7,0.7,2025-09-10T09:21:43.642131,Worker-17,0
+x-ai/grok-3,Probable,3,0.7,0.7,2025-09-10T09:21:43.655027,Worker-3,0
+x-ai/grok-4,Highly Unlikely,3,0.1,0.1,2025-09-10T09:21:43.873403,Worker-18,0
+x-ai/grok-3,Probably,1,0.7,0.7,2025-09-10T09:21:43.883036,Worker-8,0
+x-ai/grok-3,Improbable,3,0.2,0.2,2025-09-10T09:21:44.447961,Worker-4,0
+x-ai/grok-3,Improbable,1,0.2,0.2,2025-09-10T09:21:44.452701,Worker-6,0
+x-ai/grok-3,Improbable,2,0.2,0.2,2025-09-10T09:21:44.465988,Worker-14,0
+x-ai/grok-3,Highly Unlikely,1,0.1,0.1,2025-09-10T09:21:44.641195,Worker-3,0
+x-ai/grok-3,Little Chance,1,0.2,0.2,2025-09-10T09:21:44.647239,Worker-7,0
+x-ai/grok-3,Highly Unlikely,2,0.1,0.1,2025-09-10T09:21:44.650081,Worker-18,0
+x-ai/grok-3,Chances are Slight,2,0.2,0.2,2025-09-10T09:21:44.653340,Worker-9,0
+x-ai/grok-3,Chances are Slight,1,0.2,0.2,2025-09-10T09:21:44.656317,Worker-1,0
+x-ai/grok-3,Highly Unlikely,3,0.1,0.1,2025-09-10T09:21:44.663495,Worker-8,0
+x-ai/grok-3,Chances are Slight,3,0.2,0.2,2025-09-10T09:21:44.666592,Worker-13,0
+x-ai/grok-3,Little Chance,2,0.1,0.1,2025-09-10T09:21:44.670068,Worker-20,0
+x-ai/grok-3,Little Chance,3,0.1,0.1,2025-09-10T09:21:44.745225,Worker-17,0
+x-ai/grok-4,Almost No Chance,1,0.01,0.01,2025-09-10T09:21:45.204893,Worker-12,0
+x-ai/grok-3,Unlikely,2,0.2,0.2,2025-09-10T09:21:45.821636,Worker-19,0
+x-ai/grok-3,Almost No Chance,3,0.05,0.05,2025-09-10T09:21:45.852110,Worker-14,0
+x-ai/grok-3,Almost No Chance,1,0.05,0.05,2025-09-10T09:21:45.862582,Worker-4,0
+x-ai/grok-3,Unlikely,3,0.2,0.2,2025-09-10T09:21:45.923212,Worker-16,0
+x-ai/grok-3,Almost No Chance,2,0.05,0.05,2025-09-10T09:21:46.140706,Worker-6,0
+x-ai/grok-4,Little Chance,1,0.1,0.1,2025-09-10T09:21:46.833682,Worker-5,0
+x-ai/grok-4,Almost No Chance,3,0.01,0.01,2025-09-10T09:21:48.012113,Worker-15,0
+x-ai/grok-4,Almost No Chance,2,0.01,0.01,2025-09-10T09:21:48.828598,Worker-2,0
+anthropic/claude-opus-4.1,Highly Likely,2,0.85,0.85,2025-09-10T09:21:51.759852,Worker-1,0
+anthropic/claude-opus-4.1,Almost Certain,1,0.95,0.95,2025-09-10T09:21:52.313692,Worker-3,0
+anthropic/claude-opus-4.1,We Believe,1,0.75,0.75,2025-09-10T09:21:52.683682,Worker-12,0
+anthropic/claude-opus-4.1,Likely,1,0.7,0.7,2025-09-10T09:21:53.264447,Worker-4,0
+anthropic/claude-opus-4.1,Likely,2,0.7,0.7,2025-09-10T09:21:53.539443,Worker-16,0
+anthropic/claude-opus-4.1,Highly Likely,1,0.85,0.85,2025-09-10T09:21:54.359362,Worker-9,0
+x-ai/grok-4,Highly Unlikely,1,0.1,0.1,2025-09-10T09:21:55.039551,Worker-11,0
+anthropic/claude-opus-4.1,Very Good Chance,3,0.75,0.75,2025-09-10T09:21:56.670715,Worker-17,0
+anthropic/claude-opus-4.1,Very Good Chance,2,0.75,0.75,2025-09-10T09:21:56.682182,Worker-20,0
+anthropic/claude-opus-4.1,Highly Likely,3,0.85,0.85,2025-09-10T09:21:56.787370,Worker-8,0
+anthropic/claude-opus-4.1,Almost Certain,3,0.95,0.95,2025-09-10T09:21:56.810095,Worker-18,0
+anthropic/claude-opus-4.1,Almost Certain,2,0.95,0.95,2025-09-10T09:21:56.937702,Worker-7,0
+anthropic/claude-opus-4.1,Very Good Chance,1,0.8,0.8,2025-09-10T09:21:57.096745,Worker-13,0
+anthropic/claude-opus-4.1,We Believe,3,0.75,0.75,2025-09-10T09:21:57.809440,Worker-14,0
+anthropic/claude-opus-4.1,We Believe,2,0.75,0.75,2025-09-10T09:21:58.689767,Worker-19,0
+anthropic/claude-opus-4.1,Probable,1,0.7,0.7,2025-09-10T09:21:58.741867,Worker-5,0
+anthropic/claude-opus-4.1,Likely,3,0.7,0.7,2025-09-10T09:21:58.837305,Worker-6,0
+anthropic/claude-opus-4.1,Probable,2,0.7,0.7,2025-09-10T09:22:00.520719,Worker-15,0
+anthropic/claude-opus-4.1,Probable,3,0.7,0.7,2025-09-10T09:22:00.721653,Worker-2,0
+anthropic/claude-opus-4.1,Unlikely,3,0.25,0.25,2025-09-10T09:22:03.773248,Worker-15,0
+anthropic/claude-opus-4.1,Probably Not,1,0.25,0.25,2025-09-10T09:22:04.255108,Worker-8,0
+anthropic/claude-opus-4.1,Probably,2,0.7,0.7,2025-09-10T09:22:04.347406,Worker-3,0
+anthropic/claude-opus-4.1,Probably,3,0.7,0.7,2025-09-10T09:22:04.712563,Worker-12,0
+anthropic/claude-opus-4.1,Better than Even,1,0.6,0.6,2025-09-10T09:22:05.105140,Worker-4,0
+anthropic/claude-opus-4.1,Better than Even,2,0.6,0.6,2025-09-10T09:22:05.866888,Worker-16,0
+anthropic/claude-opus-4.1,Better than Even,3,0.6,0.6,2025-09-10T09:22:06.368630,Worker-9,0
+anthropic/claude-opus-4.1,Probably,1,0.75,0.75,2025-09-10T09:22:06.415478,Worker-1,0
+anthropic/claude-opus-4.1,Probably Not,2,0.25,0.25,2025-09-10T09:22:06.424837,Worker-18,0
+anthropic/claude-opus-4.1,About Even,1,0.5,0.5,2025-09-10T09:22:07.414158,Worker-11,0
+anthropic/claude-opus-4.1,About Even,3,0.5,0.5,2025-09-10T09:22:08.446020,Worker-20,0
+anthropic/claude-opus-4.1,About Even,2,0.5,0.5,2025-09-10T09:22:08.703075,Worker-17,0
+anthropic/claude-opus-4.1,Probably Not,3,0.25,0.25,2025-09-10T09:22:09.439419,Worker-7,0
+anthropic/claude-opus-4.1,We Doubt,1,0.2,0.2,2025-09-10T09:22:09.768073,Worker-13,0
+anthropic/claude-opus-4.1,We Doubt,2,0.2,0.2,2025-09-10T09:22:09.938041,Worker-14,0
+x-ai/grok-4,We Doubt,1,0.2,0.2,2025-09-10T09:22:10.612554,Worker-10,0
+anthropic/claude-opus-4.1,We Doubt,3,0.2,0.2,2025-09-10T09:22:10.827376,Worker-19,0
+anthropic/claude-opus-4.1,Unlikely,1,0.2,0.2,2025-09-10T09:22:10.976182,Worker-5,0
+anthropic/claude-opus-4.1,Unlikely,2,0.25,0.25,2025-09-10T09:22:11.137164,Worker-6,0
+openai/gpt-oss-20b,Almost Certain,1,0.97,0.97,2025-09-10T09:22:11.202642,Worker-14,0
+openai/gpt-oss-20b,Almost Certain,3,0.99,0.99,2025-09-10T09:22:11.674106,Worker-19,0
+openai/gpt-oss-20b,Almost Certain,2,0.99,0.99,2025-09-10T09:22:11.752254,Worker-10,0
+openai/gpt-oss-20b,Very Good Chance,1,0.8,0.8,2025-09-10T09:22:12.296856,Worker-19,0
+openai/gpt-oss-20b,Highly Likely,2,0.85,0.85,2025-09-10T09:22:12.666356,Worker-6,0
+openai/gpt-oss-20b,Highly Likely,3,0.9,0.9,2025-09-10T09:22:12.730671,Worker-14,0
+openai/gpt-oss-20b,Very Good Chance,2,0.8,0.8,2025-09-10T09:22:12.921905,Worker-10,0
+openai/gpt-oss-20b,Very Good Chance,3,0.85,0.85,2025-09-10T09:22:13.224602,Worker-19,0
+anthropic/claude-opus-4.1,Improbable,1,0.2,0.2,2025-09-10T09:22:13.415581,Worker-2,0
+openai/gpt-oss-20b,Highly Likely,1,0.85,0.85,2025-09-10T09:22:13.685503,Worker-5,0
+openai/gpt-oss-20b,We Believe,3,0.6,0.6,2025-09-10T09:22:14.041765,Worker-10,0
+anthropic/claude-opus-4.1,Chances are Slight,2,0.2,0.2,2025-09-10T09:22:14.202533,Worker-12,0
+openai/gpt-oss-20b,We Believe,2,0.8,0.8,2025-09-10T09:22:14.299720,Worker-14,0
+openai/gpt-oss-20b,We Believe,1,0.5,0.5,2025-09-10T09:22:14.588247,Worker-6,0
+openai/gpt-oss-20b,Probable,2,0.8,0.8,2025-09-10T09:22:15.122005,Worker-12,0
+openai/gpt-oss-20b,Probable,1,0.75,0.75,2025-09-10T09:22:15.614936,Worker-10,0
+openai/gpt-oss-20b,Probably,1,0.8,0.8,2025-09-10T09:22:15.643189,Worker-6,0
+openai/gpt-oss-20b,Likely,2,0.8,0.8,2025-09-10T09:22:15.843203,Worker-2,0
+openai/gpt-oss-20b,Likely,3,0.75,0.75,2025-09-10T09:22:15.982022,Worker-5,0
+openai/gpt-oss-20b,Likely,1,0.8,0.8,2025-09-10T09:22:16.004245,Worker-19,0
+anthropic/claude-opus-4.1,Improbable,2,0.2,0.2,2025-09-10T09:22:16.204432,Worker-15,0
+anthropic/claude-opus-4.1,Improbable,3,0.2,0.2,2025-09-10T09:22:16.600512,Worker-8,0
+anthropic/claude-opus-4.1,Chances are Slight,1,0.2,0.2,2025-09-10T09:22:16.640508,Worker-3,0
+openai/gpt-oss-20b,Better than Even,2,0.6,0.6,2025-09-10T09:22:16.939215,Worker-2,0
+openai/gpt-oss-20b,Probably,3,0.7,0.7,2025-09-10T09:22:17.038601,Worker-10,0
+openai/gpt-oss-20b,Probable,3,0.75,0.75,2025-09-10T09:22:17.233782,Worker-14,0
+openai/gpt-oss-20b,About Even,1,0.5,0.5,2025-09-10T09:22:17.237286,Worker-19,0
+openai/gpt-oss-20b,Probably,2,0.8,0.8,2025-09-10T09:22:17.362132,Worker-12,0
+openai/gpt-oss-20b,Better than Even,3,0.6,0.6,2025-09-10T09:22:17.526752,Worker-5,0
+openai/gpt-oss-20b,Better than Even,1,0.6,0.6,2025-09-10T09:22:17.605806,Worker-6,0
+openai/gpt-oss-20b,About Even,3,0.5,0.5,2025-09-10T09:22:17.730467,Worker-8,0
+openai/gpt-oss-20b,About Even,2,0.5,0.5,2025-09-10T09:22:18.004801,Worker-15,0
+anthropic/claude-opus-4.1,Chances are Slight,3,0.2,0.2,2025-09-10T09:22:18.073081,Worker-4,0
+openai/gpt-oss-20b,Unlikely,3,0.2,0.2,2025-09-10T09:22:18.570538,Worker-8,0
+openai/gpt-oss-20b,We Doubt,3,0.2,0.2,2025-09-10T09:22:18.602532,Worker-12,0
+openai/gpt-oss-20b,Unlikely,2,0.2,0.2,2025-09-10T09:22:18.791580,Worker-6,0
+openai/gpt-oss-20b,We Doubt,1,0.25,0.25,2025-09-10T09:22:18.793753,Worker-14,0
+anthropic/claude-opus-4.1,Little Chance,3,0.15,0.15,2025-09-10T09:22:18.797575,Worker-1,0
+anthropic/claude-opus-4.1,Highly Unlikely,1,0.1,0.1,2025-09-10T09:22:18.841203,Worker-18,0
+openai/gpt-oss-20b,Probably Not,3,0.25,0.25,2025-09-10T09:22:18.882825,Worker-10,0
+openai/gpt-oss-20b,Improbable,1,0.1,0.1,2025-09-10T09:22:18.887655,Worker-15,0
+openai/gpt-oss-20b,Unlikely,1,0.2,0.2,2025-09-10T09:22:19.044977,Worker-5,0
+openai/gpt-oss-20b,Chances are Slight,1,0.1,0.1,2025-09-10T09:22:19.325818,Worker-12,0
+openai/gpt-oss-20b,Probably Not,2,0.2,0.2,2025-09-10T09:22:19.435374,Worker-2,0
+openai/gpt-oss-20b,Little Chance,1,0.08,0.08,2025-09-10T09:22:19.577678,Worker-1,0
+openai/gpt-oss-20b,We Doubt,2,0.5,0.5,2025-09-10T09:22:19.676984,Worker-19,0
+openai/gpt-oss-20b,Highly Unlikely,1,0.1,0.1,2025-09-10T09:22:19.761665,Worker-15,0
+openai/gpt-oss-20b,Chances are Slight,3,0.1,0.1,2025-09-10T09:22:19.838376,Worker-14,0
+openai/gpt-oss-20b,Highly Unlikely,2,0.02,0.02,2025-09-10T09:22:20.274796,Worker-5,0
+openai/gpt-oss-20b,Improbable,3,0.05,0.05,2025-09-10T09:22:20.295175,Worker-8,0
+openai/gpt-oss-20b,Chances are Slight,2,0.15,0.15,2025-09-10T09:22:20.529670,Worker-6,0
+openai/gpt-oss-20b,Almost No Chance,2,0.01,0.01,2025-09-10T09:22:20.562797,Worker-1,0
+openai/gpt-oss-20b,Little Chance,3,0.05,0.05,2025-09-10T09:22:20.594979,Worker-10,0
+anthropic/claude-opus-4.1,Highly Unlikely,3,0.15,0.15,2025-09-10T09:22:20.701048,Worker-20,0
+openai/gpt-oss-20b,Almost No Chance,3,0.02,0.02,2025-09-10T09:22:20.703041,Worker-19,0
+openai/gpt-oss-120b,Almost Certain,2,0.97,0.97,2025-09-10T09:22:20.730715,Worker-14,0
+openai/gpt-oss-20b,Little Chance,2,0.02,0.02,2025-09-10T09:22:20.734988,Worker-18,0
+anthropic/claude-opus-4.1,Almost No Chance,1,0.05,0.05,2025-09-10T09:22:20.812597,Worker-17,0
+openai/gpt-oss-20b,Probably Not,1,0.3,0.3,2025-09-10T09:22:20.906611,Worker-3,0
+openai/gpt-oss-120b,Almost Certain,1,0.95,0.95,2025-09-10T09:22:21.068754,Worker-15,0
+openai/gpt-oss-20b,Highly Unlikely,3,0.1,0.1,2025-09-10T09:22:21.150978,Worker-12,0
+openai/gpt-oss-20b,Almost No Chance,1,0.02,0.02,2025-09-10T09:22:21.634652,Worker-2,0
+openai/gpt-oss-20b,Improbable,2,0.1,0.1,2025-09-10T09:22:21.668862,Worker-4,0
+openai/gpt-oss-120b,Very Good Chance,2,0.85,0.85,2025-09-10T09:22:21.825965,Worker-20,0
+openai/gpt-oss-120b,We Believe,1,0.7,0.7,2025-09-10T09:22:21.928500,Worker-14,0
+openai/gpt-oss-120b,Almost Certain,3,0.97,0.97,2025-09-10T09:22:22.117498,Worker-5,0
+openai/gpt-oss-120b,Very Good Chance,1,0.85,0.85,2025-09-10T09:22:22.154019,Worker-10,0
+openai/gpt-oss-120b,Likely,3,0.8,0.8,2025-09-10T09:22:22.245589,Worker-12,0
+openai/gpt-oss-120b,Probable,3,0.8,0.8,2025-09-10T09:22:22.569948,Worker-20,0
+anthropic/claude-opus-4.1,Almost No Chance,3,0.05,0.05,2025-09-10T09:22:22.831259,Worker-13,0
+openai/gpt-oss-120b,Probably,1,0.75,0.75,2025-09-10T09:22:23.002624,Worker-14,0
+openai/gpt-oss-120b,Probably,3,0.8,0.8,2025-09-10T09:22:23.036502,Worker-10,0
+openai/gpt-oss-120b,Likely,2,0.75,0.75,2025-09-10T09:22:23.056757,Worker-15,0
+openai/gpt-oss-120b,Highly Likely,1,0.9,0.9,2025-09-10T09:22:23.497743,Worker-8,0
+openai/gpt-oss-120b,Very Good Chance,3,0.85,0.85,2025-09-10T09:22:23.847592,Worker-19,0
+openai/gpt-oss-120b,About Even,3,0.5,0.5,2025-09-10T09:22:24.125071,Worker-15,0
+openai/gpt-oss-120b,Highly Likely,2,0.9,0.9,2025-09-10T09:22:24.234900,Worker-6,0
+anthropic/claude-opus-4.1,Little Chance,2,0.15,0.15,2025-09-10T09:22:24.262218,Worker-9,0
+openai/gpt-oss-120b,Better than Even,1,0.6,0.6,2025-09-10T09:22:24.394960,Worker-12,0
+openai/gpt-oss-120b,Likely,1,0.8,0.8,2025-09-10T09:22:24.437994,Worker-3,0
+anthropic/claude-opus-4.1,Almost No Chance,2,0.05,0.05,2025-09-10T09:22:24.848608,Worker-7,0
+openai/gpt-oss-120b,We Doubt,1,0.2,0.2,2025-09-10T09:22:24.886184,Worker-6,0
+openai/gpt-oss-120b,About Even,2,0.5,0.5,2025-09-10T09:22:24.917189,Worker-10,0
+openai/gpt-oss-120b,We Believe,2,0.75,0.75,2025-09-10T09:22:25.313487,Worker-18,0
+openai/gpt-oss-120b,Better than Even,2,0.65,0.65,2025-09-10T09:22:25.432719,Worker-20,0
+openai/gpt-oss-120b,Probably Not,3,0.2,0.2,2025-09-10T09:22:25.509226,Worker-15,0
+openai/gpt-oss-120b,Probable,1,0.75,0.75,2025-09-10T09:22:25.797902,Worker-2,0
+openai/gpt-oss-120b,Unlikely,1,0.2,0.2,2025-09-10T09:22:25.879523,Worker-3,0
+openai/gpt-oss-120b,Unlikely,2,0.2,0.2,2025-09-10T09:22:25.984649,Worker-7,0
+openai/gpt-oss-120b,Probably,2,0.8,0.8,2025-09-10T09:22:26.009776,Worker-5,0
+openai/gpt-oss-120b,Highly Likely,3,0.9,0.9,2025-09-10T09:22:26.055634,Worker-1,0
+openai/gpt-oss-120b,Unlikely,3,0.2,0.2,2025-09-10T09:22:26.077802,Worker-6,0
+openai/gpt-oss-120b,Improbable,1,0.15,0.15,2025-09-10T09:22:26.160534,Worker-10,0
+anthropic/claude-opus-4.1,Highly Unlikely,2,0.1,0.1,2025-09-10T09:22:26.210277,Worker-11,0
+openai/gpt-oss-120b,Better than Even,3,0.65,0.65,2025-09-10T09:22:26.482111,Worker-13,0
+openai/gpt-oss-120b,Improbable,3,0.15,0.15,2025-09-10T09:22:26.484768,Worker-20,0
+openai/gpt-oss-120b,Little Chance,2,0.07,0.07,2025-09-10T09:22:26.746434,Worker-5,0
+openai/gpt-oss-120b,Chances are Slight,1,0.2,0.2,2025-09-10T09:22:26.755700,Worker-15,0
+openai/gpt-oss-120b,Probable,2,0.75,0.75,2025-09-10T09:22:26.866512,Worker-4,0
+openai/gpt-oss-120b,Improbable,2,0.2,0.2,2025-09-10T09:22:27.073781,Worker-18,0
+openai/gpt-oss-120b,About Even,1,0.5,0.5,2025-09-10T09:22:27.177453,Worker-14,0
+openai/gpt-oss-120b,Highly Unlikely,2,0.05,0.05,2025-09-10T09:22:27.613070,Worker-10,0
+openai/gpt-oss-120b,Highly Unlikely,1,0.1,0.1,2025-09-10T09:22:27.741446,Worker-6,0
+openai/gpt-oss-120b,Probably Not,2,0.2,0.2,2025-09-10T09:22:28.462195,Worker-19,0
+openai/gpt-oss-120b,We Doubt,3,0.25,0.25,2025-09-10T09:22:28.464885,Worker-12,0
+openai/gpt-oss-120b,We Doubt,2,0.2,0.2,2025-09-10T09:22:28.664381,Worker-9,0
+openai/gpt-oss-120b,Little Chance,1,0.15,0.15,2025-09-10T09:22:28.880995,Worker-7,0
+openai/gpt-oss-120b,Probably Not,1,0.2,0.2,2025-09-10T09:22:28.989495,Worker-8,0
+openai/gpt-oss-120b,We Believe,3,0.75,0.75,2025-09-10T09:22:29.023055,Worker-17,0
+anthropic/claude-opus-4.1,Little Chance,1,0.15,0.15,2025-09-10T09:22:29.137448,Worker-16,0
+openai/gpt-oss-120b,Almost No Chance,1,0.02,0.02,2025-09-10T09:22:29.566784,Worker-13,0
+openai/gpt-oss-120b,Little Chance,3,0.1,0.1,2025-09-10T09:22:29.970147,Worker-1,0
+openai/gpt-oss-120b,Chances are Slight,3,0.2,0.2,2025-09-10T09:22:30.360632,Worker-3,0
+openai/gpt-oss-120b,Chances are Slight,2,0.15,0.15,2025-09-10T09:22:30.570355,Worker-2,0
+openai/gpt-oss-120b,Almost No Chance,2,0.02,0.02,2025-09-10T09:22:31.334860,Worker-20,0
+openai/gpt-oss-120b,Highly Unlikely,3,0.1,0.1,2025-09-10T09:22:31.623770,Worker-11,0
+openai/gpt-oss-120b,Almost No Chance,3,0.02,0.02,2025-09-10T09:22:31.919807,Worker-5,0
+openai/gpt-5-nano,Almost Certain,1,0.95,0.95,2025-09-10T09:22:33.681118,Worker-15,0
+openai/gpt-5-nano,Highly Likely,1,0.92,0.92,2025-09-10T09:22:34.819204,Worker-14,0
+openai/gpt-5-nano,Almost Certain,3,0.95,0.95,2025-09-10T09:22:34.969505,Worker-18,0
+openai/gpt-5-nano,Almost Certain,2,0.95,0.95,2025-09-10T09:22:35.223102,Worker-4,0
+openai/gpt-5-nano,Likely,3,0.75,0.75,2025-09-10T09:22:37.284719,Worker-1,0
+openai/gpt-5-nano,Highly Likely,3,0.9,0.9,2025-09-10T09:22:37.569864,Worker-6,0
+openai/gpt-5-nano,Highly Likely,2,0.9,0.9,2025-09-10T09:22:37.855965,Worker-10,0
+openai/gpt-5-nano,Very Good Chance,1,0.92,0.92,2025-09-10T09:22:38.344533,Worker-19,0
+openai/gpt-5-nano,We Believe,1,0.7,0.7,2025-09-10T09:22:38.559741,Worker-7,0
+openai/gpt-5-nano,Very Good Chance,2,0.9,0.9,2025-09-10T09:22:39.968737,Worker-12,0
+openai/gpt-5-nano,Likely,2,0.7,0.7,2025-09-10T09:22:41.282300,Worker-13,0
+openai/gpt-5-nano,Probably,1,0.8,0.8,2025-09-10T09:22:41.465728,Worker-11,0
+openai/gpt-5-nano,We Believe,2,0.8,0.8,2025-09-10T09:22:41.501541,Worker-8,0
+openai/gpt-5-nano,Probable,1,0.75,0.75,2025-09-10T09:22:41.638199,Worker-3,0
+openai/gpt-5-nano,Probably,3,0.7,0.7,2025-09-10T09:22:42.125463,Worker-15,0
+openai/gpt-5-nano,Probably,2,0.8,0.8,2025-09-10T09:22:43.200914,Worker-5,0
+openai/gpt-5-nano,About Even,1,0.5,0.5,2025-09-10T09:22:43.698334,Worker-1,0
+openai/gpt-5-nano,Better than Even,1,0.6,0.6,2025-09-10T09:22:44.138855,Worker-14,0
+openai/gpt-5-nano,Likely,1,0.75,0.75,2025-09-10T09:22:44.532418,Worker-16,0
+openai/gpt-5-nano,About Even,3,0.5,0.5,2025-09-10T09:22:45.943798,Worker-10,0
+openai/gpt-5-nano,Better than Even,2,0.6,0.6,2025-09-10T09:22:47.358186,Worker-18,0
+openai/gpt-5-nano,Better than Even,3,0.6,0.6,2025-09-10T09:22:47.810431,Worker-4,0
+openai/gpt-5-nano,About Even,2,0.5,0.5,2025-09-10T09:22:47.825468,Worker-6,0
+openai/gpt-5-nano,Unlikely,2,0.2,0.2,2025-09-10T09:22:48.665956,Worker-15,0
+openai/gpt-5-nano,Probable,2,0.7,0.7,2025-09-10T09:22:49.042291,Worker-2,0
+openai/gpt-5-nano,We Doubt,2,0.95,0.95,2025-09-10T09:22:49.919391,Worker-11,0
+openai/gpt-5-nano,Very Good Chance,3,0.9,0.9,2025-09-10T09:22:49.975349,Worker-9,0
+openai/gpt-5-nano,We Doubt,1,0.9,0.9,2025-09-10T09:22:50.280504,Worker-13,0
+openai/gpt-5-nano,Probably Not,1,0.2,0.2,2025-09-10T09:22:51.710260,Worker-19,0
+openai/gpt-5-nano,We Believe,3,0.6,0.6,2025-09-10T09:22:52.140855,Worker-17,0
+openai/gpt-5-nano,We Doubt,3,0.3,0.3,2025-09-10T09:22:52.974604,Worker-8,0
+openai/gpt-5-nano,Improbable,2,0.2,0.2,2025-09-10T09:22:53.635405,Worker-14,0
+openai/gpt-5-nano,Improbable,1,0.15,0.15,2025-09-10T09:22:53.945615,Worker-1,0
+openai/gpt-5-nano,Unlikely,3,0.2,0.2,2025-09-10T09:22:55.020892,Worker-5,0
+openai/gpt-5-nano,Improbable,3,0.1,0.1,2025-09-10T09:22:55.496123,Worker-16,0
+openai/gpt-5-nano,Chances are Slight,2,0.15,0.15,2025-09-10T09:22:56.033109,Worker-18,0
+openai/gpt-5-nano,Probably Not,3,0.2,0.2,2025-09-10T09:22:56.546359,Worker-12,0
+openai/gpt-5-nano,Chances are Slight,1,0.15,0.15,2025-09-10T09:22:57.028629,Worker-10,0
+openai/gpt-5-nano,Little Chance,2,0.1,0.1,2025-09-10T09:22:57.344092,Worker-15,0
+openai/gpt-5-mini,Highly Likely,2,0.9,0.9,2025-09-10T09:22:59.741100,Worker-18,0
+openai/gpt-5-nano,Probable,3,0.7,0.7,2025-09-10T09:22:59.840771,Worker-20,0
+openai/gpt-5-nano,Almost No Chance,2,0.01,0.01,2025-09-10T09:23:00.212422,Worker-17,0
+openai/gpt-5-nano,Highly Unlikely,3,0.05,0.05,2025-09-10T09:23:00.288523,Worker-13,0
+openai/gpt-5-nano,Almost No Chance,3,0.01,0.01,2025-09-10T09:23:00.363387,Worker-8,0
+openai/gpt-5-mini,Almost Certain,1,0.95,0.95,2025-09-10T09:23:00.643381,Worker-14,0
+openai/gpt-5-nano,Chances are Slight,3,0.1,0.1,2025-09-10T09:23:00.693287,Worker-4,0
+openai/gpt-5-nano,Almost No Chance,1,0.01,0.01,2025-09-10T09:23:00.924442,Worker-19,0
+openai/gpt-5-nano,Highly Unlikely,1,0.05,0.05,2025-09-10T09:23:01.432048,Worker-11,0
+openai/gpt-5-nano,Probably Not,2,0.25,0.25,2025-09-10T09:23:01.891946,Worker-7,0
+openai/gpt-5-mini,Very Good Chance,2,0.85,0.85,2025-09-10T09:23:02.470293,Worker-15,0
+openai/gpt-5-nano,Highly Unlikely,2,0.05,0.05,2025-09-10T09:23:02.713618,Worker-9,0
+openai/gpt-5-mini,Highly Likely,3,0.9,0.9,2025-09-10T09:23:03.014996,Worker-12,0
+openai/gpt-5-nano,Unlikely,1,0.1,0.1,2025-09-10T09:23:03.475626,Worker-3,0
+openai/gpt-5-mini,Very Good Chance,1,0.85,0.85,2025-09-10T09:23:04.859713,Worker-10,0
+openai/gpt-5-mini,Very Good Chance,3,0.85,0.85,2025-09-10T09:23:05.502250,Worker-18,0
+openai/gpt-5-mini,Almost Certain,2,0.95,0.95,2025-09-10T09:23:05.603846,Worker-1,0
+openai/gpt-5-mini,We Believe,1,0.7,0.7,2025-09-10T09:23:05.630644,Worker-20,0
+openai/gpt-5-mini,Probable,1,0.75,0.75,2025-09-10T09:23:05.737148,Worker-19,0
+openai/gpt-5-mini,Probable,2,0.75,0.75,2025-09-10T09:23:07.479946,Worker-11,0
+openai/gpt-5-mini,Likely,1,0.8,0.8,2025-09-10T09:23:07.694386,Worker-8,0
+openai/gpt-5-mini,We Believe,3,0.7,0.7,2025-09-10T09:23:08.740552,Worker-13,0
+openai/gpt-5-mini,Likely,3,0.75,0.75,2025-09-10T09:23:08.777969,Worker-4,0
+openai/gpt-5-mini,Probably,3,0.75,0.75,2025-09-10T09:23:08.828628,Worker-12,0
+openai/gpt-5-mini,We Believe,2,0.75,0.75,2025-09-10T09:23:09.305047,Worker-17,0
+openai/gpt-5-mini,Probably,1,0.75,0.75,2025-09-10T09:23:09.352178,Worker-15,0
+openai/gpt-5-mini,About Even,3,0.5,0.5,2025-09-10T09:23:09.462834,Worker-19,0
+openai/gpt-5-mini,Probably,2,0.75,0.75,2025-09-10T09:23:09.804281,Worker-9,0
+openai/gpt-5-mini,About Even,2,0.5,0.5,2025-09-10T09:23:09.889802,Worker-20,0
+openai/gpt-5-mini,Probable,3,0.8,0.8,2025-09-10T09:23:09.969199,Worker-7,0
+openai/gpt-5-nano,Little Chance,3,0.1,0.1,2025-09-10T09:23:10.140651,Worker-2,0
+openai/gpt-5-nano,Little Chance,1,0.1,0.1,2025-09-10T09:23:10.293376,Worker-6,0
+openai/gpt-5-mini,About Even,1,0.5,0.5,2025-09-10T09:23:10.553357,Worker-1,0
+openai/gpt-5-mini,Better than Even,2,0.6,0.6,2025-09-10T09:23:13.182454,Worker-10,0
+openai/gpt-5-mini,Better than Even,1,0.6,0.6,2025-09-10T09:23:13.406173,Worker-3,0
+openai/gpt-5-mini,Probably Not,1,0.2,0.2,2025-09-10T09:23:14.192243,Worker-11,0
+openai/gpt-5-mini,Probably Not,3,0.2,0.2,2025-09-10T09:23:15.074614,Worker-13,0
+openai/gpt-5-mini,Unlikely,1,0.2,0.2,2025-09-10T09:23:15.325606,Worker-15,0
+openai/gpt-5-mini,Probably Not,2,0.2,0.2,2025-09-10T09:23:15.454696,Worker-8,0
+openai/gpt-5-mini,Better than Even,3,0.6,0.6,2025-09-10T09:23:15.697855,Worker-18,0
+openai/gpt-5-mini,We Doubt,3,0.2,0.2,2025-09-10T09:23:15.703290,Worker-17,0
+openai/gpt-5-mini,Chances are Slight,1,0.15,0.15,2025-09-10T09:23:16.293259,Worker-6,0
+openai/gpt-5-mini,Highly Likely,1,0.9,0.9,2025-09-10T09:23:16.318808,Worker-16,0
+openai/gpt-5-mini,We Doubt,1,0.2,0.2,2025-09-10T09:23:16.925285,Worker-4,0
+openai/gpt-5-mini,Chances are Slight,2,0.15,0.15,2025-09-10T09:23:17.029170,Worker-1,0
+openai/gpt-5-mini,Unlikely,3,0.2,0.2,2025-09-10T09:23:17.709350,Worker-9,0
+openai/gpt-5-mini,Improbable,2,0.1,0.1,2025-09-10T09:23:17.757414,Worker-7,0
+openai/gpt-5-mini,Improbable,1,0.1,0.1,2025-09-10T09:23:17.770092,Worker-20,0
+openai/gpt-5-mini,Unlikely,2,0.2,0.2,2025-09-10T09:23:18.002218,Worker-19,0
+openai/gpt-5-chat,Almost Certain,2,0.9,0.9,2025-09-10T09:23:18.048140,Worker-1,0
+openai/gpt-5-chat,Highly Likely,2,0.85,0.85,2025-09-10T09:23:18.554608,Worker-20,0
+openai/gpt-5-chat,Almost Certain,3,0.95,0.95,2025-09-10T09:23:18.644094,Worker-9,0
+openai/gpt-5-mini,Little Chance,1,0.1,0.1,2025-09-10T09:23:18.647510,Worker-3,0
+openai/gpt-5-chat,Almost Certain,1,0.95,0.95,2025-09-10T09:23:18.700821,Worker-4,0
+openai/gpt-5-chat,Highly Likely,3,0.85,0.85,2025-09-10T09:23:18.920890,Worker-19,0
+openai/gpt-5-chat,Highly Likely,1,0.85,0.85,2025-09-10T09:23:18.942810,Worker-7,0
+openai/gpt-5-mini,Improbable,3,0.1,0.1,2025-09-10T09:23:18.987520,Worker-2,0
+openai/gpt-5-chat,Very Good Chance,1,0.8,0.8,2025-09-10T09:23:19.056769,Worker-1,0
+openai/gpt-5-mini,Chances are Slight,3,0.15,0.15,2025-09-10T09:23:19.465959,Worker-10,0
+openai/gpt-5-chat,We Believe,1,0.75,0.75,2025-09-10T09:23:19.689463,Worker-3,0
+openai/gpt-5-chat,We Believe,2,0.7,0.7,2025-09-10T09:23:19.714586,Worker-4,0
+openai/gpt-5-chat,Very Good Chance,2,0.8,0.8,2025-09-10T09:23:19.840923,Worker-20,0
+openai/gpt-5-chat,We Believe,3,0.75,0.75,2025-09-10T09:23:19.896706,Worker-19,0
+openai/gpt-5-chat,Likely,3,0.75,0.75,2025-09-10T09:23:19.926131,Worker-1,0
+openai/gpt-5-chat,Probable,1,0.75,0.75,2025-09-10T09:23:20.227496,Worker-10,0
+openai/gpt-5-mini,Little Chance,2,0.1,0.1,2025-09-10T09:23:20.390626,Worker-11,0
+openai/gpt-5-chat,Likely,1,0.75,0.75,2025-09-10T09:23:20.432721,Worker-7,0
+openai/gpt-5-chat,Probable,2,0.75,0.75,2025-09-10T09:23:20.468653,Worker-3,0
+openai/gpt-5-mini,Little Chance,3,0.1,0.1,2025-09-10T09:23:20.492340,Worker-13,0
+openai/gpt-5-chat,Probable,3,0.75,0.75,2025-09-10T09:23:20.614590,Worker-4,0
+openai/gpt-5-chat,Very Good Chance,3,0.85,0.85,2025-09-10T09:23:20.653420,Worker-9,0
+openai/gpt-5-chat,Likely,2,0.75,0.75,2025-09-10T09:23:20.753832,Worker-2,0
+openai/gpt-5-chat,Probably,3,0.7,0.7,2025-09-10T09:23:20.908217,Worker-1,0
+openai/gpt-5-chat,About Even,2,0.5,0.5,2025-09-10T09:23:21.280327,Worker-13,0
+openai/gpt-5-chat,About Even,1,0.5,0.5,2025-09-10T09:23:21.291334,Worker-3,0
+openai/gpt-5-chat,Better than Even,3,0.6,0.6,2025-09-10T09:23:21.385604,Worker-7,0
+openai/gpt-5-chat,Better than Even,1,0.6,0.6,2025-09-10T09:23:21.444020,Worker-10,0
+openai/gpt-5-chat,Probably,1,0.75,0.75,2025-09-10T09:23:21.459569,Worker-20,0
+openai/gpt-5-chat,Better than Even,2,0.6,0.6,2025-09-10T09:23:21.467327,Worker-11,0
+openai/gpt-5-chat,Probably Not,1,0.2,0.2,2025-09-10T09:23:21.553846,Worker-9,0
+openai/gpt-5-chat,Probably Not,2,0.2,0.2,2025-09-10T09:23:21.589353,Worker-2,0
+openai/gpt-5-mini,Almost Certain,3,0.98,0.98,2025-09-10T09:23:21.994029,Worker-5,0
+openai/gpt-5-chat,We Doubt,1,0.2,0.2,2025-09-10T09:23:22.004118,Worker-13,0
+openai/gpt-5-chat,We Doubt,2,0.2,0.2,2025-09-10T09:23:22.145986,Worker-3,0
+openai/gpt-5-chat,Unlikely,1,0.2,0.2,2025-09-10T09:23:22.258575,Worker-10,0
+openai/gpt-5-chat,Unlikely,3,0.2,0.2,2025-09-10T09:23:22.363062,Worker-11,0
+openai/gpt-5-chat,Probably,2,0.75,0.75,2025-09-10T09:23:22.376464,Worker-19,0
+openai/gpt-5-chat,We Doubt,3,0.2,0.2,2025-09-10T09:23:22.488530,Worker-7,0
+openai/gpt-5-mini,Almost No Chance,1,0.01,0.01,2025-09-10T09:23:22.524132,Worker-17,0
+openai/gpt-5-mini,Almost No Chance,3,0.02,0.02,2025-09-10T09:23:22.616797,Worker-16,0
+openai/gpt-5-mini,Almost No Chance,2,0.02,0.02,2025-09-10T09:23:22.754135,Worker-6,0
+openai/gpt-5-chat,Improbable,3,0.2,0.2,2025-09-10T09:23:22.765338,Worker-5,0
+openai/gpt-5-chat,Probably Not,3,0.2,0.2,2025-09-10T09:23:22.806940,Worker-1,0
+openai/gpt-5-chat,Improbable,2,0.2,0.2,2025-09-10T09:23:22.929140,Worker-2,0
+openai/gpt-5-mini,Highly Unlikely,3,0.05,0.05,2025-09-10T09:23:23.091221,Worker-18,0
+openai/gpt-5-chat,Chances are Slight,1,0.2,0.2,2025-09-10T09:23:23.100034,Worker-13,0
+openai/gpt-5-chat,Chances are Slight,3,0.2,0.2,2025-09-10T09:23:23.118490,Worker-10,0
+openai/gpt-5-chat,Chances are Slight,2,0.2,0.2,2025-09-10T09:23:23.131795,Worker-3,0
+openai/gpt-5-mini,Highly Unlikely,2,0.05,0.05,2025-09-10T09:23:23.198344,Worker-8,0
+openai/gpt-5-chat,Highly Unlikely,1,0.1,0.1,2025-09-10T09:23:23.332860,Worker-17,0
+openai/gpt-5-mini,Highly Unlikely,1,0.05,0.05,2025-09-10T09:23:23.342719,Worker-15,0
+openai/gpt-5-chat,Highly Unlikely,2,0.1,0.1,2025-09-10T09:23:23.428425,Worker-16,0
+openai/gpt-5-chat,Little Chance,1,0.1,0.1,2025-09-10T09:23:23.435129,Worker-11,0
+openai/gpt-5-chat,Almost No Chance,1,0.05,0.05,2025-09-10T09:23:23.587068,Worker-5,0
+openai/gpt-5-mini,Likely,2,0.8,0.8,2025-09-10T09:23:23.613900,Worker-14,0
+openai/gpt-5-chat,Little Chance,3,0.1,0.1,2025-09-10T09:23:23.618178,Worker-7,0
+openai/gpt-5-chat,Little Chance,2,0.1,0.1,2025-09-10T09:23:23.627845,Worker-19,0
+openai/gpt-5-chat,Highly Unlikely,3,0.1,0.1,2025-09-10T09:23:23.639257,Worker-6,0
+openai/gpt-5-chat,Almost No Chance,3,0.05,0.05,2025-09-10T09:23:23.640411,Worker-2,0
+openai/gpt-5-chat,Almost No Chance,2,0.05,0.05,2025-09-10T09:23:23.783415,Worker-1,0
+openai/gpt-5-chat,Improbable,1,0.2,0.2,2025-09-10T09:23:23.863933,Worker-9,0
+deepseek/deepseek-chat-v3.1,Highly Likely,1,0.85,0.85,2025-09-10T09:23:24.034931,Worker-3,0
+deepseek/deepseek-chat-v3.1,Almost Certain,3,0.9,0.9,2025-09-10T09:23:24.153862,Worker-10,0
+deepseek/deepseek-chat-v3.1,Almost Certain,2,0.9,0.9,2025-09-10T09:23:24.272724,Worker-13,0
+openai/gpt-5-chat,Unlikely,2,0.2,0.2,2025-09-10T09:23:24.337533,Worker-20,0
+deepseek/deepseek-chat-v3.1,Very Good Chance,3,0.8,0.8,2025-09-10T09:23:24.448043,Worker-11,0
+deepseek/deepseek-chat-v3.1,Very Good Chance,1,0.8,0.8,2025-09-10T09:23:24.474682,Worker-15,0
+deepseek/deepseek-chat-v3.1,Highly Likely,3,0.9,0.9,2025-09-10T09:23:24.624048,Worker-17,0
+openai/gpt-5-chat,About Even,3,0.5,0.5,2025-09-10T09:23:24.664335,Worker-4,0
+deepseek/deepseek-chat-v3.1,Likely,2,0.7,0.7,2025-09-10T09:23:25.014172,Worker-6,0
+deepseek/deepseek-chat-v3.1,Probable,2,0.75,0.75,2025-09-10T09:23:25.015971,Worker-9,0
+deepseek/deepseek-chat-v3.1,Likely,3,0.7,0.7,2025-09-10T09:23:25.049612,Worker-2,0
+deepseek/deepseek-chat-v3.1,Better than Even,1,0.6,0.6,2025-09-10T09:23:25.434206,Worker-11,0
+deepseek/deepseek-chat-v3.1,Probable,1,0.7,0.7,2025-09-10T09:23:25.475110,Worker-1,0
+deepseek/deepseek-chat-v3.1,Better than Even,3,0.6,0.6,2025-09-10T09:23:25.709127,Worker-17,0
+deepseek/deepseek-chat-v3.1,Probably,1,0.7,0.7,2025-09-10T09:23:25.743715,Worker-10,0
+deepseek/deepseek-chat-v3.1,Almost Certain,1,0.9,0.9,2025-09-10T09:23:25.829231,Worker-18,0
+deepseek/deepseek-chat-v3.1,Very Good Chance,2,0.8,0.8,2025-09-10T09:23:26.168048,Worker-16,0
+deepseek/deepseek-chat-v3.1,Probably Not,1,0.25,0.25,2025-09-10T09:23:26.223386,Worker-2,0
+deepseek/deepseek-chat-v3.1,Probably Not,3,0.4,0.4,2025-09-10T09:23:26.329260,Worker-1,0
+deepseek/deepseek-chat-v3.1,We Doubt,2,0.2,0.2,2025-09-10T09:23:26.422316,Worker-10,0
+deepseek/deepseek-chat-v3.1,About Even,2,0.5,0.5,2025-09-10T09:23:26.519173,Worker-6,0
+deepseek/deepseek-chat-v3.1,We Believe,2,0.8,0.8,2025-09-10T09:23:26.538419,Worker-14,0
+deepseek/deepseek-chat-v3.1,We Believe,3,0.9,0.9,2025-09-10T09:23:26.546630,Worker-7,0
+deepseek/deepseek-chat-v3.1,Probably Not,2,0.2,0.2,2025-09-10T09:23:26.760900,Worker-11,0
+deepseek/deepseek-chat-v3.1,We Doubt,3,0.4,0.4,2025-09-10T09:23:26.790937,Worker-18,0
+deepseek/deepseek-chat-v3.1,Probable,3,0.75,0.75,2025-09-10T09:23:27.004440,Worker-3,0
+deepseek/deepseek-chat-v3.1,Improbable,1,0.15,0.15,2025-09-10T09:23:27.163495,Worker-10,0
+deepseek/deepseek-chat-v3.1,Probably,3,0.7,0.7,2025-09-10T09:23:27.189732,Worker-20,0
+deepseek/deepseek-chat-v3.1,About Even,1,0.5,0.5,2025-09-10T09:23:27.192823,Worker-4,0
+deepseek/deepseek-chat-v3.1,Unlikely,2,0.3,0.3,2025-09-10T09:23:27.480224,Worker-2,0
+deepseek/deepseek-chat-v3.1,Chances are Slight,3,0.2,0.2,2025-09-10T09:23:27.642911,Worker-18,0
+deepseek/deepseek-chat-v3.1,Chances are Slight,1,0.2,0.2,2025-09-10T09:23:27.728432,Worker-7,0
+deepseek/deepseek-chat-v3.1,Highly Likely,2,0.85,0.85,2025-09-10T09:23:27.861825,Worker-8,0
+deepseek/deepseek-chat-v3.1,Probably,2,0.7,0.7,2025-09-10T09:23:27.979066,Worker-13,0
+deepseek/deepseek-chat-v3.1,Better than Even,2,0.6,0.6,2025-09-10T09:23:28.011656,Worker-15,0
+deepseek/deepseek-chat-v3.1,Likely,1,0.7,0.7,2025-09-10T09:23:28.049731,Worker-19,0
+deepseek/deepseek-chat-v3.1,We Believe,1,0.8,0.8,2025-09-10T09:23:28.085438,Worker-5,0
+deepseek/deepseek-chat-v3.1,Highly Unlikely,1,0.1,0.1,2025-09-10T09:23:28.304557,Worker-4,0
+deepseek/deepseek-chat-v3.1,Little Chance,3,0.1,0.1,2025-09-10T09:23:28.395469,Worker-20,0
+deepseek/deepseek-chat-v3.1,Highly Unlikely,2,0.1,0.1,2025-09-10T09:23:28.487900,Worker-2,0
+deepseek/deepseek-chat-v3.1,Little Chance,2,0.2,0.2,2025-09-10T09:23:28.609729,Worker-10,0
+deepseek/deepseek-chat-v3.1,Improbable,2,0.2,0.2,2025-09-10T09:23:28.795069,Worker-6,0
+deepseek/deepseek-chat-v3.1,Unlikely,1,0.25,0.25,2025-09-10T09:23:28.920383,Worker-16,0
+deepseek/deepseek-chat-v3.1,We Doubt,1,0.2,0.2,2025-09-10T09:23:28.930199,Worker-17,0
+moonshotai/kimi-k2-0905,Almost Certain,1,0.95,0.95,2025-09-10T09:23:28.936490,Worker-15,0
+openai/gpt-5-mini,We Doubt,2,0.2,0.2,2025-09-10T09:23:29.123979,Worker-12,0
+moonshotai/kimi-k2-0905,Highly Likely,3,0.85,0.85,2025-09-10T09:23:29.288975,Worker-2,0
+moonshotai/kimi-k2-0905,Highly Likely,2,0.85,0.85,2025-09-10T09:23:29.392228,Worker-20,0
+moonshotai/kimi-k2-0905,Almost Certain,2,0.95,0.95,2025-09-10T09:23:29.545589,Worker-19,0
+deepseek/deepseek-chat-v3.1,Chances are Slight,2,0.15,0.15,2025-09-10T09:23:29.591389,Worker-11,0
+deepseek/deepseek-chat-v3.1,Unlikely,3,0.3,0.3,2025-09-10T09:23:29.617688,Worker-1,0
+moonshotai/kimi-k2-0905,We Believe,2,0.6,0.6,2025-09-10T09:23:29.754116,Worker-15,0
+deepseek/deepseek-chat-v3.1,Highly Unlikely,3,0.1,0.1,2025-09-10T09:23:29.875280,Worker-18,0
+moonshotai/kimi-k2-0905,Very Good Chance,2,0.88,0.88,2025-09-10T09:23:29.951742,Worker-6,0
+moonshotai/kimi-k2-0905,Probable,2,0.7,0.7,2025-09-10T09:23:30.215836,Worker-1,0
+moonshotai/kimi-k2-0905,Highly Likely,1,0.85,0.85,2025-09-10T09:23:30.303447,Worker-4,0
+moonshotai/kimi-k2-0905,We Believe,1,0.75,0.75,2025-09-10T09:23:30.442219,Worker-17,0
+moonshotai/kimi-k2-0905,Almost Certain,3,0.95,0.95,2025-09-10T09:23:30.495642,Worker-5,0
+moonshotai/kimi-k2-0905,Very Good Chance,3,0.85,0.85,2025-09-10T09:23:30.806108,Worker-16,0
+deepseek/deepseek-chat-v3.1,Almost No Chance,3,0.05,0.05,2025-09-10T09:23:30.913080,Worker-13,0
+moonshotai/kimi-k2-0905,Very Good Chance,1,0.85,0.85,2025-09-10T09:23:30.978075,Worker-10,0
+moonshotai/kimi-k2-0905,Likely,3,0.7,0.7,2025-09-10T09:23:31.158542,Worker-19,0
+moonshotai/kimi-k2-0905,Probably,2,0.7,0.7,2025-09-10T09:23:31.160822,Worker-6,0
+moonshotai/kimi-k2-0905,Likely,1,0.7,0.7,2025-09-10T09:23:31.324656,Worker-2,0
+moonshotai/kimi-k2-0905,Probably,1,0.7,0.7,2025-09-10T09:23:31.476006,Worker-18,0
+moonshotai/kimi-k2-0905,Probable,1,0.7,0.7,2025-09-10T09:23:31.513112,Worker-11,0
+moonshotai/kimi-k2-0905,We Believe,3,0.7,0.7,2025-09-10T09:23:31.542582,Worker-12,0
+moonshotai/kimi-k2-0905,About Even,1,0.5,0.5,2025-09-10T09:23:31.617289,Worker-16,0
+deepseek/deepseek-chat-v3.1,Almost No Chance,1,0.05,0.05,2025-09-10T09:23:31.643973,Worker-7,0
+moonshotai/kimi-k2-0905,Better than Even,2,0.6,0.6,2025-09-10T09:23:31.674829,Worker-17,0
+moonshotai/kimi-k2-0905,Better than Even,3,0.65,0.65,2025-09-10T09:23:32.041569,Worker-5,0
+moonshotai/kimi-k2-0905,Probably Not,1,0.25,0.25,2025-09-10T09:23:32.074963,Worker-19,0
+moonshotai/kimi-k2-0905,Probably,3,0.7,0.7,2025-09-10T09:23:32.267795,Worker-1,0
+moonshotai/kimi-k2-0905,We Doubt,2,0.3,0.3,2025-09-10T09:23:32.307130,Worker-11,0
+moonshotai/kimi-k2-0905,We Doubt,3,0.25,0.25,2025-09-10T09:23:32.308496,Worker-12,0
+moonshotai/kimi-k2-0905,We Doubt,1,0.3,0.3,2025-09-10T09:23:32.545921,Worker-18,0
+moonshotai/kimi-k2-0905,About Even,3,0.5,0.5,2025-09-10T09:23:32.624807,Worker-10,0
+moonshotai/kimi-k2-0905,Unlikely,3,0.2,0.2,2025-09-10T09:23:32.636984,Worker-17,0
+deepseek/deepseek-chat-v3.1,Almost No Chance,2,0.05,0.05,2025-09-10T09:23:32.651985,Worker-8,0
+moonshotai/kimi-k2-0905,Improbable,1,0.25,0.25,2025-09-10T09:23:32.655624,Worker-5,0
+moonshotai/kimi-k2-0905,Chances are Slight,2,0.15,0.15,2025-09-10T09:23:33.027871,Worker-12,0
+moonshotai/kimi-k2-0905,Improbable,3,0.2,0.2,2025-09-10T09:23:33.096222,Worker-1,0
+moonshotai/kimi-k2-0905,Chances are Slight,3,0.2,0.2,2025-09-10T09:23:33.154285,Worker-18,0
+moonshotai/kimi-k2-0905,Chances are Slight,1,0.15,0.15,2025-09-10T09:23:33.171348,Worker-11,0
+moonshotai/kimi-k2-0905,Unlikely,2,0.25,0.25,2025-09-10T09:23:33.427780,Worker-7,0
+moonshotai/kimi-k2-0905,Little Chance,1,0.15,0.15,2025-09-10T09:23:33.614620,Worker-10,0
+moonshotai/kimi-k2-0905,Highly Unlikely,2,0.1,0.1,2025-09-10T09:23:33.705577,Worker-12,0
+moonshotai/kimi-k2-0905,Little Chance,2,0.15,0.15,2025-09-10T09:23:34.030133,Worker-17,0
+moonshotai/kimi-k2-0905,Improbable,2,0.2,0.2,2025-09-10T09:23:34.044859,Worker-19,0
+moonshotai/kimi-k2-0905,About Even,2,0.5,0.5,2025-09-10T09:23:34.048488,Worker-13,0
+moonshotai/kimi-k2-0905,Almost No Chance,3,0.05,0.05,2025-09-10T09:23:34.137020,Worker-7,0
+moonshotai/kimi-k2-0905,Highly Unlikely,1,0.1,0.1,2025-09-10T09:23:34.362328,Worker-5,0
+moonshotai/kimi-k2-0905,Little Chance,3,0.15,0.15,2025-09-10T09:23:34.505913,Worker-8,0
+moonshotai/kimi-k2-0905,Probably Not,3,0.25,0.25,2025-09-10T09:23:34.515414,Worker-2,0
+moonshotai/kimi-k2-0905,Almost No Chance,2,0.01,0.01,2025-09-10T09:23:34.613386,Worker-11,0
+moonshotai/kimi-k2-0905,Unlikely,1,0.25,0.25,2025-09-10T09:23:34.759206,Worker-16,0
+moonshotai/kimi-k2-0905,Almost No Chance,1,0.01,0.01,2025-09-10T09:23:34.838253,Worker-18,0
+moonshotai/kimi-k2-0905,Better than Even,1,0.6,0.6,2025-09-10T09:23:34.998705,Worker-4,0
+moonshotai/kimi-k2-0905,Probable,3,0.7,0.7,2025-09-10T09:23:35.002038,Worker-15,0
+moonshotai/kimi-k2-0905,Highly Unlikely,3,0.15,0.15,2025-09-10T09:23:35.086638,Worker-1,0
+moonshotai/kimi-k2-0905,Likely,2,0.7,0.7,2025-09-10T09:23:35.230752,Worker-20,0
+moonshotai/kimi-k2-0905,Probably Not,2,0.3,0.3,2025-09-10T09:23:35.392953,Worker-6,0
+openrouter/sonoma-sky-alpha,Almost Certain,1,0.99,0.99,2025-09-10T09:23:35.611634,Worker-10,0
+openrouter/sonoma-sky-alpha,Almost Certain,3,0.95,0.95,2025-09-10T09:23:36.162320,Worker-17,0
+openrouter/sonoma-sky-alpha,Highly Likely,2,0.9,0.9,2025-09-10T09:23:36.177631,Worker-13,0
+openrouter/sonoma-sky-alpha,Highly Likely,1,0.9,0.9,2025-09-10T09:23:36.201880,Worker-19,0
+openrouter/sonoma-sky-alpha,Highly Likely,3,0.9,0.9,2025-09-10T09:23:36.234668,Worker-7,0
+openrouter/sonoma-sky-alpha,Almost Certain,2,0.95,0.95,2025-09-10T09:23:36.239258,Worker-12,0
+openrouter/sonoma-sky-alpha,We Believe,1,ERROR (ChunkedEncodingError): Response ended prematurely,,2025-09-10T09:23:36.484659,Worker-11,0
+openrouter/sonoma-sky-alpha,Likely,3,0.7,0.7,2025-09-10T09:23:36.888036,Worker-1,0
+openrouter/sonoma-sky-alpha,Very Good Chance,2,0.8,0.8,2025-09-10T09:23:37.064861,Worker-8,0
+openrouter/sonoma-sky-alpha,Very Good Chance,1,0.85,0.85,2025-09-10T09:23:37.118976,Worker-5,0
+openrouter/sonoma-sky-alpha,Very Good Chance,3,0.85,0.85,2025-09-10T09:23:37.263327,Worker-2,0
+openrouter/sonoma-sky-alpha,We Believe,3,0.75,0.75,2025-09-10T09:23:37.295487,Worker-18,0
+openrouter/sonoma-sky-alpha,Probable,1,0.75,0.75,2025-09-10T09:23:37.302414,Worker-20,0
+openrouter/sonoma-sky-alpha,Likely,1,0.7,0.7,2025-09-10T09:23:37.314348,Worker-4,0
+openrouter/sonoma-sky-alpha,We Believe,2,0.8,0.8,2025-09-10T09:23:37.341704,Worker-16,0
+openrouter/sonoma-sky-alpha,Likely,2,0.7,0.7,2025-09-10T09:23:37.479189,Worker-15,0
+openrouter/sonoma-sky-alpha,Probable,2,0.7,0.7,2025-09-10T09:23:37.825824,Worker-6,0
+openrouter/sonoma-sky-alpha,Probable,3,0.7,0.7,2025-09-10T09:23:37.844854,Worker-10,0
+deepseek/deepseek-chat-v3.1,Improbable,3,0.2,0.2,2025-09-10T09:23:38.073053,Worker-14,0
+openrouter/sonoma-sky-alpha,Probably,2,0.75,0.75,2025-09-10T09:23:38.160971,Worker-13,0
+openrouter/sonoma-sky-alpha,Probably,1,0.75,0.75,2025-09-10T09:23:38.264292,Worker-17,0
+openrouter/sonoma-sky-alpha,Probably,3,0.75,0.75,2025-09-10T09:23:38.367293,Worker-19,0
+openrouter/sonoma-sky-alpha,Better than Even,3,0.6,0.6,2025-09-10T09:23:38.657371,Worker-11,0
+openrouter/sonoma-sky-alpha,About Even,2,0.5,0.5,2025-09-10T09:23:38.790636,Worker-8,0
+openrouter/sonoma-sky-alpha,Better than Even,1,0.6,0.6,2025-09-10T09:23:38.845690,Worker-7,0
+openrouter/sonoma-sky-alpha,About Even,3,0.5,0.5,2025-09-10T09:23:38.958804,Worker-5,0
+openrouter/sonoma-sky-alpha,About Even,1,0.5,0.5,2025-09-10T09:23:39.012348,Worker-1,0
+openrouter/sonoma-sky-alpha,Better than Even,2,0.6,0.6,2025-09-10T09:23:39.176586,Worker-12,0
+openrouter/sonoma-sky-alpha,Probably Not,1,0.3,0.3,2025-09-10T09:23:39.275069,Worker-2,0
+deepseek/deepseek-chat-v3.1,About Even,3,0.5,0.5,2025-09-10T09:23:39.360776,Worker-9,0
+openrouter/sonoma-sky-alpha,We Doubt,1,0.2,0.2,2025-09-10T09:23:39.563368,Worker-4,0
+openrouter/sonoma-sky-alpha,We Doubt,3,0.25,0.25,2025-09-10T09:23:39.744282,Worker-15,0
+deepseek/deepseek-chat-v3.1,Little Chance,1,0.2,0.2,2025-09-10T09:23:40.106520,Worker-3,0
+openrouter/sonoma-sky-alpha,We Doubt,2,0.3,0.3,2025-09-10T09:23:40.170723,Worker-16,0
+openrouter/sonoma-sky-alpha,Unlikely,2,0.2,0.2,2025-09-10T09:23:40.298132,Worker-10,0
+openrouter/sonoma-sky-alpha,Probably Not,3,0.3,0.3,2025-09-10T09:23:40.391136,Worker-20,0
+openrouter/sonoma-sky-alpha,Unlikely,3,0.25,0.25,2025-09-10T09:23:40.512109,Worker-14,0
+openrouter/sonoma-sky-alpha,Improbable,1,0.2,0.2,2025-09-10T09:23:40.530510,Worker-13,0
+openrouter/sonoma-sky-alpha,Improbable,3,0.2,0.2,2025-09-10T09:23:40.694565,Worker-19,0
+openrouter/sonoma-sky-alpha,Little Chance,2,0.2,0.2,2025-09-10T09:23:40.948786,Worker-1,0
+openrouter/sonoma-sky-alpha,Unlikely,1,0.3,0.3,2025-09-10T09:23:40.993918,Worker-6,0
+openrouter/sonoma-sky-alpha,Improbable,2,0.2,0.2,2025-09-10T09:23:41.009032,Worker-17,0
+openrouter/sonoma-sky-alpha,Little Chance,1,0.1,0.1,2025-09-10T09:23:41.048562,Worker-5,0
+openrouter/sonoma-sky-alpha,Chances are Slight,2,0.2,0.2,2025-09-10T09:23:41.080451,Worker-8,0
+openrouter/sonoma-dusk-alpha,Almost Certain,2,0.95,0.95,2025-09-10T09:23:41.120532,Worker-20,0
+openrouter/sonoma-dusk-alpha,Almost Certain,1,0.95,0.95,2025-09-10T09:23:41.121830,Worker-10,0
+openrouter/sonoma-sky-alpha,Chances are Slight,1,0.1,0.1,2025-09-10T09:23:41.141279,Worker-11,0
+openrouter/sonoma-sky-alpha,Highly Unlikely,1,0.05,0.05,2025-09-10T09:23:41.247660,Worker-2,0
+openrouter/sonoma-sky-alpha,Highly Unlikely,2,0.05,0.05,2025-09-10T09:23:41.314924,Worker-9,0
+openrouter/sonoma-dusk-alpha,Almost Certain,3,0.95,0.95,2025-09-10T09:23:41.372384,Worker-14,0
+openrouter/sonoma-dusk-alpha,Highly Likely,2,0.9,0.9,2025-09-10T09:23:41.386309,Worker-19,0
+openrouter/sonoma-dusk-alpha,Highly Likely,1,0.9,0.9,2025-09-10T09:23:41.450603,Worker-13,0
+openrouter/sonoma-sky-alpha,Highly Unlikely,3,0.05,0.05,2025-09-10T09:23:41.479633,Worker-4,0
+openrouter/sonoma-sky-alpha,Chances are Slight,3,0.2,0.2,2025-09-10T09:23:41.559719,Worker-7,0
+openrouter/sonoma-dusk-alpha,Highly Likely,3,0.9,0.9,2025-09-10T09:23:41.564562,Worker-1,0
+openrouter/sonoma-dusk-alpha,Likely,2,0.7,0.7,2025-09-10T09:23:41.953258,Worker-2,0
+openrouter/sonoma-dusk-alpha,Very Good Chance,1,0.75,0.75,2025-09-10T09:23:41.958919,Worker-6,0
+openrouter/sonoma-dusk-alpha,Very Good Chance,2,0.8,0.8,2025-09-10T09:23:41.962091,Worker-17,0
+openrouter/sonoma-dusk-alpha,Likely,1,0.7,0.7,2025-09-10T09:23:41.975628,Worker-11,0
+openrouter/sonoma-dusk-alpha,Likely,3,0.7,0.7,2025-09-10T09:23:41.982496,Worker-9,0
+openrouter/sonoma-sky-alpha,Almost No Chance,3,0.05,0.05,2025-09-10T09:23:41.994522,Worker-16,0
+openrouter/sonoma-dusk-alpha,We Believe,2,0.7,0.7,2025-09-10T09:23:42.002167,Worker-20,0
+openrouter/sonoma-dusk-alpha,We Believe,3,0.6,0.6,2025-09-10T09:23:42.006021,Worker-10,0
+openrouter/sonoma-dusk-alpha,Probable,1,0.75,0.75,2025-09-10T09:23:42.010981,Worker-14,0
+openrouter/sonoma-dusk-alpha,Very Good Chance,3,0.75,0.75,2025-09-10T09:23:42.049346,Worker-5,0
+openrouter/sonoma-dusk-alpha,We Believe,1,0.6,0.6,2025-09-10T09:23:42.062716,Worker-8,0
+openrouter/sonoma-dusk-alpha,Probable,2,0.75,0.75,2025-09-10T09:23:42.124134,Worker-19,0
+openrouter/sonoma-dusk-alpha,Probable,3,0.75,0.75,2025-09-10T09:23:42.269934,Worker-13,0
+openrouter/sonoma-dusk-alpha,Probably,1,0.75,0.75,2025-09-10T09:23:42.283041,Worker-4,0
+openrouter/sonoma-dusk-alpha,Probably,2,0.7,0.7,2025-09-10T09:23:42.301103,Worker-7,0
+openrouter/sonoma-sky-alpha,Almost No Chance,2,0.01,0.01,2025-09-10T09:23:42.307641,Worker-3,0
+openrouter/sonoma-dusk-alpha,About Even,3,0.5,0.5,2025-09-10T09:23:42.740088,Worker-16,0
+openrouter/sonoma-dusk-alpha,Better than Even,2,0.6,0.6,2025-09-10T09:23:42.766127,Worker-6,0
+openrouter/sonoma-dusk-alpha,Better than Even,3,0.6,0.6,2025-09-10T09:23:42.768560,Worker-17,0
+openrouter/sonoma-dusk-alpha,Better than Even,1,0.6,0.6,2025-09-10T09:23:42.770456,Worker-2,0
+openrouter/sonoma-sky-alpha,Almost No Chance,1,0.01,0.01,2025-09-10T09:23:42.804354,Worker-15,0
+openrouter/sonoma-dusk-alpha,Probably,3,0.75,0.75,2025-09-10T09:23:42.832810,Worker-1,0
+openrouter/sonoma-dusk-alpha,Probably Not,1,0.3,0.3,2025-09-10T09:23:42.861806,Worker-20,0
+openrouter/sonoma-dusk-alpha,Probably Not,3,0.3,0.3,2025-09-10T09:23:42.937967,Worker-14,0
+openrouter/sonoma-dusk-alpha,Unlikely,1,0.25,0.25,2025-09-10T09:23:42.966814,Worker-13,0
+openrouter/sonoma-dusk-alpha,Probably Not,2,0.3,0.3,2025-09-10T09:23:42.978224,Worker-10,0
+openrouter/sonoma-dusk-alpha,We Doubt,1,0.2,0.2,2025-09-10T09:23:43.040513,Worker-5,0
+openrouter/sonoma-dusk-alpha,We Doubt,3,0.25,0.25,2025-09-10T09:23:43.041655,Worker-19,0
+openrouter/sonoma-dusk-alpha,About Even,1,0.5,0.5,2025-09-10T09:23:43.075909,Worker-11,0
+openrouter/sonoma-dusk-alpha,Unlikely,2,0.25,0.25,2025-09-10T09:23:43.089008,Worker-4,0
+openrouter/sonoma-dusk-alpha,Unlikely,3,0.25,0.25,2025-09-10T09:23:43.098774,Worker-7,0
+openrouter/sonoma-dusk-alpha,About Even,2,0.5,0.5,2025-09-10T09:23:43.193734,Worker-9,0
+openrouter/sonoma-dusk-alpha,We Doubt,2,0.3,0.3,2025-09-10T09:23:43.270084,Worker-8,0
+openrouter/sonoma-sky-alpha,Little Chance,3,0.1,0.1,2025-09-10T09:23:43.337362,Worker-12,0
+openrouter/sonoma-dusk-alpha,Improbable,3,0.2,0.2,2025-09-10T09:23:43.383755,Worker-6,0
+openrouter/sonoma-dusk-alpha,Chances are Slight,3,0.15,0.15,2025-09-10T09:23:43.529523,Worker-15,0
+openrouter/sonoma-dusk-alpha,Little Chance,3,0.2,0.2,2025-09-10T09:23:43.532194,Worker-14,0
+openrouter/sonoma-dusk-alpha,Improbable,2,0.2,0.2,2025-09-10T09:23:43.535836,Worker-16,0
+openrouter/sonoma-dusk-alpha,Chances are Slight,1,0.15,0.15,2025-09-10T09:23:43.538611,Worker-17,0
+openrouter/sonoma-dusk-alpha,Chances are Slight,2,0.1,0.1,2025-09-10T09:23:43.547948,Worker-2,0
+openrouter/sonoma-dusk-alpha,Little Chance,2,0.15,0.15,2025-09-10T09:23:43.565645,Worker-20,0
+openrouter/sonoma-dusk-alpha,Little Chance,1,0.15,0.15,2025-09-10T09:23:43.744822,Worker-1,0
+openrouter/sonoma-dusk-alpha,Almost No Chance,3,0.05,0.05,2025-09-10T09:23:43.758953,Worker-4,0
+openrouter/sonoma-dusk-alpha,Almost No Chance,2,0.05,0.05,2025-09-10T09:23:43.762573,Worker-11,0
+openrouter/sonoma-dusk-alpha,Highly Unlikely,2,0.05,0.05,2025-09-10T09:23:43.775902,Worker-10,0
+mistralai/mistral-medium-3,Almost Certain,1,0.95,0.95,2025-09-10T09:23:43.787295,Worker-7,0
+openrouter/sonoma-dusk-alpha,Highly Unlikely,1,0.05,0.05,2025-09-10T09:23:43.821649,Worker-13,0
+openrouter/sonoma-dusk-alpha,Highly Unlikely,3,0.05,0.05,2025-09-10T09:23:43.861915,Worker-5,0
+mistralai/mistral-medium-3,Almost Certain,3,0.95,0.95,2025-09-10T09:23:43.940571,Worker-8,0
+mistralai/mistral-medium-3,Almost Certain,2,0.95,0.95,2025-09-10T09:23:43.968901,Worker-9,0
+openrouter/sonoma-dusk-alpha,Almost No Chance,1,0.05,0.05,2025-09-10T09:23:43.988332,Worker-19,0
+openrouter/sonoma-dusk-alpha,Improbable,1,0.2,0.2,2025-09-10T09:23:44.009792,Worker-3,0
+openrouter/sonoma-sky-alpha,Probably Not,2,0.3,0.3,2025-09-10T09:23:44.014972,Worker-18,0
+mistralai/mistral-medium-3,Highly Likely,2,0.9,0.9,2025-09-10T09:23:44.205453,Worker-6,0
+mistralai/mistral-medium-3,Highly Likely,1,0.9,0.9,2025-09-10T09:23:44.246067,Worker-12,0
+mistralai/mistral-medium-3,Likely,1,0.7,0.7,2025-09-10T09:23:44.356831,Worker-4,0
+mistralai/mistral-medium-3,We Believe,3,0.75,0.75,2025-09-10T09:23:44.389201,Worker-1,0
+mistralai/mistral-medium-3,Highly Likely,3,0.9,0.9,2025-09-10T09:23:44.392019,Worker-15,0
+mistralai/mistral-medium-3,Very Good Chance,3,0.85,0.85,2025-09-10T09:23:44.401022,Worker-17,0
+mistralai/mistral-medium-3,We Believe,2,0.85,0.85,2025-09-10T09:23:44.433154,Worker-20,0
+mistralai/mistral-medium-3,We Believe,1,0.75,0.75,2025-09-10T09:23:44.450032,Worker-2,0
+mistralai/mistral-medium-3,Probable,3,0.75,0.75,2025-09-10T09:23:44.492376,Worker-5,0
+mistralai/mistral-medium-3,Likely,3,0.75,0.75,2025-09-10T09:23:44.494486,Worker-10,0
+mistralai/mistral-medium-3,Very Good Chance,1,0.85,0.85,2025-09-10T09:23:44.532054,Worker-14,0
+mistralai/mistral-medium-3,Better than Even,2,0.6,0.6,2025-09-10T09:23:44.573119,Worker-18,0
+mistralai/mistral-medium-3,Probably,2,0.75,0.75,2025-09-10T09:23:44.599834,Worker-9,0
+mistralai/mistral-medium-3,Likely,2,0.75,0.75,2025-09-10T09:23:44.653140,Worker-11,0
+mistralai/mistral-medium-3,Probable,2,0.75,0.75,2025-09-10T09:23:44.655322,Worker-13,0
+mistralai/mistral-medium-3,Very Good Chance,2,0.85,0.85,2025-09-10T09:23:44.701267,Worker-16,0
+mistralai/mistral-medium-3,Better than Even,1,0.6,0.6,2025-09-10T09:23:44.775095,Worker-3,0
+mistralai/mistral-medium-3,Probably,3,0.7,0.7,2025-09-10T09:23:44.796436,Worker-19,0
+mistralai/mistral-medium-3,Probable,1,0.75,0.75,2025-09-10T09:23:44.907935,Worker-7,0
+mistralai/mistral-medium-3,About Even,2,0.5,0.5,2025-09-10T09:23:44.956185,Worker-4,0
+mistralai/mistral-medium-3,About Even,1,0.5,0.5,2025-09-10T09:23:44.984138,Worker-12,0
+mistralai/mistral-medium-3,Better than Even,3,0.6,0.6,2025-09-10T09:23:45.021616,Worker-6,0
+mistralai/mistral-medium-3,Unlikely,3,0.2,0.2,2025-09-10T09:23:45.196925,Worker-9,0
+mistralai/mistral-medium-3,We Doubt,1,0.25,0.25,2025-09-10T09:23:45.206052,Worker-2,0
+mistralai/mistral-medium-3,Probably Not,1,0.25,0.25,2025-09-10T09:23:45.209858,Worker-15,0
+mistralai/mistral-medium-3,Probably,1,0.75,0.75,2025-09-10T09:23:45.212794,Worker-8,0
+mistralai/mistral-medium-3,Unlikely,1,0.2,0.2,2025-09-10T09:23:45.247672,Worker-14,0
+mistralai/mistral-medium-3,About Even,3,0.5,0.5,2025-09-10T09:23:45.258046,Worker-1,0
+mistralai/mistral-medium-3,Probably Not,3,0.25,0.25,2025-09-10T09:23:45.288726,Worker-20,0
+mistralai/mistral-medium-3,Improbable,2,0.1,0.1,2025-09-10T09:23:45.311283,Worker-13,0
+mistralai/mistral-medium-3,Chances are Slight,2,0.2,0.2,2025-09-10T09:23:45.409859,Worker-19,0
+mistralai/mistral-medium-3,Improbable,3,0.1,0.1,2025-09-10T09:23:45.459723,Worker-16,0
+mistralai/mistral-medium-3,Probably Not,2,0.25,0.25,2025-09-10T09:23:45.617821,Worker-17,0
+mistralai/mistral-medium-3,We Doubt,3,0.3,0.3,2025-09-10T09:23:45.633893,Worker-10,0
+mistralai/mistral-medium-3,Little Chance,3,0.2,0.2,2025-09-10T09:23:45.650715,Worker-6,0
+mistralai/mistral-medium-3,Chances are Slight,1,0.2,0.2,2025-09-10T09:23:45.682080,Worker-3,0
+mistralai/mistral-medium-3,Little Chance,2,0.2,0.2,2025-09-10T09:23:45.717459,Worker-12,0
+mistralai/mistral-medium-3,Improbable,1,0.1,0.1,2025-09-10T09:23:45.770223,Worker-11,0
+mistralai/mistral-medium-3,We Doubt,2,0.2,0.2,2025-09-10T09:23:45.825774,Worker-5,0
+mistralai/mistral-medium-3,Highly Unlikely,2,0.1,0.1,2025-09-10T09:23:45.913481,Worker-2,0
+mistralai/mistral-medium-3,Chances are Slight,3,0.2,0.2,2025-09-10T09:23:45.952641,Worker-7,0
+mistralai/mistral-medium-3,Almost No Chance,3,0.05,0.05,2025-09-10T09:23:45.973164,Worker-1,0
+mistralai/mistral-medium-3,Almost No Chance,1,0.01,0.01,2025-09-10T09:23:46.023613,Worker-8,0
+mistralai/mistral-medium-3,Highly Unlikely,1,0.1,0.1,2025-09-10T09:23:46.024849,Worker-9,0
+mistralai/mistral-medium-3,Little Chance,1,0.1,0.1,2025-09-10T09:23:46.044733,Worker-4,0
+mistralai/mistral-medium-3,Almost No Chance,2,0.05,0.05,2025-09-10T09:23:46.136361,Worker-14,0
+mistralai/mistral-medium-3,Unlikely,2,0.3,0.3,2025-09-10T09:23:46.310848,Worker-18,0
+mistralai/mistral-medium-3,Highly Unlikely,3,0.1,0.1,2025-09-10T09:23:46.335937,Worker-15,0
+anthropic/claude-3.7-sonnet,Almost Certain,3,0.95,0.95,2025-09-10T09:23:47.234669,Worker-19,0
+anthropic/claude-3.7-sonnet,Almost Certain,1,0.95,0.95,2025-09-10T09:23:47.359406,Worker-20,0
+anthropic/claude-3.7-sonnet,Highly Likely,1,0.85,0.85,2025-09-10T09:23:47.392481,Worker-16,0
+anthropic/claude-3.7-sonnet,Very Good Chance,1,0.8,0.8,2025-09-10T09:23:47.396022,Worker-6,0
+anthropic/claude-3.7-sonnet,Very Good Chance,3,0.85,0.85,2025-09-10T09:23:47.550048,Worker-12,0
+anthropic/claude-3.7-sonnet,We Believe,2,0.7,0.7,2025-09-10T09:23:47.590325,Worker-5,0
+anthropic/claude-3.7-sonnet,We Believe,1,0.8,0.8,2025-09-10T09:23:47.657674,Worker-11,0
+anthropic/claude-3.7-sonnet,Highly Likely,3,0.85,0.85,2025-09-10T09:23:47.663417,Worker-10,0
+anthropic/claude-3.7-sonnet,Highly Likely,2,0.85,0.85,2025-09-10T09:23:47.738409,Worker-17,0
+anthropic/claude-3.7-sonnet,Likely,2,0.7,0.7,2025-09-10T09:23:47.772447,Worker-1,0
+anthropic/claude-3.7-sonnet,Probable,3,0.7,0.7,2025-09-10T09:23:47.824823,Worker-14,0
+anthropic/claude-3.7-sonnet,We Believe,3,0.8,0.8,2025-09-10T09:23:47.826091,Worker-2,0
+anthropic/claude-3.7-sonnet,Likely,1,0.7,0.7,2025-09-10T09:23:47.841312,Worker-7,0
+anthropic/claude-3.7-sonnet,Probable,1,0.7,0.7,2025-09-10T09:23:47.896723,Worker-9,0
+anthropic/claude-3.7-sonnet,Probably,2,0.7,0.7,2025-09-10T09:23:48.131451,Worker-15,0
+anthropic/claude-3.7-sonnet,Probable,2,0.7,0.7,2025-09-10T09:23:48.225181,Worker-4,0
+anthropic/claude-3.7-sonnet,Likely,3,0.7,0.7,2025-09-10T09:23:48.404944,Worker-8,0
+anthropic/claude-3.7-sonnet,Almost Certain,2,0.95,0.95,2025-09-10T09:23:48.407518,Worker-13,0
+anthropic/claude-3.7-sonnet,Very Good Chance,2,0.8,0.8,2025-09-10T09:23:48.692149,Worker-3,0
+anthropic/claude-3.7-sonnet,Probably,1,0.7,0.7,2025-09-10T09:23:48.951444,Worker-18,0
+anthropic/claude-3.7-sonnet,Better than Even,3,0.65,0.65,2025-09-10T09:23:49.240665,Worker-6,0
+anthropic/claude-3.7-sonnet,Probably Not,3,0.2,0.2,2025-09-10T09:23:49.315322,Worker-1,0
+anthropic/claude-3.7-sonnet,Better than Even,1,0.6,0.6,2025-09-10T09:23:49.388574,Worker-20,0
+anthropic/claude-3.7-sonnet,About Even,1,0.5,0.5,2025-09-10T09:23:49.402392,Worker-12,0
+anthropic/claude-3.7-sonnet,Better than Even,2,0.6,0.6,2025-09-10T09:23:49.527929,Worker-16,0
+anthropic/claude-3.7-sonnet,Unlikely,2,0.25,0.25,2025-09-10T09:23:49.562743,Worker-15,0
+anthropic/claude-3.7-sonnet,Probably Not,1,0.2,0.2,2025-09-10T09:23:49.619264,Worker-10,0
+anthropic/claude-3.7-sonnet,Probably,3,0.75,0.75,2025-09-10T09:23:49.649145,Worker-19,0
+anthropic/claude-3.7-sonnet,We Doubt,2,0.2,0.2,2025-09-10T09:23:49.688909,Worker-2,0
+anthropic/claude-3.7-sonnet,Unlikely,1,0.2,0.2,2025-09-10T09:23:49.804222,Worker-9,0
+anthropic/claude-3.7-sonnet,About Even,2,0.5,0.5,2025-09-10T09:23:49.824811,Worker-5,0
+anthropic/claude-3.7-sonnet,About Even,3,0.5,0.5,2025-09-10T09:23:50.001902,Worker-11,0
+anthropic/claude-3.7-sonnet,Unlikely,3,0.3,0.3,2025-09-10T09:23:50.049479,Worker-4,0
+anthropic/claude-3.7-sonnet,We Doubt,3,0.2,0.2,2025-09-10T09:23:50.196684,Worker-7,0
+anthropic/claude-3.7-sonnet,Probably Not,2,0.2,0.2,2025-09-10T09:23:50.209274,Worker-17,0
+anthropic/claude-3.7-sonnet,We Doubt,1,0.15,0.15,2025-09-10T09:23:50.229320,Worker-14,0
+anthropic/claude-3.7-sonnet,Improbable,3,0.2,0.2,2025-09-10T09:23:50.349420,Worker-3,0
+anthropic/claude-3.7-sonnet,Improbable,2,0.15,0.15,2025-09-10T09:23:50.384322,Worker-13,0
+anthropic/claude-3.7-sonnet,Improbable,1,0.15,0.15,2025-09-10T09:23:50.560317,Worker-8,0
+deepseek/deepseek-chat,Almost Certain,3,0.9,0.9,2025-09-10T09:23:51.018992,Worker-7,0
+anthropic/claude-3.7-sonnet,Chances are Slight,1,0.2,0.2,2025-09-10T09:23:51.228554,Worker-18,0
+deepseek/deepseek-chat,Almost Certain,2,0.95,0.95,2025-09-10T09:23:51.261349,Worker-4,0
+anthropic/claude-3.7-sonnet,Chances are Slight,3,0.2,0.2,2025-09-10T09:23:51.357935,Worker-1,0
+anthropic/claude-3.7-sonnet,Highly Unlikely,2,0.15,0.15,2025-09-10T09:23:51.452777,Worker-10,0
+anthropic/claude-3.7-sonnet,Chances are Slight,2,0.2,0.2,2025-09-10T09:23:51.593699,Worker-6,0
+anthropic/claude-3.7-sonnet,Highly Unlikely,1,0.1,0.1,2025-09-10T09:23:51.615111,Worker-15,0
+anthropic/claude-3.7-sonnet,Little Chance,1,0.2,0.2,2025-09-10T09:23:51.653332,Worker-20,0
+deepseek/deepseek-chat,Highly Likely,1,0.85,0.85,2025-09-10T09:23:51.669304,Worker-17,0
+anthropic/claude-3.7-sonnet,Little Chance,3,0.2,0.2,2025-09-10T09:23:51.838278,Worker-16,0
+anthropic/claude-3.7-sonnet,Little Chance,2,0.15,0.15,2025-09-10T09:23:51.932188,Worker-12,0
+anthropic/claude-3.7-sonnet,Almost No Chance,1,0.05,0.05,2025-09-10T09:23:51.974251,Worker-2,0
+deepseek/deepseek-chat,Almost Certain,1,0.9,0.9,2025-09-10T09:23:52.059956,Worker-11,0
+anthropic/claude-3.7-sonnet,Highly Unlikely,3,0.15,0.15,2025-09-10T09:23:52.108699,Worker-19,0
+deepseek/deepseek-chat,Very Good Chance,3,0.85,0.85,2025-09-10T09:23:52.127023,Worker-7,0
+anthropic/claude-3.7-sonnet,Almost No Chance,3,0.05,0.05,2025-09-10T09:23:52.128810,Worker-5,0
+anthropic/claude-3.7-sonnet,Almost No Chance,2,0.05,0.05,2025-09-10T09:23:52.130424,Worker-9,0
+deepseek/deepseek-chat,Probable,2,0.7,0.7,2025-09-10T09:23:52.690311,Worker-17,0
+deepseek/deepseek-chat,We Believe,2,0.7,0.7,2025-09-10T09:23:52.777161,Worker-4,0
+deepseek/deepseek-chat,Probable,3,0.7,0.7,2025-09-10T09:23:52.928242,Worker-16,0
+deepseek/deepseek-chat,Likely,3,0.7,0.7,2025-09-10T09:23:52.940834,Worker-15,0
+deepseek/deepseek-chat,Probably,3,0.7,0.7,2025-09-10T09:23:52.977587,Worker-11,0
+deepseek/deepseek-chat,Better than Even,2,0.6,0.6,2025-09-10T09:23:53.032451,Worker-7,0
+deepseek/deepseek-chat,We Believe,1,0.75,0.75,2025-09-10T09:23:53.223113,Worker-18,0
+deepseek/deepseek-chat,Highly Likely,2,0.9,0.9,2025-09-10T09:23:53.240543,Worker-14,0
+deepseek/deepseek-chat,Better than Even,1,0.6,0.6,2025-09-10T09:23:53.324259,Worker-19,0
+deepseek/deepseek-chat,Very Good Chance,1,0.85,0.85,2025-09-10T09:23:53.461826,Worker-13,0
+deepseek/deepseek-chat,Probably,1,0.7,0.7,2025-09-10T09:23:53.518364,Worker-12,0
+deepseek/deepseek-chat,Highly Likely,3,0.8,0.8,2025-09-10T09:23:53.578772,Worker-3,0
+deepseek/deepseek-chat,Probably,2,0.7,0.7,2025-09-10T09:23:53.580853,Worker-2,0
+deepseek/deepseek-chat,About Even,2,0.5,0.5,2025-09-10T09:23:53.777582,Worker-17,0
+deepseek/deepseek-chat,Likely,1,0.7,0.7,2025-09-10T09:23:53.835242,Worker-10,0
+deepseek/deepseek-chat,About Even,1,0.5,0.5,2025-09-10T09:23:54.110820,Worker-9,0
+deepseek/deepseek-chat,Unlikely,1,0.3,0.3,2025-09-10T09:23:54.270611,Worker-19,0
+deepseek/deepseek-chat,We Doubt,3,0.3,0.3,2025-09-10T09:23:54.296421,Worker-14,0
+deepseek/deepseek-chat,Probably Not,3,0.3,0.3,2025-09-10T09:23:54.299352,Worker-11,0
+deepseek/deepseek-chat,Probably Not,1,0.4,0.4,2025-09-10T09:23:54.406403,Worker-16,0
+deepseek/deepseek-chat,Likely,2,0.7,0.7,2025-09-10T09:23:54.442623,Worker-6,0
+deepseek/deepseek-chat,Very Good Chance,2,0.85,0.85,2025-09-10T09:23:54.467698,Worker-8,0
+deepseek/deepseek-chat,We Doubt,2,0.3,0.3,2025-09-10T09:23:54.649866,Worker-18,0
+deepseek/deepseek-chat,We Believe,3,0.7,0.7,2025-09-10T09:23:54.714960,Worker-1,0
+deepseek/deepseek-chat,We Doubt,1,0.3,0.3,2025-09-10T09:23:54.774016,Worker-7,0
+deepseek/deepseek-chat,Improbable,1,0.2,0.2,2025-09-10T09:23:54.877258,Worker-3,0
+deepseek/deepseek-chat,Chances are Slight,1,0.2,0.2,2025-09-10T09:23:55.081065,Worker-10,0
+deepseek/deepseek-chat,Better than Even,3,0.6,0.6,2025-09-10T09:23:55.344557,Worker-5,0
+deepseek/deepseek-chat,Chances are Slight,2,0.2,0.2,2025-09-10T09:23:55.349683,Worker-9,0
+deepseek/deepseek-chat,Probable,1,0.7,0.7,2025-09-10T09:23:55.352456,Worker-20,0
+deepseek/deepseek-chat,Little Chance,3,0.1,0.1,2025-09-10T09:23:55.416318,Worker-16,0
+deepseek/deepseek-chat,Improbable,2,0.2,0.2,2025-09-10T09:23:55.512741,Worker-2,0
+deepseek/deepseek-chat,Improbable,3,0.2,0.2,2025-09-10T09:23:55.520223,Worker-17,0
+deepseek/deepseek-chat,Little Chance,2,0.2,0.2,2025-09-10T09:23:55.529809,Worker-11,0
+deepseek/deepseek-chat,Chances are Slight,3,0.2,0.2,2025-09-10T09:23:55.549575,Worker-19,0
+deepseek/deepseek-chat,Highly Unlikely,1,0.1,0.1,2025-09-10T09:23:55.763903,Worker-6,0
+google/gemma-3-4b-it,Almost Certain,2,0.99,0.99,2025-09-10T09:23:55.939847,Worker-5,0
+google/gemma-3-4b-it,Very Good Chance,3,0.8,0.8,2025-09-10T09:23:55.981218,Worker-19,0
+deepseek/deepseek-chat,About Even,3,0.5,0.5,2025-09-10T09:23:55.988747,Worker-4,0
+deepseek/deepseek-chat,Probably Not,2,0.3,0.3,2025-09-10T09:23:56.011237,Worker-15,0
+google/gemma-3-4b-it,Highly Likely,3,0.9,0.9,2025-09-10T09:23:56.028184,Worker-2,0
+google/gemma-3-4b-it,Very Good Chance,2,0.8,0.8,2025-09-10T09:23:56.033733,Worker-11,0
+google/gemma-3-4b-it,Highly Likely,1,0.95,0.95,2025-09-10T09:23:56.101907,Worker-20,0
+google/gemma-3-4b-it,Very Good Chance,1,0.8,0.8,2025-09-10T09:23:56.118110,Worker-17,0
+deepseek/deepseek-chat,Almost No Chance,1,0.05,0.05,2025-09-10T09:23:56.120060,Worker-1,0
+deepseek/deepseek-chat,Almost No Chance,3,0.05,0.05,2025-09-10T09:23:56.170454,Worker-3,0
+google/gemma-3-4b-it,We Believe,1,0.8,0.8,2025-09-10T09:23:56.187813,Worker-6,0
+google/gemma-3-4b-it,Highly Likely,2,0.9,0.9,2025-09-10T09:23:56.273688,Worker-16,0
+google/gemma-3-4b-it,Almost Certain,3,0.99,0.99,2025-09-10T09:23:56.282167,Worker-9,0
+deepseek/deepseek-chat,Highly Unlikely,3,0.1,0.1,2025-09-10T09:23:56.290523,Worker-18,0
+google/gemma-3-4b-it,Likely,1,0.75,0.75,2025-09-10T09:23:56.453757,Worker-4,0
+google/gemma-3-4b-it,Likely,2,0.75,0.75,2025-09-10T09:23:56.460628,Worker-15,0
+google/gemma-3-4b-it,Probably,2,0.65,0.65,2025-09-10T09:23:56.549465,Worker-3,0
+google/gemma-3-4b-it,We Believe,3,0.9,0.9,2025-09-10T09:23:56.608707,Worker-19,0
+google/gemma-3-4b-it,Almost Certain,1,0.99,0.99,2025-09-10T09:23:56.626760,Worker-10,0
+google/gemma-3-4b-it,Probable,3,0.75,0.75,2025-09-10T09:23:56.663380,Worker-17,0
+google/gemma-3-4b-it,Probably,3,0.65,0.65,2025-09-10T09:23:56.691333,Worker-6,0
+google/gemma-3-4b-it,Probable,1,0.75,0.75,2025-09-10T09:23:56.694895,Worker-11,0
+google/gemma-3-4b-it,Probably,1,0.65,0.65,2025-09-10T09:23:56.719040,Worker-1,0
+google/gemma-3-4b-it,Likely,3,0.75,0.75,2025-09-10T09:23:56.809444,Worker-2,0
+google/gemma-3-4b-it,Better than Even,1,0.75,0.75,2025-09-10T09:23:56.840099,Worker-16,0
+google/gemma-3-4b-it,Better than Even,3,0.75,0.75,2025-09-10T09:23:56.866509,Worker-18,0
+google/gemma-3-4b-it,We Believe,2,0.9,0.9,2025-09-10T09:23:56.896040,Worker-5,0
+google/gemma-3-4b-it,About Even,1,0.5,0.5,2025-09-10T09:23:57.071486,Worker-4,0
+google/gemma-3-4b-it,Probably Not,3,0.1,0.1,2025-09-10T09:23:57.117379,Worker-17,0
+google/gemma-3-4b-it,Probably Not,1,0.1,0.1,2025-09-10T09:23:57.170838,Worker-19,0
+deepseek/deepseek-chat,Unlikely,3,0.3,0.3,2025-09-10T09:23:57.175043,Worker-12,0
+google/gemma-3-4b-it,About Even,2,0.5,0.5,2025-09-10T09:23:57.187906,Worker-15,0
+google/gemma-3-4b-it,We Doubt,2,0.1,0.1,2025-09-10T09:23:57.210344,Worker-11,0
+google/gemma-3-4b-it,Better than Even,2,0.75,0.75,2025-09-10T09:23:57.222543,Worker-9,0
+google/gemma-3-4b-it,We Doubt,1,0.1,0.1,2025-09-10T09:23:57.264555,Worker-6,0
+google/gemma-3-4b-it,Unlikely,1,0.1,0.1,2025-09-10T09:23:57.270513,Worker-2,0
+google/gemma-3-4b-it,Improbable,1,0.05,0.05,2025-09-10T09:23:57.278606,Worker-5,0
+deepseek/deepseek-chat,Highly Unlikely,2,0.1,0.1,2025-09-10T09:23:57.474306,Worker-8,0
+google/gemma-3-4b-it,Chances are Slight,1,0.2,0.2,2025-09-10T09:23:57.550966,Worker-19,0
+google/gemma-3-4b-it,Probable,2,0.75,0.75,2025-09-10T09:23:57.561374,Worker-20,0
+google/gemma-3-4b-it,Probably Not,2,0.1,0.1,2025-09-10T09:23:57.570662,Worker-10,0
+deepseek/deepseek-chat,Unlikely,2,0.2,0.2,2025-09-10T09:23:57.577545,Worker-13,0
+google/gemma-3-4b-it,Improbable,2,0.05,0.05,2025-09-10T09:23:57.584810,Worker-4,0
+google/gemma-3-4b-it,About Even,3,0.5,0.5,2025-09-10T09:23:57.596912,Worker-3,0
+google/gemma-3-4b-it,Unlikely,2,0.1,0.1,2025-09-10T09:23:57.604582,Worker-16,0
+google/gemma-3-4b-it,We Doubt,3,0.1,0.1,2025-09-10T09:23:57.622154,Worker-1,0
+google/gemma-3-4b-it,Unlikely,3,0.1,0.1,2025-09-10T09:23:57.646860,Worker-18,0
+google/gemma-3-4b-it,Chances are Slight,3,0.2,0.2,2025-09-10T09:23:57.655361,Worker-15,0
+google/gemma-3-4b-it,Improbable,3,0.05,0.05,2025-09-10T09:23:57.662056,Worker-17,0
+google/gemma-3-4b-it,Little Chance,2,0.1,0.1,2025-09-10T09:23:57.671264,Worker-9,0
+google/gemma-3-4b-it,Highly Unlikely,2,0.05,0.05,2025-09-10T09:23:57.672776,Worker-5,0
+google/gemma-3-4b-it,Highly Unlikely,1,0.05,0.05,2025-09-10T09:23:57.754039,Worker-2,0
+google/gemma-3-4b-it,Little Chance,1,0.1,0.1,2025-09-10T09:23:57.879119,Worker-11,0
+google/gemma-3-4b-it,Chances are Slight,2,0.2,0.2,2025-09-10T09:23:57.882061,Worker-12,0
+deepseek/deepseek-chat,Little Chance,1,0.1,0.1,2025-09-10T09:23:57.895463,Worker-14,0
+google/gemma-3-4b-it,Almost No Chance,1,0.05,0.05,2025-09-10T09:23:58.097334,Worker-19,0
+google/gemma-3-4b-it,Almost No Chance,2,0.05,0.05,2025-09-10T09:23:58.192964,Worker-20,0
+deepseek/deepseek-chat,Almost No Chance,2,0.01,0.01,2025-09-10T09:23:58.208544,Worker-7,0
+google/gemma-3-4b-it,Almost No Chance,3,0.05,0.05,2025-09-10T09:23:58.212206,Worker-10,0
+google/gemma-3-4b-it,Highly Unlikely,3,0.05,0.05,2025-09-10T09:23:58.601669,Worker-8,0
+anthropic/claude-3.7-sonnet:thinking,Almost Certain,2,0.95,0.95,2025-09-10T09:24:02.796142,Worker-13,0
+anthropic/claude-3.7-sonnet:thinking,Very Good Chance,2,0.8,0.8,2025-09-10T09:24:02.861379,Worker-15,0
+anthropic/claude-3.7-sonnet:thinking,Almost Certain,1,0.95,0.95,2025-09-10T09:24:03.089865,Worker-6,0
+anthropic/claude-3.7-sonnet:thinking,Probable,3,0.75,0.75,2025-09-10T09:24:03.122975,Worker-7,0
+anthropic/claude-3.7-sonnet:thinking,Very Good Chance,1,0.85,0.85,2025-09-10T09:24:03.315073,Worker-18,0
+anthropic/claude-3.7-sonnet:thinking,Highly Likely,3,0.85,0.85,2025-09-10T09:24:03.633886,Worker-1,0
+anthropic/claude-3.7-sonnet:thinking,We Believe,3,0.8,0.8,2025-09-10T09:24:03.665330,Worker-2,0
+anthropic/claude-3.7-sonnet:thinking,Highly Likely,1,0.85,0.85,2025-09-10T09:24:03.696061,Worker-3,0
+anthropic/claude-3.7-sonnet:thinking,Highly Likely,2,0.85,0.85,2025-09-10T09:24:04.067540,Worker-16,0
+anthropic/claude-3.7-sonnet:thinking,Likely,2,0.7,0.7,2025-09-10T09:24:04.114910,Worker-12,0
+anthropic/claude-3.7-sonnet:thinking,Likely,3,0.7,0.7,2025-09-10T09:24:04.156443,Worker-14,0
+anthropic/claude-3.7-sonnet:thinking,Likely,1,0.75,0.75,2025-09-10T09:24:04.311036,Worker-11,0
+anthropic/claude-3.7-sonnet:thinking,We Believe,2,0.75,0.75,2025-09-10T09:24:04.606992,Worker-5,0
+anthropic/claude-3.7-sonnet:thinking,Probably,1,0.75,0.75,2025-09-10T09:24:04.691156,Worker-10,0
+anthropic/claude-3.7-sonnet:thinking,Probably,2,0.75,0.75,2025-09-10T09:24:05.091253,Worker-8,0
+anthropic/claude-3.7-sonnet:thinking,Probable,2,0.7,0.7,2025-09-10T09:24:05.186601,Worker-20,0
+anthropic/claude-3.7-sonnet:thinking,Very Good Chance,3,0.8,0.8,2025-09-10T09:24:05.390785,Worker-17,0
+anthropic/claude-3.7-sonnet:thinking,Almost Certain,3,0.95,0.95,2025-09-10T09:24:05.449204,Worker-4,0
+anthropic/claude-3.7-sonnet:thinking,Probable,1,0.7,0.7,2025-09-10T09:24:05.527228,Worker-19,0
+anthropic/claude-3.7-sonnet:thinking,We Believe,1,0.75,0.75,2025-09-10T09:24:06.182868,Worker-9,0
+anthropic/claude-3.7-sonnet:thinking,About Even,1,0.5,0.5,2025-09-10T09:24:08.045053,Worker-18,0
+anthropic/claude-3.7-sonnet:thinking,About Even,2,0.5,0.5,2025-09-10T09:24:08.229813,Worker-1,0
+anthropic/claude-3.7-sonnet:thinking,Probably,3,0.7,0.7,2025-09-10T09:24:08.454757,Worker-13,0
+anthropic/claude-3.7-sonnet:thinking,Better than Even,2,0.6,0.6,2025-09-10T09:24:08.753220,Worker-6,0
+anthropic/claude-3.7-sonnet:thinking,Better than Even,1,0.6,0.6,2025-09-10T09:24:08.834052,Worker-15,0
+anthropic/claude-3.7-sonnet:thinking,About Even,3,0.5,0.5,2025-09-10T09:24:09.583184,Worker-2,0
+anthropic/claude-3.7-sonnet:thinking,Unlikely,1,0.25,0.25,2025-09-10T09:24:10.685627,Worker-10,0
+anthropic/claude-3.7-sonnet:thinking,Unlikely,2,0.2,0.2,2025-09-10T09:24:10.696918,Worker-8,0
+anthropic/claude-3.7-sonnet:thinking,We Doubt,2,0.25,0.25,2025-09-10T09:24:10.852121,Worker-11,0
+anthropic/claude-3.7-sonnet:thinking,We Doubt,1,0.2,0.2,2025-09-10T09:24:10.879969,Worker-14,0
+anthropic/claude-3.7-sonnet:thinking,We Doubt,3,0.25,0.25,2025-09-10T09:24:10.974072,Worker-5,0
+anthropic/claude-3.7-sonnet:thinking,Improbable,1,0.2,0.2,2025-09-10T09:24:11.021351,Worker-17,0
+anthropic/claude-3.7-sonnet:thinking,Better than Even,3,0.6,0.6,2025-09-10T09:24:11.826076,Worker-7,0
+anthropic/claude-3.7-sonnet:thinking,Probably Not,3,0.25,0.25,2025-09-10T09:24:12.165017,Worker-12,0
+anthropic/claude-3.7-sonnet:thinking,Unlikely,3,0.25,0.25,2025-09-10T09:24:12.167268,Worker-20,0
+anthropic/claude-3.7-sonnet:thinking,Improbable,3,0.15,0.15,2025-09-10T09:24:12.314931,Worker-19,0
+anthropic/claude-3.7-sonnet:thinking,Improbable,2,0.2,0.2,2025-09-10T09:24:12.436776,Worker-4,0
+anthropic/claude-3.7-sonnet:thinking,Chances are Slight,1,0.2,0.2,2025-09-10T09:24:13.009132,Worker-9,0
+anthropic/claude-3.7-sonnet:thinking,Probably Not,1,0.3,0.3,2025-09-10T09:24:13.401013,Worker-3,0
+google/gemma-3-4b-it,Little Chance,3,0.1,0.1,2025-09-10T09:24:13.490204,Worker-17,1
+anthropic/claude-3.7-sonnet:thinking,Chances are Slight,2,0.15,0.15,2025-09-10T09:24:13.512813,Worker-18,0
+anthropic/claude-3.7-sonnet:thinking,Probably Not,2,0.2,0.2,2025-09-10T09:24:14.502675,Worker-16,0
+anthropic/claude-3.7-sonnet:thinking,Highly Unlikely,1,0.1,0.1,2025-09-10T09:24:14.812133,Worker-2,0
+anthropic/claude-3.7-sonnet:thinking,Little Chance,1,0.2,0.2,2025-09-10T09:24:15.488435,Worker-13,0
+anthropic/claude-3.7-sonnet:thinking,Little Chance,3,0.2,0.2,2025-09-10T09:24:16.269250,Worker-15,0
+anthropic/claude-3.7-sonnet:thinking,Highly Unlikely,2,0.1,0.1,2025-09-10T09:24:16.348700,Worker-10,0
+anthropic/claude-3.7-sonnet:thinking,Almost No Chance,2,0.03,0.03,2025-09-10T09:24:16.683412,Worker-14,0
+anthropic/claude-3.7-sonnet:thinking,Little Chance,2,0.15,0.15,2025-09-10T09:24:17.051953,Worker-6,0
+anthropic/claude-3.7-sonnet:thinking,Highly Unlikely,3,0.1,0.1,2025-09-10T09:24:17.125889,Worker-8,0
+anthropic/claude-3.7-sonnet:thinking,Chances are Slight,3,0.15,0.15,2025-09-10T09:24:17.998648,Worker-1,0
+anthropic/claude-3.7-sonnet:thinking,Almost No Chance,1,0.03,0.03,2025-09-10T09:24:18.643871,Worker-11,0
+anthropic/claude-3.7-sonnet:thinking,Almost No Chance,3,0.02,0.02,2025-09-10T09:24:20.811118,Worker-5,0

@@ -1,0 +1,19 @@
+model,word,repeat,raw_response,extracted_probability,timestamp,thread_id,retry_count
+openrouter/sonoma-dusk-alpha,Very Good Chance,1,0.75,0.75,2025-09-09T22:38:57.343142,Worker-11,0
+openrouter/sonoma-dusk-alpha,Very Good Chance,2,0.8,0.8,2025-09-09T22:38:57.424303,Worker-12,0
+openrouter/sonoma-dusk-alpha,Highly Likely,2,0.9,0.9,2025-09-09T22:38:57.517587,Worker-10,0
+openrouter/sonoma-dusk-alpha,Almost Certain,2,0.95,0.95,2025-09-09T22:38:57.528375,Worker-8,0
+openrouter/sonoma-dusk-alpha,Almost Certain,1,0.95,0.95,2025-09-09T22:38:57.531135,Worker-7,0
+openrouter/sonoma-dusk-alpha,Highly Likely,1,0.9,0.9,2025-09-09T22:38:57.538868,Worker-9,0
+nvidia/nemotron-nano-9b-v2,Highly Likely,2,,,2025-09-09T22:38:57.578591,Worker-4,0
+nvidia/nemotron-nano-9b-v2,Very Good Chance,2,,,2025-09-09T22:38:57.617005,Worker-6,0
+openrouter/sonoma-sky-alpha,Almost Certain,2,0.99,0.99,2025-09-09T22:38:58.434459,Worker-14,0
+openrouter/sonoma-sky-alpha,Highly Likely,1,0.9,0.9,2025-09-09T22:38:58.536936,Worker-15,0
+openrouter/sonoma-sky-alpha,Very Good Chance,1,0.85,0.85,2025-09-09T22:38:58.614212,Worker-17,0
+openrouter/sonoma-sky-alpha,Highly Likely,2,0.9,0.9,2025-09-09T22:38:58.652326,Worker-16,0
+openrouter/sonoma-sky-alpha,Very Good Chance,2,0.85,0.85,2025-09-09T22:38:58.757053,Worker-18,0
+openrouter/sonoma-sky-alpha,Almost Certain,1,0.95,0.95,2025-09-09T22:38:58.785279,Worker-13,0
+nvidia/nemotron-nano-9b-v2,Almost Certain,1,0.95,0.95,2025-09-09T22:38:58.954636,Worker-1,0
+nvidia/nemotron-nano-9b-v2,Very Good Chance,1,0.95,0.95,2025-09-09T22:38:59.635071,Worker-5,0
+nvidia/nemotron-nano-9b-v2,Almost Certain,2,0.95,0.95,2025-09-09T22:38:59.948288,Worker-2,0
+nvidia/nemotron-nano-9b-v2,Highly Likely,1,0.85,0.85,2025-09-09T22:39:12.474480,Worker-3,0

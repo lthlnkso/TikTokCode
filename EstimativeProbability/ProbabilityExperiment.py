@@ -9,10 +9,14 @@ import csv
 import re
 import argparse
 import time
+import threading
+from queue import Queue, PriorityQueue
 from datetime import datetime
+from dataclasses import dataclass, field
+from typing import Any
 from openrouter_client import OpenRouterClient
 
-words = [
+paper_words = [
     "Almost Certain",
     "Highly Likely",
     "Very Good Chance",
@@ -32,8 +36,26 @@ words = [
     "Almost No Chance",
 ]
 
+words = [
+    "Definite",
+    "Almost certain",
+    "Highly probable",
+    "A good chance",
+    "Likely",
+    "Quite likely",
+    "Better than even",
+    "Probable",
+    "Possible",
+    "Improbable",
+    "Highly unlikely",
+    "Unlikely",
+    "Seldom",
+    "Impossible",
+    "Rare",
+]
 
-models = [
+
+free_models = [
     "nvidia/nemotron-nano-9b-v2",
     "openrouter/sonoma-dusk-alpha",
     "openrouter/sonoma-sky-alpha",
@@ -88,6 +110,31 @@ models = [
     "meta-llama/llama-3.3-70b-instruct:free",
 ]
 
+paid_models = [
+    "google/gemini-2.5-flash-lite-preview-06-17",
+    "google/gemini-2.5-flash",
+    "google/gemini-2.5-pro",
+    "x-ai/grok-4",
+    "x-ai/grok-3",
+
+    "anthropic/claude-opus-4.1",
+    "openai/gpt-oss-20b",
+    "openai/gpt-oss-120b",
+    "openai/gpt-5-nano",
+    "openai/gpt-5-mini",
+    "openai/gpt-5-chat",
+    "deepseek/deepseek-chat-v3.1",
+    "moonshotai/kimi-k2-0905",
+    "openrouter/sonoma-sky-alpha",
+    "openrouter/sonoma-dusk-alpha",
+    "mistralai/mistral-medium-3",
+    "anthropic/claude-3.7-sonnet",
+    "deepseek/deepseek-chat",
+    "google/gemma-3-4b-it",
+    "anthropic/claude-3.7-sonnet:thinking",
+
+]
+
 prompt = """You will be given a probability word. Your task is to estimate the numerical probability that word conveys on a scale of 0 to 1.
 
 CRITICAL INSTRUCTIONS:
@@ -128,9 +175,169 @@ def extract_number(response_text):
     return None
 
 
-def run_experiment(words_to_test, models_to_test, n_repeats=3, output_filename=None):
-    """Run the probability estimation experiment."""
+@dataclass
+class RequestItem:
+    """A request item for the retry queue."""
+    model: str
+    word: str
+    repeat: int
+    retry_count: int = 0
+    priority: int = field(init=False)
+    _creation_time: float = field(init=False, default_factory=time.time)
+    
+    def __post_init__(self):
+        # Lower numbers = higher priority. Base priority on retry count.
+        self.priority = self.retry_count
+    
+    def __lt__(self, other):
+        # For PriorityQueue comparison when priorities are equal
+        if self.priority != other.priority:
+            return self.priority < other.priority
+        # If same priority, use creation time (FIFO)
+        return self._creation_time < other._creation_time
+
+
+class ModelRateLimits:
+    """Manages rate limit information for OpenRouter models."""
+    
+    def __init__(self, client: OpenRouterClient):
+        self.client = client
+        self.global_limits = self._check_global_limits()
+        
+    def _check_global_limits(self):
+        """Check global account limits via OpenRouter API."""
+        try:
+            import requests
+            response = requests.get(
+                "https://openrouter.ai/api/v1/auth/key",
+                headers={"Authorization": f"Bearer {self.client.api_key}"}
+            )
+            
+            if response.status_code == 200:
+                data = response.json()
+                limits = {
+                    "requests_per_minute": 20,  # Standard for free models
+                    "requests_per_day": 50 if data.get("usage", {}).get("credits", 0) < 10 else 1000,
+                    "current_usage": data.get("usage", {}),
+                    "balance": data.get("usage", {}).get("credits", 0)
+                }
+                print(f"💳 Account balance: ${limits['balance']:.2f}")
+                print(f"📊 Daily limit: {limits['requests_per_day']} requests")
+                return limits
+            else:
+                print(f"⚠️  Could not check account limits: {response.status_code}")
+                return {"requests_per_minute": 20, "requests_per_day": 50}
+                
+        except Exception as e:
+            print(f"⚠️  Error checking account limits: {e}")
+            return {"requests_per_minute": 20, "requests_per_day": 50}
+    
+    def get_suggested_delay(self, retry_count: int) -> float:
+        """Get suggested delay based on retry count."""
+        # Exponential backoff: 1s, 2s, 4s, 8s, then 10s max
+        return min(2 ** retry_count, 10.0)
+
+
+def smart_api_worker(task_queue: PriorityQueue, results_queue: Queue, rate_limits: ModelRateLimits, 
+                     progress_lock: threading.Lock, progress_counter: list, total_tasks: int, max_retries: int = 3):
+    """Smart worker function with retry logic and exponential backoff."""
     client = OpenRouterClient()
+    
+    while True:
+        try:
+            # Get next task from priority queue (timeout prevents hanging)
+            priority, request_item = task_queue.get(timeout=1)
+            if request_item is None:  # Poison pill to stop worker
+                break
+            
+            # Update progress
+            with progress_lock:
+                progress_counter[0] += 1
+                current_progress = progress_counter[0]
+            
+            # Wait based on retry count (exponential backoff)
+            if request_item.retry_count > 0:
+                delay = rate_limits.get_suggested_delay(request_item.retry_count)
+                time.sleep(delay)
+            
+            try:
+                # Create the full prompt
+                full_prompt = f"{prompt}\n\nProbability word: \"{request_item.word}\""
+                
+                # Get response from model
+                messages = [{"role": "user", "content": full_prompt}]
+                response = client.chat_completion(messages, model=request_item.model)
+                raw_response = response["choices"][0]["message"]["content"]
+                
+                # Extract number from response
+                probability = extract_number(raw_response)
+                
+                # Success! Record result
+                result = {
+                    "model": request_item.model,
+                    "word": request_item.word,
+                    "repeat": request_item.repeat,
+                    "raw_response": raw_response.strip(),
+                    "extracted_probability": probability,
+                    "timestamp": datetime.now().isoformat(),
+                    "thread_id": threading.current_thread().name,
+                    "retry_count": request_item.retry_count
+                }
+                
+                status = "✅" if probability is not None else "❌"
+                retry_info = f" (retry {request_item.retry_count})" if request_item.retry_count > 0 else ""
+                print(f"    [{current_progress:4d}/{total_tasks}] {status} {request_item.model[:20]:<20} | {request_item.word[:15]:<15} | {probability if probability else 'REJECTED'}{retry_info}")
+                
+                results_queue.put(result)
+                
+            except Exception as e:
+                error_type = type(e).__name__
+                error_message = str(e)
+                
+                # Determine if this is retryable
+                is_retryable = False
+                if "429" in error_message or "rate limit" in error_message.lower():
+                    is_retryable = True
+                    status_msg = "⏳ RATE LIMITED"
+                elif "502" in error_message or "503" in error_message or "timeout" in error_message.lower():
+                    is_retryable = True
+                    status_msg = "🔄 SERVER ERROR"
+                elif "402" in error_message or "credit" in error_message.lower():
+                    status_msg = "💳 CREDIT ERROR"
+                else:
+                    status_msg = f"❌ ERROR: {error_type}"
+                
+                # Retry logic
+                if is_retryable and request_item.retry_count < max_retries:
+                    request_item.retry_count += 1
+                    request_item.priority = request_item.retry_count  # Lower priority for retries
+                    task_queue.put((request_item.priority, request_item))
+                    retry_info = f" (will retry {request_item.retry_count}/{max_retries})"
+                else:
+                    # Give up, record failure
+                    result = {
+                        "model": request_item.model,
+                        "word": request_item.word,
+                        "repeat": request_item.repeat,
+                        "raw_response": f"ERROR ({error_type}): {e}",
+                        "extracted_probability": None,
+                        "timestamp": datetime.now().isoformat(),
+                        "thread_id": threading.current_thread().name,
+                        "retry_count": request_item.retry_count
+                    }
+                    results_queue.put(result)
+                    retry_info = f" (gave up after {request_item.retry_count} retries)" if request_item.retry_count > 0 else ""
+                
+                print(f"    [{current_progress:4d}/{total_tasks}] {status_msg} {request_item.model[:20]:<20} | {request_item.word[:15]:<15}{retry_info}")
+            
+            task_queue.task_done()
+            
+        except:  # Queue timeout or other issues
+            break
+
+
+def run_experiment(words_to_test, models_to_test, n_repeats=3, output_filename=None, max_threads=10, max_retries=3):
+    """Run the probability estimation experiment with smart retry logic."""
     
     # Generate filename with current date if not provided
     if output_filename is None:
@@ -139,91 +346,84 @@ def run_experiment(words_to_test, models_to_test, n_repeats=3, output_filename=N
     else:
         filename = output_filename
     
-    results = []
-    
     print(f"Running experiment with {len(models_to_test)} models and {len(words_to_test)} words...")
     print(f"Repeating each combination {n_repeats} times")
+    print(f"Using {max_threads} threads with smart retry logic")
+    print(f"Max retries per request: {max_retries}")
     print(f"Results will be saved to: {filename}")
     
-    total_queries = len(models_to_test) * len(words_to_test) * n_repeats
-    query_count = 0
+    # Initialize rate limit checker
+    client = OpenRouterClient()
+    rate_limits = ModelRateLimits(client)
     
+    # Create priority task queue and results queue
+    task_queue = PriorityQueue()
+    results_queue = Queue()
+    
+    # Add all tasks to priority queue
+    total_tasks = 0
     for model in models_to_test:
-        print(f"\nTesting model: {model}")
-        
         for word in words_to_test:
-            print(f"  Word: '{word}'")
-            
-            for repeat in range(n_repeats):
-                query_count += 1
-                print(f"    Attempt {repeat + 1}/{n_repeats} ({query_count}/{total_queries})")
-                
-                try:
-                    # Create the full prompt
-                    full_prompt = f"{prompt}\n\nProbability word: \"{word}\""
-                    
-                    # Get response from model
-                    messages = [{"role": "user", "content": full_prompt}]
-                    response = client.chat_completion(messages, model=model)
-                    raw_response = response["choices"][0]["message"]["content"]
-                    
-                    # Extract number from response
-                    probability = extract_number(raw_response)
-                    
-                    # Record result
-                    result = {
-                        "model": model,
-                        "word": word,
-                        "repeat": repeat + 1,
-                        "raw_response": raw_response.strip(),
-                        "extracted_probability": probability,
-                        "timestamp": datetime.now().isoformat()
-                    }
-                    results.append(result)
-                    
-                    if probability is not None:
-                        print(f"      → ✅ {probability}")
-                    else:
-                        print(f"      → ❌ REJECTED: '{raw_response[:50]}{'...' if len(raw_response) > 50 else ''}'")
-                        
-                except Exception as e:
-                    error_type = type(e).__name__
-                    error_message = str(e)
-                    
-                    # Handle rate limits specifically
-                    if "429" in error_message or "rate limit" in error_message.lower():
-                        print(f"      → ⏳ RATE LIMITED: Waiting 60 seconds...")
-                        time.sleep(60)
-                        # Could retry here, but for now just log and continue
-                    elif "402" in error_message or "credit" in error_message.lower():
-                        print(f"      → 💳 CREDIT ERROR: {e}")
-                        print("      → You may need to add credits to your OpenRouter account")
-                    else:
-                        print(f"      → ❌ ERROR ({error_type}): {e}")
-                    
-                    result = {
-                        "model": model,
-                        "word": word,
-                        "repeat": repeat + 1,
-                        "raw_response": f"ERROR ({error_type}): {e}",
-                        "extracted_probability": None,
-                        "timestamp": datetime.now().isoformat()
-                    }
-                    results.append(result)
-                
-                # Small delay between API calls to respect rate limits
-                # (20 requests/minute = 3 seconds between requests for safety)
-                time.sleep(0.5)
+            for repeat in range(1, n_repeats + 1):
+                request_item = RequestItem(model=model, word=word, repeat=repeat)
+                task_queue.put((request_item.priority, request_item))
+                total_tasks += 1
+    
+    print(f"Total initial tasks: {total_tasks}")
+    print(f"\nProgress format: [processed/total] status model | word | result")
+    print("=" * 80)
+    
+    # Progress tracking
+    progress_lock = threading.Lock()
+    progress_counter = [0]  # Use list for mutable reference
+    
+    # Start smart worker threads
+    threads = []
+    for i in range(max_threads):
+        thread = threading.Thread(
+            target=smart_api_worker,
+            args=(task_queue, results_queue, rate_limits, progress_lock, progress_counter, total_tasks, max_retries),
+            name=f"Worker-{i+1}"
+        )
+        thread.daemon = True
+        thread.start()
+        threads.append(thread)
+    
+    # Wait for all tasks to complete
+    task_queue.join()
+    
+    # Stop worker threads
+    for _ in threads:
+        task_queue.put((0, None))  # Poison pill with priority 0
+    
+    for thread in threads:
+        thread.join(timeout=5)
+    
+    # Collect all results
+    results = []
+    while not results_queue.empty():
+        results.append(results_queue.get())
     
     # Save results to CSV
-    print(f"\nSaving results to {filename}...")
+    print(f"\n{'='*80}")
+    print(f"Saving {len(results)} results to {filename}...")
     with open(filename, 'w', newline='', encoding='utf-8') as csvfile:
-        fieldnames = ["model", "word", "repeat", "raw_response", "extracted_probability", "timestamp"]
+        fieldnames = ["model", "word", "repeat", "raw_response", "extracted_probability", "timestamp", "thread_id", "retry_count"]
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         
         writer.writeheader()
         for result in results:
             writer.writerow(result)
+    
+    # Print retry statistics
+    retry_stats = {}
+    for result in results:
+        retry_count = result.get("retry_count", 0)
+        retry_stats[retry_count] = retry_stats.get(retry_count, 0) + 1
+    
+    print(f"\n📊 Retry Statistics:")
+    for retry_count in sorted(retry_stats.keys()):
+        print(f"   {retry_count} retries: {retry_stats[retry_count]} requests")
     
     print(f"Experiment complete! Results saved to {filename}")
     return results
@@ -236,10 +436,13 @@ def parse_args():
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
-  python3 ProbabilityExperiment.py                     # Run full experiment (all models and words)
+  python3 ProbabilityExperiment.py                     # Run full experiment with free models
+  python3 ProbabilityExperiment.py --paid              # Use paid models (costs money!)
   python3 ProbabilityExperiment.py --models 5          # Test first 5 models only
   python3 ProbabilityExperiment.py --words 10          # Test first 10 words only
-  python3 ProbabilityExperiment.py --models 3 --words 5 --repeats 1 --output test.csv
+  python3 ProbabilityExperiment.py --threads 20        # Use 20 worker threads
+  python3 ProbabilityExperiment.py --retries 5         # Allow up to 5 retries per request
+  python3 ProbabilityExperiment.py --paid --models 3 --words 5 --repeats 1 --threads 5 --retries 2 --output test.csv
         """
     )
     
@@ -258,7 +461,7 @@ Examples:
     )
     
     parser.add_argument(
-        '--repeats', '-r',
+        '--repeats', '-p',
         type=int,
         default=3,
         help='Number of repeats per model/word combination (default: 3)'
@@ -271,6 +474,26 @@ Examples:
         help='Output filename (default: N-ModelSurvey-YYYYMMDD.csv)'
     )
     
+    parser.add_argument(
+        '--threads', '-t',
+        type=int,
+        default=10,
+        help='Number of worker threads (default: 10)'
+    )
+    
+    parser.add_argument(
+        '--retries', '-r',
+        type=int,
+        default=3,
+        help='Maximum number of retries per failed request (default: 3)'
+    )
+    
+    parser.add_argument(
+        '--paid',
+        action='store_true',
+        help='Use paid models instead of free models (costs money!)'
+    )
+    
     return parser.parse_args()
 
 
@@ -279,19 +502,30 @@ def main():
     
     # Use full lists by default, or limit to first N
     test_words = words[:args.words] if args.words else words
-    test_models = models[:args.models] if args.models else models
+    
+    # Choose model set based on --paid flag
+    model_set = paid_models if args.paid else free_models
+    test_models = model_set[:args.models] if args.models else model_set
     n_repeats = args.repeats
     
     total_calls = len(test_models) * len(test_words) * n_repeats
     
     print("=== Probability Estimation Experiment ===")
+    model_type = "💰 PAID" if args.paid else "🆓 FREE"
+    print(f"Model set: {model_type} ({len(test_models)} models)")
     print(f"Testing {len(test_words)} words: {test_words[:3]}{'...' if len(test_words) > 3 else ''}")
     print(f"Testing {len(test_models)} models: {test_models[:3]}{'...' if len(test_models) > 3 else ''}")
     print(f"Repeats per combination: {n_repeats}")
+    print(f"Worker threads: {args.threads}")
     print(f"Total API calls: {total_calls}")
     
     # Usage limits warning
-    if total_calls > 50:
+    if args.paid:
+        print(f"\n💰 WARNING: Using PAID models - this will cost money!")
+        print(f"   • Each API call will charge your account balance")
+        print(f"   • {total_calls} requests may cost significant money")
+        print(f"   • Check model pricing at https://openrouter.ai/")
+    elif total_calls > 50:
         print(f"\n📋 OpenRouter Free Model Limits:")
         print(f"   • 50 requests/day (with <$10 credits)")
         print(f"   • 1000 requests/day (with ≥$10 credits)")
@@ -309,7 +543,7 @@ def main():
             print("Experiment cancelled.")
             return
     
-    results = run_experiment(test_words, test_models, n_repeats, args.output)
+    results = run_experiment(test_words, test_models, n_repeats, args.output, args.threads, args.retries)
     
     # Print summary
     successful_extractions = sum(1 for r in results if r["extracted_probability"] is not None)
